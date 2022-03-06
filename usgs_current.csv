@@ -89,7 +89,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-05T22:56:42.700Z,38.8113333,-122.8223333,2.41,0.4,md,23,58,0.005887,0.02,nc,nc73701816,2022-03-06T05:44:16.057Z,"7km WNW of The Geysers, CA",earthquake,0.21,0.47,0.141,3,reviewed,nc,nc
 2022-03-05T22:56:22.190Z,38.8071671,-122.7926636,3.38,0.66,md,20,61,0.002212,0.02,nc,nc73701811,2022-03-05T23:17:24.699Z,"5km NW of The Geysers, CA",earthquake,0.25,0.61,0.43,3,automatic,nc,nc
 2022-03-05T22:52:16.470Z,34.0211678,-117.6938324,14.66,1.86,ml,16,105,0.1782,0.26,ci,ci40200400,2022-03-05T22:56:01.972Z,"1km NNW of Chino, CA",earthquake,0.75,1.6,0.506,4,automatic,ci,ci
-2022-03-05T22:50:16.110Z,36.4958333,-121.0718333,7.75,1.84,md,34,89,0.04198,0.07,nc,nc73701806,2022-03-06T09:20:15.387Z,"8km ESE of Pinnacles, CA",earthquake,0.22,0.48,0.203,27,reviewed,nc,nc
+2022-03-05T22:50:16.110Z,36.4958333,-121.0718333,7.75,1.84,md,34,89,0.04198,0.07,nc,nc73701806,2022-03-06T11:35:19.265Z,"8km ESE of Pinnacles, CA",earthquake,0.22,0.48,0.203,27,reviewed,nc,nc
 2022-03-05T22:42:21.230Z,19.1453342437744,-155.481170654297,35.1199989318848,2.24000001,md,38,169,,0.140000001,hv,hv72939297,2022-03-05T22:45:35.890Z,"6 km S of Pāhala, Hawaii",earthquake,0.68,0.829999983,1.86000001,14,automatic,hv,hv
 2022-03-05T22:40:27.754Z,3.5839,126.0575,83.33,4.8,mb,,87,3.084,0.88,us,us6000h2g3,2022-03-05T22:54:54.040Z,"211 km SSE of Sarangani, Philippines",earthquake,7.8,8.2,0.087,41,reviewed,us,us
 2022-03-05T22:40:12.680Z,38.7683334,-122.7105026,1.35,1.13,md,12,112,0.008774,0.04,nc,nc73701801,2022-03-06T00:31:13.141Z,"2km WSW of Anderson Springs, CA",earthquake,0.31,0.4,0.24,6,automatic,nc,nc
@@ -187,5 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-05T11:56:54.730Z,44.1983333,-115.0835,12.56,2.03,ml,8,94,0.799,0.21,mb,mb80539744,2022-03-05T15:23:14.380Z,"11 km W of Stanley, Idaho",earthquake,0.67,1.88,0.195,9,reviewed,mb,mb
 2022-03-05T11:40:56.680Z,34.0286667,-117.1543333,10.2,1.32,ml,40,102,0.08252,0.21,ci,ci40200096,2022-03-05T11:44:28.912Z,"4km SE of Redlands, CA",earthquake,0.3,0.77,0.148,28,automatic,ci,ci
 2022-03-05T11:39:14.370Z,61.5444,-149.8765,34,1.5,ml,,,,0.85,ak,ak0222y16dal,2022-03-05T11:42:21.856Z,"4 km ENE of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-03-05T11:36:34.310Z,35.5115,-118.387,8.29,1.63,ml,23,65,0.1855,0.21,ci,ci40200088,2022-03-05T11:40:22.887Z,"13km SE of Bodfish, CA",earthquake,0.35,1.34,0.176,28,automatic,ci,ci
-2022-03-05T11:33:19.240Z,36.721,-121.3801667,1.81,1.02,md,16,161,0.03023,0.07,nc,nc73701616,2022-03-06T09:31:15.452Z,"9km SW of Tres Pinos, CA",earthquake,0.49,0.67,0.193,16,reviewed,nc,nc
