@@ -668,3 +668,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-06T19:12:10.320Z,35.6613333,-117.4855,4.57,1.72,ml,25.0,87.0,0.07705,0.15,ci,ci40200856,2022-03-06T19:15:42.015Z,"14km SSW of Searles Valley, CA",earthquake,0.28,0.75,0.215,26.0,automatic,ci,ci
 2022-03-06T19:24:52.731Z,63.5975,-150.8602,0.2,1.4,ml,,,,0.76,ak,ak0222zte1th,2022-03-06T19:29:07.794Z,"43 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-06T19:35:05.930Z,38.8136673,-122.8101654,3.15,0.69,md,22.0,46.0,0.009714,0.02,nc,nc73702156,2022-03-06T19:36:42.849Z,"6km NW of The Geysers, CA",earthquake,0.25,0.54,0.47,3.0,automatic,nc,nc
+2022-03-06T19:41:02.819Z,61.5939,-149.7958,49.4,1.9,ml,,,,0.2,ak,ak0222zthl5w,2022-03-06T19:45:50.066Z,"4 km SSE of Houston, Alaska",earthquake,,0.9,,,automatic,ak,ak
