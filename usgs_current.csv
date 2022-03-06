@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-06T13:33:46.060Z,19.1986675262451,-155.384170532227,33.1699981689453,2,md,38,165,,0.119999997,hv,hv72940082,2022-03-06T13:36:56.560Z,"9 km E of Pāhala, Hawaii",earthquake,0.6,0.709999979,0.860000014,3,automatic,hv,hv
 2022-03-06T13:16:44.081Z,60.8113,-150.9311,60.5,1.4,ml,,,,0.15,ak,ak0222zprptk,2022-03-06T13:21:35.513Z,"18 km SW of Point Possession, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-03-06T13:13:20.830Z,35.9705009,-120.5241699,3.46,0.58,md,9,126,0.04013,0.02,nc,nc73702076,2022-03-06T13:22:11.912Z,"12km NW of Parkfield, CA",earthquake,0.39,1.49,0.25,3,automatic,nc,nc
-2022-03-06T13:08:59.850Z,38.8323326,-122.817337,1.77,0.85,md,12,57,0.01058,0.01,nc,nc73702071,2022-03-06T13:17:11.124Z,"8km NW of The Geysers, CA",earthquake,0.29,0.99,,1,automatic,nc,nc
+2022-03-06T13:08:59.850Z,38.8323326,-122.817337,1.77,0.85,md,12,57,0.01058,0.01,nc,nc73702071,2022-03-06T13:35:20.003Z,"8km NW of The Geysers, CA",earthquake,0.29,0.99,,1,automatic,nc,nc
 2022-03-06T12:59:27.277Z,38.0524,-118.4505,0,1.2,ml,11,224.06,0.203,0.2431,nn,nn00834963,2022-03-06T13:02:57.158Z,"25 km N of Benton, California",earthquake,,10.3,0.12,7,automatic,nn,nn
 2022-03-06T12:53:45.150Z,38.8235016,-122.8255005,0.93,0.36,md,7,95,0.007454,0,nc,nc73702061,2022-03-06T13:10:14.839Z,"8km NW of The Geysers, CA",earthquake,0.38,1.08,,1,automatic,nc,nc
 2022-03-06T12:42:38.489Z,62.5848,-151.5345,0,2.4,ml,,,,0.94,ak,ak0222zpbuct,2022-03-06T12:58:23.123Z,"40 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -17,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-06T11:39:37.090Z,19.1698341369629,-155.482666015625,34.3600006103516,2.74,ml,51,92,,0.119999997,hv,hv72940012,2022-03-06T11:50:50.040Z,"3 km S of Pāhala, Hawaii",earthquake,0.55,0.649999976,3.53,32,automatic,hv,hv
 2022-03-06T11:36:47.910Z,17.9261666666667,-66.8683333333333,10.4,2.22,md,5,224,,0.18,pr,pr71339243,2022-03-06T13:31:38.600Z,"6 km SSE of Maria Antonia, Puerto Rico",earthquake,2.32,0.98,0.0620696348246561,4,reviewed,pr,pr
 2022-03-06T11:09:26.160Z,19.2111663818359,-155.387496948242,30.7099990844727,1.99000001,md,45,157,,0.129999995,hv,hv72939992,2022-03-06T11:12:37.160Z,"9 km E of Pāhala, Hawaii",earthquake,0.49,0.860000014,1.37,18,automatic,hv,hv
-2022-03-06T10:43:25.210Z,38.8288345,-122.8665009,2.27,2.16,md,41,49,0.00763,0.05,nc,nc73702031,2022-03-06T10:50:13.976Z,"11km WNW of The Geysers, CA",earthquake,0.2,0.29,0.13,16,automatic,nc,nc
+2022-03-06T10:43:25.210Z,38.8288345,-122.8665009,2.27,2.16,md,41,49,0.00763,0.05,nc,nc73702031,2022-03-06T13:34:10.994Z,"11km WNW of The Geysers, CA",earthquake,0.2,0.29,0.13,16,automatic,nc,nc
 2022-03-06T10:37:57.741Z,63.1406,-144.506,5,1.6,ml,,,,0.29,ak,ak0222zo3y2w,2022-03-06T11:56:34.346Z,"44 km WNW of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-06T10:35:44.570Z,33.9665,-116.9363333,16.31,1.65,ml,57,39,0.05812,0.2,ci,ci40200576,2022-03-06T10:47:02.880Z,"6km NE of Beaumont, CA",earthquake,0.23,0.53,0.094,27,automatic,ci,ci
 2022-03-06T10:26:04.750Z,19.1586666107178,-155.476501464844,31.3700008392334,1.83000004,md,40,122,,0.180000007,hv,hv72939957,2022-03-06T10:29:20.860Z,"4 km S of Pāhala, Hawaii",earthquake,0.78,1.02999997,1.80999994,6,automatic,hv,hv
@@ -183,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-05T14:27:05.116Z,38.4006,-119.3918,0.4,1.5,ml,9,115.36,0.064,0.2672,nn,nn00834944,2022-03-05T14:31:33.805Z,"14 km SSE of Walker, California",earthquake,,1.3,0.44,6,automatic,nn,nn
 2022-03-05T14:11:39.340Z,38.8328323,-122.7919998,1.71,0.56,md,12,121,0.005717,0.02,nc,nc73701636,2022-03-05T14:54:09.726Z,"6km WNW of Cobb, CA",earthquake,0.37,0.58,,1,automatic,nc,nc
 2022-03-05T13:54:44.811Z,38.177,-117.8793,10.9,1.2,ml,10,137.88,0.074,0.0979,nn,nn00834943,2022-03-05T13:58:32.695Z,"31 km SE of Mina, Nevada",earthquake,,0.4,0.63,5,automatic,nn,nn
-2022-03-05T13:33:23.904Z,2.6736,99.0195,155.46,5.1,mb,,71,1.983,0.51,us,us6000h2cv,2022-03-05T13:52:13.040Z,"9 km E of Parapat, Indonesia",earthquake,3.8,6.4,0.045,156,reviewed,us,us
