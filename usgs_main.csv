@@ -800,3 +800,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-07T07:58:45.780Z,36.0306667,-120.6061667,-0.73,0.69,md,18.0,99.0,0.03891,0.12,nc,nc73702386,2022-03-07T08:32:10.089Z,"22km NW of Parkfield, CA",earthquake,0.33,0.51,0.288,9.0,reviewed,nc,nc
 2022-03-07T08:39:50.210Z,34.0018333,-119.6558333,15.95,1.92,ml,17.0,133.0,0.3522,0.24,ci,ci40201168,2022-03-07T08:43:23.330Z,"13km WSW of Santa Cruz Is. (E end), CA",earthquake,0.99,9.06,0.159,28.0,automatic,ci,ci
 2022-03-07T08:39:29.960Z,38.8330002,-122.8153305,1.91,0.89,md,22.0,54.0,0.01043,0.02,nc,nc73702396,2022-03-07T08:41:05.151Z,"8km NW of The Geysers, CA",earthquake,0.2,0.42,0.19,4.0,automatic,nc,nc
+2022-03-07T09:03:09.071Z,62.6121,-151.5642,5.5,1.6,ml,,,,0.99,ak,ak02231augvv,2022-03-07T09:06:12.138Z,"43 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-07T08:55:53.270Z,19.2434997558594,-155.406494140625,31.3099994659424,2.41,ml,48.0,131.0,,0.180000007,hv,hv72941187,2022-03-07T09:01:23.060Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.58,0.720000029,3.58,12.0,automatic,hv,hv
