@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-07T09:40:34.580Z,38.8170013,-122.8193359,2.57,0.57,md,12,112,0.009649,0.02,nc,nc73702426,2022-03-07T09:42:09.817Z,"7km NW of The Geysers, CA",earthquake,0.35,0.75,0.34,2,automatic,nc,nc
-2022-03-07T09:37:11.449Z,62.8075,-151.8121,7.3,1.8,ml,,,,0.61,ak,ak02231b1re6,2022-03-07T09:45:56.633Z,"63 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-07T09:46:54.026Z,61.7951,-149.6684,30.1,1.6,ml,,,,0.75,ak,ak02231b3s5d,2022-03-07T09:51:17.682Z,"19 km N of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-07T09:40:34.580Z,38.8170013,-122.8193359,2.57,0.57,md,12,112,0.009649,0.02,nc,nc73702426,2022-03-07T09:49:11.519Z,"7km NW of The Geysers, CA",earthquake,0.35,0.75,0.34,2,automatic,nc,nc
+2022-03-07T09:37:11.449Z,62.8075,-151.8121,7.3,1.8,ml,,,,0.61,ak,ak02231b1re6,2022-03-07T09:49:37.223Z,"63 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-07T09:25:18.940Z,38.8293343,-122.8134995,2.12,2.15,md,36,43,0.006506,0.04,nc,nc73702421,2022-03-07T09:32:10.428Z,"8km NW of The Geysers, CA",earthquake,0.17,0.31,0.09,12,automatic,nc,nc
 2022-03-07T09:20:16.870Z,35.7806667,-117.5945,2.93,1.59,ml,24,66,0.03508,0.16,ci,ci40201184,2022-03-07T09:30:49.770Z,"17km W of Searles Valley, CA",earthquake,0.25,0.43,0.127,21,automatic,ci,ci
-2022-03-07T09:18:22.400Z,37.4959984,-121.8274994,3.52,1.54,md,13,83,0.04715,0.04,nc,nc73702411,2022-03-07T09:28:10.657Z,"10km NE of Milpitas, CA",earthquake,0.24,0.48,0.22,10,automatic,nc,nc
+2022-03-07T09:18:22.400Z,37.4959984,-121.8274994,3.52,1.54,md,13,83,0.04715,0.04,nc,nc73702411,2022-03-07T09:51:15.529Z,"10km NE of Milpitas, CA",earthquake,0.24,0.48,0.22,10,automatic,nc,nc
 2022-03-07T09:03:09.357Z,62.5928,-151.4928,6.6,1.4,ml,,,,0.53,ak,ak02231augvv,2022-03-07T09:15:33.306Z,"38 km WNW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-07T08:55:53.270Z,19.2434997558594,-155.406494140625,31.3099994659424,2.41,ml,48,131,,0.180000007,hv,hv72941187,2022-03-07T09:01:23.060Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.58,0.720000029,3.58,12,automatic,hv,hv
 2022-03-07T08:39:50.210Z,34.0018333,-119.6558333,15.95,1.92,ml,17,133,0.3522,0.24,ci,ci40201168,2022-03-07T08:43:23.330Z,"13km WSW of Santa Cruz Is. (E end), CA",earthquake,0.99,9.06,0.159,28,automatic,ci,ci
