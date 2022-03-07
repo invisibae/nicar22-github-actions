@@ -865,3 +865,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-07T16:21:45.066Z,60.4816,-151.6551,67.8,1.4,ml,,,,0.55,ak,ak02231f4fty,2022-03-07T16:25:52.626Z,"21 km WNW of Kalifornsky, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2022-03-07T09:43:04.632Z,61.0229,-152.3935,13.2,0.7,ml,,,,0.63,ak,ak02231b31fu,2022-03-07T16:21:41.941Z,"68 km W of Tyonek, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2022-03-07T03:47:44.261Z,63.1602,-150.9061,130.4,1.2,ml,,,,0.37,ak,ak022317jdng,2022-03-07T16:10:10.062Z,"58 km SE of Denali National Park, Alaska",earthquake,,1.2,,,reviewed,ak,ak
+2022-03-07T16:46:31.540Z,34.2356667,-116.8993333,11.51,1.29,ml,17.0,60.0,0.03195,0.36,ci,ci40201352,2022-03-07T16:50:07.573Z,"1km SE of Big Bear Lake, CA",earthquake,0.9,1.41,0.335,23.0,automatic,ci,ci
+2022-03-07T07:43:25.390Z,41.9301667,-112.667,5.91,0.43,md,6.0,177.0,0.1707,0.09,uu,uu60484672,2022-03-07T16:53:55.720Z,"5 km SE of Snowville, Utah",earthquake,0.68,31.61,0.205,5.0,reviewed,uu,uu
