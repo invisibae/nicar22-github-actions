@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-07T14:36:44.930Z,38.8235016,-122.762001,2.1,0.85,md,9,205,0.009307,0.02,nc,nc73702456,2022-03-07T14:38:16.922Z,"3km W of Cobb, CA",earthquake,0.66,1.04,,1,automatic,nc,nc
 2022-03-07T14:17:52.190Z,33.4663333,-116.4821667,6.53,1.13,ml,34,81,0.07393,0.2,ci,ci40201248,2022-03-07T14:21:22.716Z,"20km ESE of Anza, CA",earthquake,0.26,0.79,0.151,25,automatic,ci,ci
 2022-03-07T14:04:39.547Z,59.3878,-153.1233,81.8,1.9,ml,,,,0.55,ak,ak02231dtwze,2022-03-07T14:08:35.926Z,"68 km W of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-03-07T13:35:29.060Z,19.1504993438721,-155.471664428711,30.5499992370605,2.49,ml,46,168,,0.180000007,hv,hv72941427,2022-03-07T14:20:54.040Z,"5 km S of Pāhala, Hawaii",earthquake,0.59,0.980000019,3.39,7,automatic,hv,hv
@@ -32,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-07T09:20:16.870Z,35.7806667,-117.5945,2.93,1.59,ml,24,66,0.03508,0.16,ci,ci40201184,2022-03-07T09:30:49.770Z,"17km W of Searles Valley, CA",earthquake,0.25,0.43,0.127,21,automatic,ci,ci
 2022-03-07T09:18:22.400Z,37.4959984,-121.8274994,3.52,1.54,md,13,83,0.04715,0.04,nc,nc73702411,2022-03-07T11:25:13.110Z,"10km NE of Milpitas, CA",earthquake,0.24,0.48,0.22,10,automatic,nc,nc
 2022-03-07T09:03:09.357Z,62.5928,-151.4928,6.6,1.4,ml,,,,0.53,ak,ak02231augvv,2022-03-07T09:15:33.306Z,"38 km WNW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-03-07T08:55:53.270Z,19.2434997558594,-155.406494140625,31.3099994659424,2.41,ml,48,131,,0.180000007,hv,hv72941187,2022-03-07T09:01:23.060Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.58,0.720000029,3.58,12,automatic,hv,hv
+2022-03-07T08:55:53.270Z,19.2434997558594,-155.406494140625,31.3099994659424,2.41,ml,48,131,,0.180000007,hv,hv72941187,2022-03-07T14:38:30.040Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.58,0.720000029,3.58,12,automatic,hv,hv
 2022-03-07T08:39:50.210Z,34.0018333,-119.6558333,15.95,1.92,ml,17,133,0.3522,0.24,ci,ci40201168,2022-03-07T08:43:23.330Z,"13km WSW of Santa Cruz Is. (E end), CA",earthquake,0.99,9.06,0.159,28,automatic,ci,ci
 2022-03-07T08:39:29.960Z,38.8330002,-122.8153305,1.91,0.89,md,22,54,0.01043,0.02,nc,nc73702396,2022-03-07T08:49:11.185Z,"8km NW of The Geysers, CA",earthquake,0.2,0.42,0.19,4,automatic,nc,nc
 2022-03-07T08:37:16.510Z,37.3711667,-90.4011667,9.62,2.02,md,10,71,0.592,0.16,nm,nm60146643,2022-03-07T14:20:38.650Z,"15 km SSW of Cherokee Pass, Missouri",earthquake,0.3,1.53,0.191,8,reviewed,nm,nm
