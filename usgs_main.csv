@@ -923,3 +923,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-07T18:08:01.410Z,38.7616667,-122.735,1.33,0.08,md,16.0,63.0,0.007927,0.04,nc,nc73702511,2022-03-07T21:02:10.701Z,"2km SE of The Geysers, CA",earthquake,0.28,0.36,0.109,3.0,reviewed,nc,nc
 2022-03-07T21:18:07.740Z,34.1165,-117.3263333,-0.06,1.08,ml,23.0,73.0,0.2507,0.27,ci,ci40201624,2022-03-07T21:21:50.452Z,"3km WSW of San Bernardino, CA",earthquake,0.52,31.61,0.123,27.0,automatic,ci,ci
 2022-03-07T19:48:06.340Z,39.4225,-110.3168333,-1.15,1.21,md,4.0,193.0,0.006599,0.02,uu,uu60484727,2022-03-07T21:08:17.280Z,"15 km SSE of Sunnyside, Utah",earthquake,1.16,0.36,0.146,4.0,reviewed,uu,uu
+2022-03-07T21:28:21.290Z,38.482666,-121.7633362,5.17,2.38,md,6.0,144.0,0.4704,0.39,nc,nc73702576,2022-03-07T21:29:55.385Z,"7km NE of Dixon, CA",earthquake,6.47,27.23,0.08,5.0,automatic,nc,nc
+2022-03-07T21:23:32.806Z,61.6172,-150.3618,48.0,1.8,ml,,,,0.28,ak,ak02231i40am,2022-03-07T21:31:14.065Z,"11 km NE of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-03-07T14:55:58.970Z,34.4181667,-119.294,14.58,1.14,ml,7.0,138.0,0.06316,0.12,ci,ci40201256,2022-03-07T21:32:03.870Z,"6km SW of Ojai, CA",earthquake,0.58,0.91,0.041,1.0,reviewed,ci,ci
+2022-03-06T21:34:56.670Z,52.039,178.380333333333,3.77,1.32,ml,4.0,347.0,,0.05,av,av91051168,2022-03-07T21:30:41.760Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.42,0.82,0.273343157120328,4.0,reviewed,av,av
