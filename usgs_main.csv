@@ -1183,3 +1183,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-08T16:54:32.840Z,19.2406673431396,-155.385833740234,32.0,2.27,ml,44.0,142.0,,0.129999995,hv,hv72943147,2022-03-08T17:00:02.350Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.49,0.660000026,3.2,8.0,automatic,hv,hv
 2022-03-08T16:49:48.191Z,62.5724,-151.2951,81.7,2.1,ml,,,,0.47,ak,ak022332tskm,2022-03-08T17:01:53.119Z,"28 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-08T16:49:45.320Z,19.244499206543,-155.384674072266,31.8500003814697,3.37,ml,52.0,140.0,,0.140000001,hv,hv72943142,2022-03-08T17:05:43.040Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.44,0.560000002,3.74,36.0,automatic,hv,hv
+2022-03-08T17:05:53.647Z,60.1485,-151.0953,76.9,1.5,ml,,,,0.32,ak,ak0223335t3m,2022-03-08T17:08:22.207Z,"18 km ESE of Clam Gulch, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2022-03-08T15:58:58.820Z,34.4538333,-117.9116667,12.03,0.7,ml,12.0,76.0,0.03648,0.14,ci,ci40202216,2022-03-08T17:19:03.287Z,"6km S of Pearblossom, CA",earthquake,0.32,0.52,0.359,7.0,reviewed,ci,ci
+2022-03-08T11:14:23.770Z,38.8165,-122.7936667,2.43,0.35,md,18.0,58.0,0.008615,0.03,nc,nc73702806,2022-03-08T17:23:11.125Z,"5km NW of The Geysers, CA",earthquake,0.23,0.5,0.162,3.0,reviewed,nc,nc
