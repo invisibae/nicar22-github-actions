@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-09T15:48:53.210Z,19.4778327941895,-155.408996582031,-1.61000001430511,1.76999998,md,14,94,,0.129999995,hv,hv72944677,2022-03-09T15:51:54.000Z,"18 km WNW of Volcano, Hawaii",earthquake,0.5,0.349999994,0.879999995,3,automatic,hv,hv
 2022-03-09T15:40:57.704Z,60.412,-142.8726,0,1.1,ml,,,,0.72,ak,ak02234ppsqy,2022-03-09T15:43:20.029Z,"113 km S of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-09T15:31:17.850Z,19.2488327026367,-155.385665893555,31.9899997711182,2.1,ml,46,137,,0.129999995,hv,hv72944652,2022-03-09T15:36:48.660Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.54,0.660000026,0.18,4,automatic,hv,hv
 2022-03-09T15:15:05.335Z,63.1008,-150.9472,129.8,1.7,ml,,,,0.2,ak,ak02234pkbt1,2022-03-09T15:17:50.695Z,"62 km SE of Denali National Park, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -80,7 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T07:28:28.820Z,19.19700050354,-155.473159790039,32.2999992370605,2.16,ml,40,95,,0.159999996,hv,hv72944202,2022-03-09T07:33:59.550Z,"0 km SE of Pāhala, Hawaii",earthquake,0.55,0.850000024,0.08,3,automatic,hv,hv
 2022-03-09T07:22:11.110Z,33.2931667,-115.6946667,1.14,1.37,ml,21,127,0.06752,0.28,ci,ci40203120,2022-03-09T07:25:46.447Z,"7km SSE of Bombay Beach, CA",earthquake,0.66,31.61,0.164,22,automatic,ci,ci
 2022-03-09T07:18:26.200Z,38.8195,-122.8238297,2.06,0.85,md,8,126,0.009465,0.01,nc,nc73703211,2022-03-09T07:26:10.888Z,"8km NW of The Geysers, CA",earthquake,0.37,0.88,,1,automatic,nc,nc
-2022-03-09T07:09:33.765Z,64.6913,-150.541,14,1.5,ml,,,,0.6,ak,ak02234krmu9,2022-03-09T07:18:05.002Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-09T07:09:33.765Z,64.6913,-150.541,14,1.5,ml,,,,0.6,ak,ak02234krmu9,2022-03-09T07:18:05.002Z,"34 km S of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-09T07:07:01.670Z,19.1873340606689,-155.420501708984,32.9700012207031,2.16000009,md,32,166,,0.100000001,hv,hv72944192,2022-03-09T07:10:13.150Z,"6 km ESE of Pāhala, Hawaii",earthquake,0.69,0.779999971,1.23000002,3,automatic,hv,hv
 2022-03-09T06:48:10.320Z,19.1823329925537,-155.433166503906,31.8999996185303,2.25,md,35,168,,0.140000001,hv,hv72944167,2022-03-09T06:51:17.310Z,"5 km ESE of Pāhala, Hawaii",earthquake,0.71,1,1.82000005,6,automatic,hv,hv
 2022-03-09T06:46:09.080Z,38.836834,-122.8075027,1.89,0.36,md,7,86,0.01349,0.01,nc,nc73703206,2022-03-09T06:53:10.653Z,"8km WNW of Cobb, CA",earthquake,0.49,1.64,,1,automatic,nc,nc
@@ -247,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-08T15:58:58.820Z,34.4538333,-117.9116667,12.03,0.7,ml,12,76,0.03648,0.14,ci,ci40202216,2022-03-08T17:19:03.287Z,"6km S of Pearblossom, CA",earthquake,0.32,0.52,0.359,7,reviewed,ci,ci
 2022-03-08T15:56:44.056Z,36.8569,-115.9525,7.8,0.1,ml,9,196.19,0.131,0.1024,nn,nn00835076,2022-03-09T02:37:38.032Z,"40 km NW of Indian Springs, Nevada",earthquake,,4.3,0.1,3,reviewed,nn,nn
 2022-03-08T15:52:27.950Z,39.4135,-110.2863333,-3.39,1.57,md,6,204,0.03184,0.18,uu,uu60484822,2022-03-08T16:19:30.120Z,"17 km SSE of Sunnyside, Utah",earthquake,2.36,4.76,0.372,6,reviewed,uu,uu
-2022-03-08T15:46:03.230Z,34.0621667,-118.987,9.19,2.1,ml,73,82,0.01404,0.26,ci,ci40202208,2022-03-08T19:37:01.022Z,"18km WNW of Malibu, CA",earthquake,0.26,0.39,0.156,16,reviewed,ci,ci
