@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-03-09T20:44:27.842Z,61.5741,-149.7551,32.9,1.3,ml,,,,0.36,ak,ak02234sprc0,2022-03-09T20:47:34.656Z,"7 km SSE of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-09T20:41:16.728Z,63.3042,-151.0966,0,1.2,ml,,,,0.56,ak,ak02234sp3bf,2022-03-09T20:51:27.510Z,"40 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-09T20:38:28.507Z,38.1428,-118.1089,9.5,2.5,ml,15,123.19,0.113,0.3166,nn,nn00835115,2022-03-09T20:42:31.588Z,"27 km S of Mina, Nevada",earthquake,,0.4,0.36,11,automatic,nn,nn
 2022-03-09T20:32:52.970Z,38.8353348,-122.8071671,1.66,0.85,md,11,85,0.01214,0.03,nc,nc73703441,2022-03-09T20:40:10.582Z,"7km WNW of Cobb, CA",earthquake,0.35,0.68,,1,automatic,nc,nc
 2022-03-09T20:17:21.980Z,38.8078346,-122.8251648,2.12,0.85,md,10,67,0.003301,0.02,nc,nc73703431,2022-03-09T20:25:10.505Z,"7km WNW of The Geysers, CA",earthquake,0.36,0.8,,1,automatic,nc,nc
-2022-03-09T20:12:27.630Z,37.8129997,-121.8486633,16.21,1.85,md,15,119,0.1228,0.07,nc,nc73703426,2022-03-09T20:21:10.480Z,"5km E of Blackhawk, CA",earthquake,0.45,0.97,0.24,10,automatic,nc,nc
+2022-03-09T20:12:27.630Z,37.8129997,-121.8486633,16.21,1.85,md,15,119,0.1228,0.07,nc,nc73703426,2022-03-09T20:55:12.656Z,"5km E of Blackhawk, CA",earthquake,0.45,0.97,0.24,10,automatic,nc,nc
 2022-03-09T20:10:22.870Z,41.5063333,-112.1711667,3.99,0.66,md,14,64,0.1027,0.1,uu,uu60484992,2022-03-09T20:19:47.720Z,"7 km SW of Corinne, Utah",earthquake,0.26,1.97,0.196,9,reviewed,uu,uu
 2022-03-09T20:02:56.050Z,46.0168333,-112.472,-2,1.89,ml,19,113,0.057,0.17,mb,mb80540029,2022-03-09T20:48:11.430Z,"5 km ENE of Butte, Montana",quarry blast,0.52,31.61,0.238,11,reviewed,mb,mb
 2022-03-09T20:00:04.380Z,38.7960014,-122.7385025,1.42,0.99,md,17,99,0.01282,0.04,nc,nc73703416,2022-03-09T20:44:12.603Z,"3km NE of The Geysers, CA",earthquake,0.26,0.53,0.07,6,automatic,nc,nc
@@ -264,4 +265,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-08T21:05:41.500Z,36.19783333,-95.88366667,0,1.35,ml,58,114,0.2969417299,0.47,ok,ok2022esey,2022-03-08T21:13:22.066Z,"8 km SSW of Owasso, Oklahoma",quarry blast,,0.5,0.18,25,reviewed,ok,ok
 2022-03-08T21:05:33.350Z,51.9726666666667,-176.691,0.22,0.72,ml,4,317,,0.09,av,av91051398,2022-03-09T05:00:56.930Z,"11 km NNW of Adak, Alaska",earthquake,0.75,0.61,0.307817373613957,4,reviewed,av,av
 2022-03-08T21:02:49.120Z,19.1683330535889,-155.483505249023,33.7099990844727,1.83000004,md,28,153,,0.140000001,hv,hv72943517,2022-03-08T21:05:59.990Z,"3 km S of Pāhala, Hawaii",earthquake,0.71,1.00999999,0.660000026,5,automatic,hv,hv
-2022-03-08T20:54:21.100Z,38.834,-122.7905,2.23,0.46,md,17,57,0.004404,0.02,nc,nc73703006,2022-03-09T05:33:11.655Z,"6km WNW of Cobb, CA",earthquake,0.25,0.52,0.103,3,reviewed,nc,nc
