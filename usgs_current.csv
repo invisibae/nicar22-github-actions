@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-10T14:37:08.820Z,18.0171666666667,-66.9626666666667,4.25,2.41,md,3,152,,0.05,pr,pr71339728,2022-03-10T14:50:25.980Z,"3 km SW of Liborio Negron Torres, Puerto Rico",earthquake,5.09,7.59,0.195727103697157,3,reviewed,pr,pr
 2022-03-10T14:35:40.740Z,19.2663326263428,-155.255828857422,28.0599994659424,1.95000005,md,45,158,,0.119999997,hv,hv72945912,2022-03-10T14:38:42.090Z,"19 km S of Volcano, Hawaii",earthquake,0.45,0.449999988,0.610000014,16,automatic,hv,hv
 2022-03-10T14:02:50.370Z,19.1846675872803,-155.486831665039,33.4000015258789,1.97000003,md,39,73,,0.140000001,hv,hv72945892,2022-03-10T14:05:58.180Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.54,0.709999979,1.42999995,6,automatic,hv,hv
 2022-03-10T13:54:53.320Z,39.5236667,-111.9636667,4.28,2.07,ml,17,57,0.1165,0.17,uu,uu60485082,2022-03-10T14:15:49.090Z,"9 km WSW of Levan, Utah",earthquake,0.47,1.34,0.205,10,reviewed,uu,uu
@@ -218,7 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T14:58:29.075Z,61.7213,-146.2213,6,2.5,ml,,,,0.78,ak,ak02234p85vf,2022-03-09T15:23:19.157Z,"40 km SSE of Mendeltna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-09T14:55:24.180Z,37.5256667,-121.8945,6.23,1.04,md,21,70,0.01557,0.06,nc,nc73703301,2022-03-10T01:26:14.309Z,"8km ESE of Fremont, CA",earthquake,0.22,0.43,0.188,13,reviewed,nc,nc
 2022-03-09T14:53:01.630Z,38.7818336,-122.7634964,0.76,1.17,md,6,128,0.06618,0.11,nc,nc73703296,2022-03-09T17:06:15.340Z,"1km NW of The Geysers, CA",earthquake,0.79,2,0.05,5,automatic,nc,nc
-2022-03-09T14:50:15.830Z,38.8278351,-122.8063354,1.52,1.02,md,13,56,0.005309,0.02,nc,nc73703291,2022-03-09T16:39:18.174Z,"7km NW of The Geysers, CA",earthquake,0.27,0.72,,1,automatic,nc,nc
-2022-03-09T14:47:09.120Z,18.0505,-66.7713333333333,8.86,2.54,md,7,142,,0.3,pr,pr71339658,2022-03-09T18:23:53.478Z,"2 km SW of Santo Domingo, Puerto Rico",earthquake,0.83,6.82,0.215230461599671,6,reviewed,pr,pr
-2022-03-09T14:46:00.180Z,36.1861649,-120.253334,11.16,2.21,md,22,121,0.1315,0.06,nc,nc73703286,2022-03-09T16:16:15.038Z,"11km ENE of Coalinga, CA",earthquake,0.41,0.62,0.13,9,automatic,nc,nc
-2022-03-09T14:45:24.462Z,36.7286,-116.3108,6.8,-0.4,ml,8,139.97,0.065,0.1111,nn,nn00835120,2022-03-10T02:37:22.180Z,"44 km ESE of Beatty, Nevada",earthquake,,2.6,0.32,3,reviewed,nn,nn
