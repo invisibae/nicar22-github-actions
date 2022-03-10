@@ -1788,3 +1788,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-10T04:55:07.880Z,38.8441667,-122.807,3.1,-0.03,md,4.0,288.0,0.01422,0.05,nc,nc73703646,2022-03-10T18:38:06.675Z,"8km WNW of Cobb, CA",earthquake,1.57,0.56,,1.0,reviewed,nc,nc
 2022-03-10T03:00:58.200Z,51.6786666666667,-178.486,3.59,2.56,ml,23.0,156.0,,0.32,av,av91508441,2022-03-10T18:43:13.940Z,"129 km W of Adak, Alaska",earthquake,0.61,0.91,0.301866603086019,32.0,reviewed,av,av
 2022-03-09T19:10:30.720Z,33.063,-115.0053333,-0.2,1.65,ml,10.0,83.0,0.09338,0.21,ci,ci40203512,2022-03-10T18:43:43.687Z,"45km NE of Holtville, CA",quarry blast,0.62,31.61,0.043,3.0,reviewed,ci,ci
+2022-03-10T18:52:43.651Z,63.7019,-149.3463,12.9,1.5,ml,,,,0.54,ak,ak02236f3zld,2022-03-10T18:55:17.975Z,"21 km W of Denali Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-10T09:07:53.770Z,45.438,-112.0913333,5.93,0.49,ml,6.0,107.0,0.208,0.07,mb,mb80540124,2022-03-10T18:54:54.080Z,"8 km ESE of Sheridan, Montana",earthquake,0.36,5.65,0.255,3.0,reviewed,mb,mb
