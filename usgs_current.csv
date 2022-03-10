@@ -254,6 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T10:04:52.070Z,19.246166229248,-155.379837036133,34.1599998474121,2.31,ml,50,141,,0.140000001,hv,hv72944347,2022-03-09T10:18:27.040Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.53,0.689999998,3.49,17,automatic,hv,hv
 2022-03-09T10:01:08.311Z,38.5385,-119.4719,8.8,0.1,ml,5,152.63,0.043,0.033,nn,nn00835131,2022-03-10T02:37:30.388Z,"2 km N of Walker, California",earthquake,,2,0.02,2,reviewed,nn,nn
 2022-03-09T10:00:26.810Z,36.9796667,-121.642,3.18,1.73,md,45,38,0.05122,0.17,nc,nc73703231,2022-03-10T00:44:15.011Z,"7km WSW of Gilroy, CA",earthquake,0.25,0.57,0.199,38,reviewed,nc,nc
-2022-03-09T09:59:48.782Z,61.5021,-146.4938,20,1.6,ml,,,,0.87,ak,ak02234m991a,2022-03-09T10:02:21.125Z,"42 km N of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-03-09T09:56:30.344Z,54.5368,-159.6038,19.89,3.8,mb,,186,0.957,0.8,us,us6000h39c,2022-03-09T13:24:17.434Z,"105 km SSE of Sand Point, Alaska",earthquake,7.6,9.4,0.208,6,reviewed,us,us
-2022-03-09T09:52:26.985Z,54.4896,-163.2578,10,3.6,ml,,187,0.379,0.69,us,us6000h39b,2022-03-09T10:14:58.040Z,"41 km SSE of False Pass, Alaska",earthquake,3.8,2,0.081,20,reviewed,us,us
