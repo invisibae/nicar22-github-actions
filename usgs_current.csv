@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-03-11T23:15:23.360Z,38.5793,-119.4479,7.2,0.9,ml,8,148.83,0.057,0.0771,nn,nn00835238,2022-03-11T23:21:01.110Z,"5 km ENE of Coleville, California",earthquake,,5.3,0.5,4,automatic,nn,nn
-2022-03-11T23:15:13.840Z,38.824501,-122.8095016,1.42,1.16,md,26,35,0.001191,0.03,nc,nc73704421,2022-03-11T23:23:11.986Z,"7km NW of The Geysers, CA",earthquake,0.17,0.34,0.19,5,automatic,nc,nc
+2022-03-11T23:15:13.840Z,38.824501,-122.8095016,1.42,1.16,md,26,35,0.001191,0.03,nc,nc73704421,2022-03-11T23:53:18.159Z,"7km NW of The Geysers, CA",earthquake,0.17,0.34,0.19,5,automatic,nc,nc
 2022-03-11T23:04:52.257Z,60.1032,-152.7553,15.1,2.9,ml,,,,0.97,ak,ak022385c88d,2022-03-11T23:42:01.040Z,"59 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-11T22:48:32.670Z,38.4416656,-122.5088348,9.42,2.13,md,35,61,0.1041,0.1,nc,nc73704411,2022-03-11T23:41:20.096Z,"4km NE of Kenwood, CA",earthquake,0.26,0.72,0.12,31,automatic,nc,nc
 2022-03-11T22:47:14.868Z,63.4633,-146.5978,13.1,1.5,ml,,,,0.73,ak,ak022384zxoq,2022-03-11T22:59:59.060Z,"64 km NW of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -59,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-11T17:57:20.290Z,35.961,-117.6688333,3.59,-0.14,ml,5,157,0.01988,0.04,ci,ci40205296,2022-03-11T19:14:15.321Z,"22km E of Little Lake, CA",earthquake,0.3,0.24,0.13,2,reviewed,ci,ci
 2022-03-11T17:51:08.590Z,38.7879982,-122.7473297,2.02,0.86,md,19,84,0.009555,0.02,nc,nc73704251,2022-03-11T18:33:15.165Z,"1km NNE of The Geysers, CA",earthquake,0.23,0.44,0.12,4,automatic,nc,nc
 2022-03-11T17:49:49.780Z,44.798,-110.9215,8.97,0.82,ml,12,117,0.05147,0.14,uu,uu60485367,2022-03-11T18:05:23.850Z,"20 km NE of West Yellowstone, Montana",earthquake,0.59,1,0.212,3,reviewed,uu,uu
-2022-03-11T17:44:30.460Z,37.919,-122.2991667,4.97,2.8,md,120,21,0.01284,0.1,nc,nc73704246,2022-03-11T23:45:20.239Z,"1km ENE of El Cerrito, CA",earthquake,0.09,0.16,0.138,95,reviewed,nc,nc
+2022-03-11T17:44:30.460Z,37.919,-122.2991667,4.97,2.8,md,120,21,0.01284,0.1,nc,nc73704246,2022-03-11T23:55:45.826Z,"1km ENE of El Cerrito, CA",earthquake,0.09,0.16,0.138,95,reviewed,nc,nc
 2022-03-11T17:43:45.446Z,-17.5687,-178.8451,524.28,4.2,mb,,148,2.962,0.5,us,us6000h3vc,2022-03-11T20:14:21.040Z,"202 km ENE of Levuka, Fiji",earthquake,8.9,9.6,0.081,45,reviewed,us,us
 2022-03-11T17:41:43.080Z,37.296,-117.5883,5.8,1.4,ml,13,107.08,0.078,0.1526,nn,nn00835208,2022-03-11T18:14:51.046Z,"51 km S of Silver Peak, Nevada",earthquake,,1.9,0.88,8,reviewed,nn,nn
 2022-03-11T17:40:59.906Z,59.8777,-153.1234,118.4,2.1,ml,,,,0.66,ak,ak022381zd2o,2022-03-11T18:56:06.040Z,"56 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -244,5 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-11T00:06:06.300Z,36.047,-89.8255,10.81,1.97,md,35,50,0.06589,0.04,nm,nm60376107,2022-03-11T14:30:01.710Z,"1 km W of Cooter, Missouri",earthquake,0.51,0.67,0.149,25,reviewed,nm,nm
 2022-03-11T00:01:24.550Z,38.8041649,-122.7771683,1.26,0.35,md,9,92,0.009487,0.02,nc,nc73703971,2022-03-11T00:22:17.315Z,"4km NNW of The Geysers, CA",earthquake,0.4,0.9,,1,automatic,nc,nc
 2022-03-10T23:56:11.045Z,61.3524,-150.0289,42.3,1.6,ml,,,,0.65,ak,ak02236i3xxs,2022-03-10T23:58:56.718Z,"2 km WSW of Point MacKenzie, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-03-10T23:54:50.170Z,38.8268333,-122.8113333,1.43,0.53,md,17,39,0.003571,0.02,nc,nc73703966,2022-03-11T05:52:16.381Z,"7km NW of The Geysers, CA",earthquake,0.24,0.44,,1,reviewed,nc,nc
-2022-03-10T23:52:40.471Z,40.1544,-119.6655,11.3,1.4,ml,6,178.52,0.053,0.2108,nn,nn00835178,2022-03-11T02:37:35.571Z,"23 km NNW of Sutcliffe, Nevada",earthquake,,2.6,0.76,6,reviewed,nn,nn
