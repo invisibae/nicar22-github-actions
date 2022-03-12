@@ -25,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-12T12:06:32.190Z,32.6966667,-115.5303333,1.34,1.32,ml,14,124,0.1292,0.21,ci,ci40205824,2022-03-12T12:10:05.904Z,"4km WNW of Calexico, CA",earthquake,0.6,0.88,0.243,19,automatic,ci,ci
 2022-03-12T11:54:52.030Z,37.5653333,-118.7823333,6.2,0.24,md,13,177,0.0446,0.03,nc,nc73704656,2022-03-12T13:40:13.012Z,"9km W of Toms Place, CA",earthquake,0.74,0.92,0.255,11,reviewed,nc,nc
 2022-03-12T11:53:14.085Z,15.0043,-94.1716,27.79,4.4,mb,,185,2.335,0.56,us,us6000h408,2022-03-12T12:32:09.040Z,"108 km SW of Manuel Ávila Camacho (Ponte Duro), Mexico",earthquake,11.2,10.4,0.042,162,reviewed,us,us
-2022-03-12T11:52:34.761Z,55.889,163.0264,35,4.9,mww,,69,3.842,0.7,us,us6000h407,2022-03-12T12:17:22.040Z,"50 km SE of Ust’-Kamchatsk Staryy, Russia",earthquake,5.1,1.9,0.08,15,reviewed,us,us
+2022-03-12T11:52:34.761Z,55.889,163.0264,35,4.9,mww,,69,3.842,0.7,us,us6000h407,2022-03-12T12:17:22.040Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake,5.1,1.9,0.08,15,reviewed,us,us
 2022-03-12T11:50:53.812Z,64.5661,-149.2015,14.2,1.3,ml,,,,0.18,ak,ak02239m08of,2022-03-12T12:24:37.094Z,"5 km W of Nenana, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-12T11:44:24.032Z,60.4718,-151.4959,64,1.3,ml,,,,0.68,ak,ak02239lyw2w,2022-03-12T11:54:13.483Z,"12 km WNW of Kalifornsky, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-03-12T11:37:53.990Z,34.2158333,-117.4785,11.5,0.9,ml,19,55,0.1509,0.16,ci,ci40205816,2022-03-12T11:41:32.450Z,"5km SSE of Lytle Creek, CA",earthquake,0.3,1.19,0.206,16,automatic,ci,ci
@@ -69,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-12T05:38:46.140Z,17.9191666666667,-66.9376666666667,15.62,1.6,md,5,229,,0.06,pr,pr71339868,2022-03-12T06:52:47.330Z,"6 km SSW of Guánica, Puerto Rico",earthquake,1.67,0.64,0.000130405052150229,3,reviewed,pr,pr
 2022-03-12T05:31:10.870Z,-7.3035,106.0707,37.41,5.3,mww,,54,1.574,1.09,us,us6000h3ys,2022-03-12T09:59:20.824Z,"63 km WSW of Pelabuhanratu, Indonesia",earthquake,3.6,6.2,0.075,17,reviewed,us,us
 2022-03-12T05:25:58.827Z,36.6585,-116.2905,12.6,0.3,ml,8,176.17,0.041,0.0799,nn,nn00835256,2022-03-12T05:29:00.266Z,"50 km ESE of Beatty, Nevada",earthquake,,1.8,0.23,4,automatic,nn,nn
-2022-03-12T05:15:46.890Z,36.3546667,-117.964,1.86,2.47,ml,26,80,0.1266,0.19,ci,ci40205696,2022-03-12T05:19:26.240Z,"9km NNE of Olancha, CA",earthquake,0.35,2.12,0.207,25,automatic,ci,ci
+2022-03-12T05:15:46.890Z,36.3546667,-117.964,1.86,2.47,ml,26,80,0.1266,0.19,ci,ci40205696,2022-03-12T14:25:13.269Z,"9km NNE of Olancha, CA",earthquake,0.35,2.12,0.207,25,automatic,ci,ci
 2022-03-12T05:13:08.500Z,33.5006667,-116.6886667,9.62,0.37,ml,16,81,0.02028,0.28,ci,ci40205680,2022-03-12T05:16:44.154Z,"6km SSW of Anza, CA",earthquake,0.63,0.92,0.124,8,automatic,ci,ci
 2022-03-12T04:45:47.800Z,36.3513333,-117.9645,1.73,1.95,ml,24,79,0.1285,0.2,ci,ci40205672,2022-03-12T04:56:42.620Z,"9km NNE of Olancha, CA",earthquake,0.38,2.82,0.262,26,automatic,ci,ci
 2022-03-12T04:21:46.600Z,38.8138351,-122.8236694,2.22,1.07,md,23,55,0.006567,0.02,nc,nc73704551,2022-03-12T06:37:14.505Z,"7km NW of The Geysers, CA",earthquake,0.21,0.4,0.11,4,automatic,nc,nc
