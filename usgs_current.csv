@@ -184,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-12T09:04:51.369Z,61.9151,-144.0836,4.9,1.5,ml,,,,0.51,ak,ak02239kjibc,2022-03-12T09:22:46.811Z,"48 km NNE of Chitina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-12T08:59:50.180Z,17.9515,-66.8506666666667,14.06,2.26,md,8,208,,0.18,pr,pr71339898,2022-03-12T09:34:14.730Z,"5 km SE of Maria Antonia, Puerto Rico",earthquake,0.73,0.66,0.116247571660397,6,reviewed,pr,pr
 2022-03-12T08:56:42.690Z,33.9976667,-116.7521667,13.19,1.77,ml,64,24,0.05943,0.19,ci,ci40205776,2022-03-12T09:07:29.980Z,"10km NNE of Cabazon, CA",earthquake,0.19,0.48,0.199,26,automatic,ci,ci
-2022-03-12T08:40:36.420Z,17.8195,-66.9461666666667,10.89,2.28,md,6,295,,0.07,pr,pr71339893,2022-03-12T09:06:01.050Z,"17 km SSW of Guánica, Puerto Rico",earthquake,0.99,0.73,0.0519969064516159,5,reviewed,pr,pr
