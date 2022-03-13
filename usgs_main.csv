@@ -2435,3 +2435,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T10:04:16.110Z,35.7528333,-118.4816667,4.0,2.37,ml,36.0,46.0,0.04457,0.21,ci,ci40206616,2022-03-13T10:16:28.016Z,"5km W of Kernville, CA",earthquake,0.28,0.64,0.236,26.0,automatic,ci,ci
 2022-03-13T10:21:22.560Z,60.2436,-152.29,97.0,2.3,ml,,,,0.38,ak,ak0223b8rve4,2022-03-13T10:33:23.040Z,"40 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-13T10:48:32.480Z,33.4425011,-116.5814972,12.04,1.08,ml,35.0,70.0,0.05574,0.13,ci,ci40206632,2022-03-13T10:50:37.665Z,"15km SE of Anza, CA",earthquake,0.26,0.64,0.253,7.0,automatic,ci,ci
+2022-03-13T10:27:47.130Z,17.9971666666667,-66.761,15.36,2.24,md,7.0,188.0,,0.06,pr,pr71339993,2022-03-13T10:51:21.400Z,"2 km SSE of Magas Arriba, Puerto Rico",earthquake,0.45,0.42,0.104481446621761,3.0,reviewed,pr,pr
