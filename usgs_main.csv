@@ -2422,3 +2422,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T08:26:06.290Z,38.7893333,-122.7606659,1.66,0.36,md,8.0,130.0,0.0113,0.01,nc,nc73704976,2022-03-13T08:35:11.719Z,"1km NNW of The Geysers, CA",earthquake,0.42,0.88,,1.0,automatic,nc,nc
 2022-03-13T03:39:26.060Z,18.8268,-64.7276,49.0,3.88,md,14.0,329.0,0.76,0.43,pr,pr2022072000,2022-03-13T08:23:05.421Z,"55 km N of Cruz Bay, U.S. Virgin Islands",earthquake,5.06,8.74,0.08,11.0,reviewed,pr,pr
 2022-03-13T08:48:48.418Z,64.6309,-150.3617,4.9,1.2,ml,,,,1.16,ak,ak0223b7qui5,2022-03-13T08:52:11.787Z,"43 km SSE of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-13T09:00:40.697Z,61.0785,-151.814,79.8,1.0,ml,,,,0.25,ak,ak0223b81z51,2022-03-13T09:05:36.076Z,"36 km W of Tyonek, Alaska",earthquake,,1.5,,,automatic,ak,ak
