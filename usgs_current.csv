@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-13T07:24:29.650Z,35.6818333,-117.5246667,9.64,1.12,ml,16,153,0.1079,0.16,ci,ci40206584,2022-03-13T07:27:59.867Z,"14km SW of Searles Valley, CA",earthquake,0.37,0.92,0.14,14,automatic,ci,ci
 2022-03-13T07:04:08.398Z,64.1501,-148.3452,17.4,1.5,ml,,,,0.84,ak,ak0223b6vwav,2022-03-13T07:21:34.382Z,"40 km ENE of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-13T05:40:00.980Z,18.5355,-66.6271666666667,9.21,2.31,md,15,211,,0.2,pr,pr71339983,2022-03-13T07:26:51.980Z,"9 km N of Animas, Puerto Rico",earthquake,0.56,0.76,0.128653440246469,12,reviewed,pr,pr
 2022-03-13T05:36:08.830Z,38.8328323,-122.8089981,2.12,0.36,md,7,95,0.009461,0.02,nc,nc73704936,2022-03-13T05:59:24.849Z,"8km W of Cobb, CA",earthquake,0.57,1.36,,1,automatic,nc,nc
 2022-03-13T05:33:30.138Z,61.3178,-151.0277,77.4,1.7,ml,,,,0.69,ak,ak0223b5valf,2022-03-13T05:36:45.004Z,"19 km N of Beluga, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-03-13T05:31:43.830Z,33.9885,-116.8248333,17.7,1.74,ml,64,26,0.04864,0.18,ci,ci40206560,2022-03-13T05:42:03.760Z,"8km NE of Banning, CA",earthquake,0.19,0.41,0.149,26,automatic,ci,ci
@@ -180,4 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-12T07:47:49.400Z,38.8078346,-122.8264999,1.4,0.85,md,8,108,0.002333,0.02,nc,nc73704611,2022-03-12T08:04:14.042Z,"7km WNW of The Geysers, CA",earthquake,0.48,0.97,,1,automatic,nc,nc
 2022-03-12T07:37:23.530Z,37.6293333,-118.9378333,4.19,0.03,md,12,152,0.02482,0.07,nc,nc73704606,2022-03-12T14:14:13.210Z,"4km ESE of Mammoth Lakes, CA",earthquake,0.47,0.67,0.261,11,reviewed,nc,nc
 2022-03-12T07:34:32.120Z,17.956,-66.9528333333333,16.14,2,md,9,204,,0.2,pr,pr71339888,2022-03-12T08:18:45.730Z,"5 km WSW of Guánica, Puerto Rico",earthquake,2.18,0.72,0.168877598608112,3,reviewed,pr,pr
-2022-03-12T07:29:58.660Z,17.9841666666667,-66.8395,12.59,1.81,md,7,182,,0.05,pr,pr71339883,2022-03-12T07:42:08.860Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.63,0.39,0.136824972398274,6,reviewed,pr,pr
