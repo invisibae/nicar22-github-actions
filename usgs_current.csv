@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-14T17:54:15.580Z,18.8619995117188,-155.224166870117,9.9399995803833,2.17000008,md,26,266,,0.150000006,hv,hv72949902,2022-03-14T17:57:27.700Z,"Hawaii region, Hawaii",earthquake,1.37,0.75999999,1.08000004,8,automatic,hv,hv
 2022-03-14T17:38:08.280Z,17.9496666666667,-66.953,10.36,2.56,md,12,209,,0.27,pr,pr71340208,2022-03-14T17:49:53.710Z,"5 km WSW of Guánica, Puerto Rico",earthquake,1.07,0.62,0.0481152030113465,4,reviewed,pr,pr
-2022-03-14T17:36:25.194Z,61.7438,-149.2319,20.1,1.6,ml,,,,0.52,ak,ak0223d0kh1z,2022-03-14T17:49:26.951Z,"0 km E of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-14T17:36:25.194Z,61.7438,-149.2319,20.1,1.6,ml,,,,0.52,ak,ak0223d0kh1z,2022-03-14T17:54:03.209Z,"0 km E of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-14T17:34:43.520Z,33.1888333,-115.6353333,3.03,1.35,ml,22,74,0.01212,0.21,ci,ci40207616,2022-03-14T17:38:17.146Z,"12km WSW of Niland, CA",earthquake,0.37,0.37,0.16,26,automatic,ci,ci
 2022-03-14T17:30:22.836Z,62.9905,-144.1968,4.7,1.9,ml,,,,1.2,ak,ak0223d0j6le,2022-03-14T17:44:20.618Z,"23 km WNW of Mentasta Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-14T17:27:33.710Z,19.2958335876465,-155.270492553711,7.17000007629395,2.22,ml,44,123,,0.109999999,hv,hv72949862,2022-03-14T17:33:04.530Z,"16 km SSW of Volcano, Hawaii",earthquake,0.33,0.50999999,3.74,10,automatic,hv,hv
@@ -252,4 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T18:16:29.540Z,19.2084999084473,-155.403839111328,33.2200012207031,2.4,ml,45,154,,0.150000006,hv,hv72948867,2022-03-13T18:21:59.940Z,"7 km E of Pāhala, Hawaii",earthquake,0.57,0.75,0.47,4,automatic,hv,hv
 2022-03-13T18:15:14.960Z,36.4595,-81.0836667,4.35,2.06,md,11,88,0.4382,0.25,se,se60147243,2022-03-14T15:43:45.547Z,"6 km SSE of Sparta, North Carolina",earthquake,0.75,2.66,0.071,10,reviewed,se,se
 2022-03-13T18:00:24.690Z,17.9406666666667,-66.9356666666667,9.69,2.67,md,19,209,,0.13,pr,pr71340038,2022-03-13T19:32:15.797Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.4,0.59,0.131495015659907,11,reviewed,pr,pr
-2022-03-13T17:55:44.560Z,33.689,-116.7068333,14.97,0.84,ml,29,49,0.02294,0.18,ci,ci40206816,2022-03-13T17:59:25.166Z,"6km S of Idyllwild, CA",earthquake,0.32,0.41,0.169,25,automatic,ci,ci
