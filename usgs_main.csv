@@ -2615,3 +2615,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-14T08:58:57.560Z,33.051,-116.2146667,4.93,1.39,ml,34.0,51.0,0.1115,0.23,ci,ci40207304,2022-03-14T09:02:31.007Z,"13km SW of Ocotillo Wells, CA",earthquake,0.28,1.09,0.165,27.0,automatic,ci,ci
 2022-03-14T08:41:11.772Z,18.5512,-102.3758,78.02,4.8,mb,,183.0,1.538,0.78,us,us6000h4dk,2022-03-14T09:01:37.040Z,"2 km N of Tumbiscatío de Ruiz, Mexico",earthquake,8.2,5.2,0.026,458.0,reviewed,us,us
 2022-03-14T09:23:00.380Z,33.059166,-116.2164993,8.47,1.11,ml,21.0,107.0,0.1045,0.17,ci,ci40207312,2022-03-14T09:25:09.872Z,"12km SW of Ocotillo Wells, CA",earthquake,0.3,1.28,0.195,4.0,automatic,ci,ci
+2022-03-14T09:27:39.030Z,19.1650009155273,-155.487838745117,32.0099983215332,1.86,ml,42.0,112.0,,0.140000001,hv,hv72949527,2022-03-14T09:33:11.170Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.61,0.889999986,4.81,3.0,automatic,hv,hv
