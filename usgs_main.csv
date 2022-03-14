@@ -2751,3 +2751,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-14T17:21:42.530Z,38.8276672,-122.8033371,1.78,0.93,md,18.0,36.0,0.006774,0.02,nc,nc73705541,2022-03-14T17:23:18.335Z,"7km NW of The Geysers, CA",earthquake,0.22,0.41,0.22,3.0,automatic,nc,nc
 2022-03-14T13:41:37.790Z,33.4896667,-116.4831667,14.81,0.65,ml,21.0,110.0,0.05863,0.15,ci,ci40207408,2022-03-14T17:25:52.858Z,"19km ESE of Anza, CA",earthquake,0.27,0.5,0.181,9.0,reviewed,ci,ci
 2022-03-14T03:53:09.430Z,35.8128333,-117.6246667,5.78,1.17,ml,20.0,74.0,0.02226,0.13,ci,ci40207152,2022-03-14T17:31:27.539Z,"20km WNW of Searles Valley, CA",earthquake,0.18,0.34,0.251,8.0,reviewed,ci,ci
+2022-03-14T17:36:25.194Z,61.7438,-149.2319,20.1,1.6,ml,,,,0.52,ak,ak0223d0kh1z,2022-03-14T17:41:14.062Z,"0 km E of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-14T17:34:43.520Z,33.1888333,-115.6353333,3.03,1.35,ml,22.0,74.0,0.01212,0.21,ci,ci40207616,2022-03-14T17:38:17.146Z,"12km WSW of Niland, CA",earthquake,0.37,0.37,0.16,26.0,automatic,ci,ci
