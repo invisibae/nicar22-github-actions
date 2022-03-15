@@ -2880,3 +2880,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-15T03:57:36.630Z,38.8079987,-122.7770004,1.1,0.35,md,8.0,104.0,0.00599,0.02,nc,nc73705756,2022-03-15T04:07:11.117Z,"4km NNW of The Geysers, CA",earthquake,0.41,0.86,,1.0,automatic,nc,nc
 2022-03-15T04:24:37.810Z,37.5690002,-118.7881699,6.74,1.44,md,12.0,175.0,0.03871,0.02,nc,nc73705766,2022-03-15T04:32:11.020Z,"10km W of Toms Place, CA",earthquake,0.62,1.05,0.09,12.0,automatic,nc,nc
 2022-03-15T04:15:27.260Z,35.931,-117.6705,1.95,0.89,ml,11.0,67.0,0.02347,0.11,ci,ci40208064,2022-03-15T04:18:57.428Z,"21km E of Little Lake, CA",earthquake,0.22,0.35,0.126,10.0,automatic,ci,ci
+2022-03-15T04:49:45.820Z,33.0545006,-116.1985016,10.83,1.26,ml,16.0,197.0,0.1041,0.19,ci,ci40208080,2022-03-15T04:51:50.958Z,"12km SSW of Ocotillo Wells, CA",earthquake,0.8,1.08,0.552,8.0,automatic,ci,ci
+2022-03-15T04:39:34.235Z,62.0031,-148.6009,39.6,1.7,ml,,,,0.55,ak,ak0223egduj3,2022-03-15T04:42:07.981Z,"24 km NNW of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-15T04:36:29.140Z,19.1685009002686,-155.47900390625,35.560001373291,2.04999995,md,36.0,141.0,,0.140000001,hv,hv72950577,2022-03-15T04:39:47.800Z,"3 km S of Pāhala, Hawaii",earthquake,0.85,0.810000002,0.25999999,5.0,automatic,hv,hv
