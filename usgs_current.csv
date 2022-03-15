@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-15T04:06:51.832Z,62.5492,-150.5407,18,1.8,ml,,,,0.87,ak,ak0223eg6t9b,2022-03-15T04:11:07.566Z,"12 km ENE of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-15T04:02:26.537Z,61.5883,-146.2364,29.9,1.7,ml,,,,0.91,ak,ak0223eg5wfx,2022-03-15T04:11:21.420Z,"51 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-15T04:00:42.120Z,38.8375015,-122.7914963,1.9,0.97,md,10,87,0.001277,0.01,nc,nc73705761,2022-03-15T04:11:11.888Z,"6km WNW of Cobb, CA",earthquake,0.43,0.51,0.28,2,automatic,nc,nc
+2022-03-15T03:57:36.630Z,38.8079987,-122.7770004,1.1,0.35,md,8,104,0.00599,0.02,nc,nc73705756,2022-03-15T04:07:11.117Z,"4km NNW of The Geysers, CA",earthquake,0.41,0.86,,1,automatic,nc,nc
 2022-03-15T03:32:17.360Z,38.0480003,-118.7630005,2.67,1.56,md,11,143,0.2874,0.04,nc,nc73705746,2022-03-15T03:50:13.771Z,"28km SE of Bodie, CA",earthquake,0.9,8.78,0.11,6,automatic,nc,nc
 2022-03-15T03:24:00.842Z,63.0248,-143.3914,7.5,1.5,ml,,,,0.13,ak,ak0223efp4lw,2022-03-15T03:26:07.990Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-15T03:17:10.743Z,64.9308,-148.8793,9.2,1.3,ml,,,,0.69,ak,ak0223efnncv,2022-03-15T03:28:11.558Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -10,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-15T02:23:49.550Z,38.8334999,-122.8063354,0.37,0.36,md,8,100,0.0105,0.01,nc,nc73705736,2022-03-15T02:49:14.440Z,"7km W of Cobb, CA",earthquake,0.32,1.06,,1,automatic,nc,nc
 2022-03-15T02:09:38.561Z,61.489,-147.1402,22.8,1.8,ml,,,,0.76,ak,ak0223ef0k69,2022-03-15T02:13:22.078Z,"44 km SE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-15T01:43:51.321Z,61.4807,-146.4028,29.2,1.7,ml,,,,0.72,ak,ak0223eemfwc,2022-03-15T02:12:27.422Z,"39 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-03-15T01:06:45.350Z,37.3828316,-121.7358322,7.42,1.48,md,12,56,0.02813,0.03,nc,nc73705721,2022-03-15T03:26:10.636Z,"8km ENE of Alum Rock, CA",earthquake,0.27,0.63,0.18,9,automatic,nc,nc
+2022-03-15T01:06:45.350Z,37.3828316,-121.7358322,7.42,1.48,md,12,56,0.02813,0.03,nc,nc73705721,2022-03-15T03:57:15.806Z,"8km ENE of Alum Rock, CA",earthquake,0.27,0.63,0.18,9,automatic,nc,nc
 2022-03-15T00:59:02.310Z,34.441,-119.2901667,6.35,2.09,ml,37,77,0.04449,0.33,ci,ci40207968,2022-03-15T01:13:33.786Z,"4km W of Ojai, CA",earthquake,0.44,1.44,0.114,26,automatic,ci,ci
 2022-03-15T00:57:31.680Z,34.448,-119.3021667,3.33,2.27,ml,33,79,0.05098,0.28,ci,ci40207960,2022-03-15T01:11:11.903Z,"5km W of Ojai, CA",earthquake,0.37,1.03,0.128,25,automatic,ci,ci
 2022-03-15T00:39:37.470Z,34.1366667,-118.0331667,4.55,1.46,ml,12,87,0.09437,0.32,ci,ci40207952,2022-03-15T00:43:18.417Z,"0km SSE of Arcadia, CA",earthquake,1.08,5,0.36,33,automatic,ci,ci
@@ -205,7 +209,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-14T10:26:24.808Z,64.2514,-147.8877,10.8,1.7,ml,,,,0.42,ak,ak0223cwcamo,2022-03-14T10:30:20.398Z,"56 km WSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-14T10:01:53.236Z,-19.956,-70.9497,18.34,4.5,mb,,153,0.83,0.71,us,us6000h4e8,2022-03-14T22:03:22.608Z,"88 km WNW of Iquique, Chile",earthquake,5.7,5.8,0.205,7,reviewed,us,us
 2022-03-14T09:57:38.593Z,61.6896,-150.9773,57.5,1.6,ml,,,,0.66,ak,ak0223cvxjab,2022-03-14T10:01:50.596Z,"29 km WNW of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-03-14T09:44:50.870Z,40.4425,-125.0096667,10.31,2.77,md,19,282,0.5139,0.18,nc,nc73705361,2022-03-15T01:52:14.118Z,"63km WNW of Petrolia, CA",earthquake,2.08,31.61,0.098,26,reviewed,nc,nc
+2022-03-14T09:44:50.870Z,40.4425,-125.0096667,10.31,2.77,md,19,282,0.5139,0.18,nc,nc73705361,2022-03-15T04:07:10.864Z,"63km WNW of Petrolia, CA",earthquake,2.08,31.61,0.098,26,reviewed,nc,nc
 2022-03-14T09:44:09.560Z,34.5353333,-118.123,10.05,0.66,ml,15,72,0.05167,0.09,ci,ci40207336,2022-03-14T23:15:55.589Z,"4km N of Vincent, CA",earthquake,0.22,0.38,0.132,6,reviewed,ci,ci
 2022-03-14T09:41:23.126Z,13.952,119.4293,10,4.6,mb,,130,9.127,0.72,us,us6000h4ea,2022-03-14T10:58:41.040Z,"67 km W of Cabra, Philippines",earthquake,6,1.9,0.091,47,reviewed,us,us
 2022-03-14T09:40:48.990Z,33.049,-116.216,6.41,1.73,ml,78,31,0.1138,0.2,ci,ci40207328,2022-03-14T23:18:11.350Z,"13km SW of Ocotillo Wells, CA",earthquake,0.13,0.62,0.163,24,reviewed,ci,ci
@@ -270,8 +274,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-14T04:31:07.160Z,36.5751667,-121.1768333,5.52,2.6,md,20,114,0.007715,0.06,nc,nc73705266,2022-03-15T02:35:19.375Z,"6km NNW of Pinnacles, CA",earthquake,0.31,0.59,0.235,14,reviewed,nc,nc
 2022-03-14T04:27:48.880Z,36.5825,-121.1808333,5.5,0.99,md,15,121,0.01139,0.07,nc,nc73705261,2022-03-14T23:30:14.217Z,"7km NNW of Pinnacles, CA",earthquake,0.4,0.32,0.096,11,reviewed,nc,nc
 2022-03-14T04:17:49.796Z,60.8378,-147.5198,8.4,1.9,ml,,,,0.61,ak,ak0223cspthf,2022-03-14T04:20:40.403Z,"45 km W of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-03-14T04:10:46.130Z,36.596,-121.1811667,4.67,1.41,md,15,147,0.02449,0.1,nc,nc73705256,2022-03-15T01:12:15.972Z,"8km NNW of Pinnacles, CA",earthquake,0.44,1.02,0.119,8,reviewed,nc,nc
-2022-03-14T04:10:03.460Z,17.8585,-66.9038333333333,12.52,2.41,md,9,250,,0.23,pr,pr71340113,2022-03-14T04:51:23.210Z,"12 km S of Guánica, Puerto Rico",earthquake,1.13,0.8,0.0900485957646109,5,reviewed,pr,pr
-2022-03-14T04:09:24.970Z,36.586,-121.1828333,5.89,3.07,ml,73,54,0.01442,0.11,nc,nc73705251,2022-03-15T00:47:27.693Z,"7km NNW of Pinnacles, CA",earthquake,0.15,0.25,0.168,74,reviewed,nc,nc
-2022-03-14T04:00:58.690Z,19.2036666870117,-155.509826660156,33.6100006103516,1.85000002,md,31,188,,0.159999996,hv,hv72949297,2022-03-14T04:04:39.350Z,"3 km W of Pāhala, Hawaii",earthquake,0.8,1.37,0.920000017,3,automatic,hv,hv
-2022-03-14T03:54:03.390Z,38.7833328,-122.7419968,0.29,1.13,md,17,80,0.004121,0.04,nc,nc73705246,2022-03-14T05:11:22.423Z,"1km ENE of The Geysers, CA",earthquake,0.22,0.4,0.17,5,automatic,nc,nc
