@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-15T10:40:21.010Z,38.831665,-122.8188324,1.63,0.74,md,15,55,0.01072,0.03,nc,nc73705891,2022-03-15T10:41:56.345Z,"8km NW of The Geysers, CA",earthquake,0.25,0.47,0.13,2,automatic,nc,nc
+2022-03-15T10:40:21.010Z,38.831665,-122.8188324,1.63,0.74,md,15,55,0.01072,0.03,nc,nc73705891,2022-03-15T10:48:10.234Z,"8km NW of The Geysers, CA",earthquake,0.25,0.47,0.13,2,automatic,nc,nc
 2022-03-15T10:35:22.030Z,33.6255,-116.6768333,13.95,0.55,ml,18,92,0.07025,0.14,ci,ci40208200,2022-03-15T10:38:55.323Z,"8km N of Anza, CA",earthquake,0.33,0.52,0.165,10,automatic,ci,ci
 2022-03-15T10:30:20.477Z,67.3441,-156.1493,0,2.6,ml,,,,0.84,ak,ak0223ejwhng,2022-03-15T10:42:05.576Z,"58 km NNE of Kobuk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-15T10:23:20.970Z,18.1315,-67.3236,61.16,3.2,ml,,170,0.238,0.22,us,us6000h4nr,2022-03-15T10:48:47.040Z,"15 km WNW of Puerto Real, Puerto Rico",earthquake,7.4,7.1,0.057,40,reviewed,us,us
 2022-03-15T10:22:44.840Z,19.1615009307861,-155.462493896484,32.5,2.16000009,md,47,109,,0.170000002,hv,hv72950812,2022-03-15T10:25:57.530Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.5,0.75999999,1.82000005,22,automatic,hv,hv
+2022-03-15T10:20:08.079Z,-15.7765,-71.9574,10,4.7,mb,,127,2.981,0.78,us,us6000h4nn,2022-03-15T10:45:05.040Z,"16 km ESE of Huambo, Peru",earthquake,7,1.9,0.062,79,reviewed,us,us
 2022-03-15T10:14:51.718Z,62.0585,-148.022,25.7,1.7,ml,,,,0.87,ak,ak0223ejt4lv,2022-03-15T10:20:26.791Z,"33 km NW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-15T10:12:31.470Z,19.2113342285156,-155.432662963867,33.5699996948242,2.1,ml,45,137,,0.109999999,hv,hv72950802,2022-03-15T10:18:01.040Z,"4 km E of Pāhala, Hawaii",earthquake,0.57,0.680000007,3.42,4,automatic,hv,hv
 2022-03-15T10:07:17.759Z,60.1365,-150.4365,34.7,1.4,ml,,,,0.44,ak,ak0223ejrjz2,2022-03-15T10:19:35.699Z,"42 km NE of Fox River, Alaska",earthquake,,0.2,,,automatic,ak,ak
