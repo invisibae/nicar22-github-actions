@@ -3224,3 +3224,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-16T06:18:55.040Z,38.7886658,-122.7661667,3.26,0.6,md,12.0,106.0,0.01759,0.02,nc,nc73706311,2022-03-16T06:30:11.224Z,"2km NW of The Geysers, CA",earthquake,0.41,0.92,0.26,2.0,automatic,nc,nc
 2022-03-16T06:13:38.816Z,38.1555,-117.9312,11.6,0.6,ml,8.0,158.18,0.028,0.0651,nn,nn00835411,2022-03-16T06:17:46.861Z,"30 km SSE of Mina, Nevada",earthquake,,0.7,0.2,4.0,automatic,nn,nn
 2022-03-16T06:06:34.721Z,-15.7366,-72.0616,10.0,5.6,mww,,100.0,3.085,0.88,us,us6000h4z7,2022-03-16T06:31:55.540Z,"5 km E of Huambo, Peru",earthquake,6.2,1.8,0.045,47.0,reviewed,us,us
+2022-03-16T06:34:08.270Z,33.0491667,-116.2113333,6.39,1.17,ml,33.0,46.0,0.1123,0.22,ci,ci39969175,2022-03-16T06:37:50.132Z,"13km SW of Ocotillo Wells, CA",earthquake,0.34,1.5,0.153,26.0,automatic,ci,ci
