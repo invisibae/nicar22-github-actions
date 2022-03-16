@@ -1,10 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-16T08:29:39.630Z,38.8088341,-122.8213348,2.79,0.74,md,8,120,0.006128,0.01,nc,nc73706331,2022-03-16T08:31:14.820Z,"7km WNW of The Geysers, CA",earthquake,0.53,1.1,0.11,2,automatic,nc,nc
+2022-03-16T08:28:25.180Z,38.8074989,-122.8201675,2.15,1.2,md,29,56,0.007171,0.03,nc,nc73706326,2022-03-16T08:31:09.570Z,"6km WNW of The Geysers, CA",earthquake,0.19,0.32,0.05,6,automatic,nc,nc
+2022-03-16T08:14:43.906Z,63.1377,-150.1773,81.7,1.5,ml,,,,0.32,ak,ak0223g65lae,2022-03-16T08:21:52.589Z,"67 km WSW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-03-16T07:52:27.286Z,63.365,-150.3816,125.7,1.4,ml,,,,0.32,ak,ak0223g5s9m0,2022-03-16T07:56:32.896Z,"69 km ESE of Denali National Park, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2022-03-16T07:49:07.150Z,19.246166229248,-155.399673461914,32.6699981689453,2.26,ml,48,133,,0.119999997,hv,hv72951892,2022-03-16T07:54:38.960Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.47,0.649999976,3.39,7,automatic,hv,hv
 2022-03-16T07:47:53.403Z,38.1076,-118.7343,0,1.3,ml,10,214.02,0.231,0.145,nn,nn00835412,2022-03-16T07:51:57.867Z,"36 km ENE of Mono City, California",earthquake,,43.9,0.16,5,automatic,nn,nn
 2022-03-16T07:45:17.850Z,38.8218346,-122.8125,3.1,0.84,md,13,88,0.002453,0.02,nc,nc73706321,2022-03-16T07:55:10.725Z,"7km NW of The Geysers, CA",earthquake,0.37,0.96,,1,automatic,nc,nc
 2022-03-16T07:41:07.135Z,61.3648,-150.0747,36.2,1.7,ml,,,,0.65,ak,ak0223g5pv5d,2022-03-16T07:56:21.516Z,"5 km W of Point MacKenzie, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2022-03-16T07:26:12.740Z,38.8151665,-122.7614975,1.93,1.11,md,22,112,0.01459,0.03,nc,nc73706316,2022-03-16T07:35:11.591Z,"3km WSW of Cobb, CA",earthquake,0.23,0.42,0.11,5,automatic,nc,nc
+2022-03-16T07:26:12.740Z,38.8151665,-122.7614975,1.93,1.11,md,22,112,0.01459,0.03,nc,nc73706316,2022-03-16T08:24:13.919Z,"3km WSW of Cobb, CA",earthquake,0.23,0.42,0.11,5,automatic,nc,nc
 2022-03-16T07:01:45.110Z,18.0191666666667,-66.6893333333333,11.72,2.07,md,8,184,,0.16,pr,pr71340388,2022-03-16T08:12:39.100Z,"3 km SSE of Tallaboa Alta, Puerto Rico",earthquake,0.45,0.6,0.228038238570803,6,reviewed,pr,pr
 2022-03-16T06:55:58.350Z,33.5033333,-116.5013333,12.95,0.61,ml,21,59,0.05944,0.14,ci,ci39969191,2022-03-16T06:59:38.077Z,"17km ESE of Anza, CA",earthquake,0.25,0.54,0.128,12,automatic,ci,ci
 2022-03-16T06:55:04.580Z,33.5011667,-116.5068333,12.28,0.78,ml,26,57,0.0597,0.21,ci,ci39969183,2022-03-16T06:58:35.684Z,"17km ESE of Anza, CA",earthquake,0.29,0.59,0.141,21,automatic,ci,ci
@@ -140,7 +143,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-15T18:39:00.847Z,37.1578,-117.2407,6.2,1.4,ml,23,91.29,0.144,0.1632,nn,nn00835383,2022-03-16T02:38:12.696Z,"50 km WNW of Beatty, Nevada",earthquake,,2.2,0.74,10,reviewed,nn,nn
 2022-03-15T18:29:43.090Z,38.8163333,-122.8003333,3.48,1.14,md,41,33,0.009231,0.02,nc,nc73706121,2022-03-16T07:17:17.475Z,"6km NW of The Geysers, CA",earthquake,0.17,0.28,0.031,8,reviewed,nc,nc
 2022-03-15T18:28:56.940Z,38.8161659,-122.8000031,3.2,0.35,md,10,82,0.008972,0.01,nc,nc73706116,2022-03-15T18:30:34.261Z,"6km NW of The Geysers, CA",earthquake,0.43,1.27,,1,automatic,nc,nc
-2022-03-15T18:28:39.620Z,38.8158333,-122.7998333,3.65,1.51,md,47,32,0.008614,0.03,nc,nc73706111,2022-03-16T06:52:14.339Z,"6km NW of The Geysers, CA",earthquake,0.15,0.24,0.074,13,reviewed,nc,nc
+2022-03-15T18:28:39.620Z,38.8158333,-122.7998333,3.65,1.51,md,47,32,0.008614,0.03,nc,nc73706111,2022-03-16T08:22:10.901Z,"6km NW of The Geysers, CA",earthquake,0.15,0.24,0.074,13,reviewed,nc,nc
 2022-03-15T18:28:28.990Z,38.8160019,-122.7998352,3.07,0.88,md,26,33,0.008769,0.03,nc,nc73706106,2022-03-15T18:45:10.925Z,"6km NW of The Geysers, CA",earthquake,0.24,0.47,0.32,4,automatic,nc,nc
 2022-03-15T18:28:28.980Z,35.8241667,-117.6456667,7.52,0.73,ml,11,85,0.04003,0.09,ci,ci39968687,2022-03-15T20:40:53.047Z,"23km WNW of Searles Valley, CA",earthquake,0.25,0.52,0.155,5,reviewed,ci,ci
 2022-03-15T18:27:43.120Z,38.8171654,-122.8003311,3.69,0.73,md,18,45,0.00983,0.02,nc,nc73706101,2022-03-15T18:38:10.886Z,"6km NW of The Geysers, CA",earthquake,0.32,0.84,0.24,3,automatic,nc,nc
@@ -281,6 +284,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-15T08:43:34.300Z,38.7589989,-122.7129974,1.91,1.13,md,12,119,0.00963,0.02,nc,nc73705846,2022-03-15T10:13:13.009Z,"3km SW of Anderson Springs, CA",earthquake,0.34,0.37,0.09,4,automatic,nc,nc
 2022-03-15T08:41:04.220Z,17.947,-66.9728333333333,10.09,1.4,md,3,217,,0.04,pr,pr71340253,2022-03-15T08:49:47.510Z,"Puerto Rico region",earthquake,2.23,1.1,0.00820542552934445,3,reviewed,pr,pr
 2022-03-15T08:35:45.670Z,36.8806667,-121.6175,8.11,0.68,md,16,57,0.02082,0.07,nc,nc73705841,2022-03-15T22:22:14.296Z,"2km ESE of Aromas, CA",earthquake,0.33,0.42,0.261,12,reviewed,nc,nc
-2022-03-15T08:31:11.380Z,35.7495,-117.5791667,11.07,1.33,ml,28,142,0.06776,0.16,ci,ci40208144,2022-03-15T16:25:00.804Z,"16km W of Searles Valley, CA",earthquake,0.26,0.38,0.182,14,reviewed,ci,ci
-2022-03-15T08:31:09.879Z,61.3731,-150.0666,47.6,1.6,ml,,,,0.95,ak,ak0223eiptci,2022-03-15T08:39:41.654Z,"4 km WNW of Point MacKenzie, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-03-15T08:25:44.240Z,17.9313333333333,-66.8763333333333,18.2,2.35,md,6,218,,0.14,pr,pr71340248,2022-03-15T08:40:16.990Z,"5 km SSE of Maria Antonia, Puerto Rico",earthquake,1.12,1.83,0.214527835704291,7,reviewed,pr,pr
