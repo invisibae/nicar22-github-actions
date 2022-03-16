@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-16T17:51:02.410Z,35.6404991,-117.4179993,5.73,2.42,ml,23,100,0.06481,0.13,ci,ci39969439,2022-03-16T17:53:11.849Z,"14km S of Searles Valley, CA",earthquake,0.3,0.91,0.199,25,automatic,ci,ci
+2022-03-16T17:40:39.050Z,17.9736666666667,-66.9491666666667,6.39,2.06,md,4,180,,0.07,pr,pr71340448,2022-03-16T17:51:50.140Z,"3 km WSW of Fuig, Puerto Rico",earthquake,1.41,0.96,0.0947762253014179,4,reviewed,pr,pr
 2022-03-16T17:30:29.090Z,19.2218341827393,-155.411499023438,35.560001373291,2.24,ml,40,145,,0.150000006,hv,hv72952422,2022-03-16T17:35:59.100Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.6,0.819999993,3.81,4,automatic,hv,hv
 2022-03-16T17:29:47.330Z,19.2164993286133,-155.411499023438,36.4900016784668,2.34,ml,42,144,,0.119999997,hv,hv72952417,2022-03-16T17:35:17.420Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.57,0.75,0.2,3,automatic,hv,hv
 2022-03-16T17:17:39.431Z,37.7793,141.9891,56.92,4.6,mb,,155,3.09,1.04,us,usd000h1ve,2022-03-16T17:50:32.040Z,"93 km SE of Ishinomaki, Japan",earthquake,10.9,9.6,0.123,20,reviewed,us,us
@@ -9,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-16T16:08:00.940Z,19.2473335266113,-155.38932800293,33.2999992370605,2.39,ml,48,136,,0.129999995,hv,hv72952332,2022-03-16T16:13:31.560Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.53,0.800000012,3.15,8,automatic,hv,hv
 2022-03-16T16:06:28.500Z,38.8208351,-122.8001633,2.99,0.85,md,18,51,0.008153,0.01,nc,nc73706446,2022-03-16T17:26:11.343Z,"6km NW of The Geysers, CA",earthquake,0.28,0.49,0.04,3,automatic,nc,nc
 2022-03-16T15:59:27.340Z,33.3048333,-116.2803333,7.63,1.02,ml,32,75,0.06239,0.14,ci,ci39969383,2022-03-16T17:02:51.510Z,"10km ENE of Borrego Springs, CA",earthquake,0.24,0.35,0.114,17,reviewed,ci,ci
-2022-03-16T15:52:31.148Z,37.853,141.8271,67.18,5.5,mb,,48,2.991,1.13,us,us6000h53e,2022-03-16T16:27:05.365Z,"77 km SE of Ishinomaki, Japan",earthquake,6.6,6.1,0.022,715,reviewed,us,us
+2022-03-16T15:52:31.148Z,37.853,141.8271,67.18,5.5,mb,,48,2.991,1.13,us,us6000h53e,2022-03-16T17:56:13.388Z,"77 km SE of Ishinomaki, Japan",earthquake,6.6,6.1,0.022,715,reviewed,us,us
 2022-03-16T15:32:19.900Z,38.8208351,-122.8000031,2.88,1.15,md,32,31,0.008272,0.02,nc,nc73706436,2022-03-16T17:39:15.434Z,"6km NW of The Geysers, CA",earthquake,0.19,0.37,0.13,6,automatic,nc,nc
 2022-03-16T15:29:40.020Z,36.278,-97.50216667,7.95,2.79,ml,94,27,0,0.19,ok,ok2022fgjx,2022-03-16T15:38:07.185Z,"4 km W of Lucien, Oklahoma",earthquake,,0.4,0.24,37,reviewed,ok,ok
 2022-03-16T15:24:03.658Z,61.9601,-150.5588,49.9,2.1,ml,,,,0.57,ak,ak0223gadokt,2022-03-16T15:43:40.539Z,"36 km NW of Willow, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -18,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-16T14:55:15.090Z,19.1966667175293,-155.474838256836,32.2000007629395,1.77999997,md,41,89,,0.109999999,hv,hv72952252,2022-03-16T14:58:40.300Z,"0 km SSE of Pāhala, Hawaii",earthquake,0.49,0.889999986,0.589999974,8,automatic,hv,hv
 2022-03-16T14:40:32.220Z,48.75083333333333,-121.83566666666667,30.96,0.9500000000000001,md,12,98,0.05478,0.34,uw,uw61822721,2022-03-16T17:29:19.620Z,"17 km SSE of Glacier, Washington",earthquake,1.05,1.36,0.17554066509890998,7,reviewed,uw,uw
 2022-03-16T14:40:18.580Z,38.7985001,-122.7921677,2.75,0.92,md,23,59,0.006266,0.04,nc,nc73706406,2022-03-16T16:21:12.921Z,"4km NW of The Geysers, CA",earthquake,0.25,0.47,0.21,4,automatic,nc,nc
-2022-03-16T14:36:33.264Z,37.7015,141.587,63.07,7.3,mww,,29,2.937,1,us,us6000h519,2022-03-16T17:48:44.265Z,"57 km ENE of Namie, Japan",earthquake,6.8,4.9,0.054,33,reviewed,us,us
+2022-03-16T14:36:33.264Z,37.7015,141.587,63.07,7.3,mww,,29,2.937,1,us,us6000h519,2022-03-16T17:54:03.666Z,"57 km ENE of Namie, Japan",earthquake,6.8,4.9,0.054,33,reviewed,us,us
 2022-03-16T14:34:27.351Z,37.6327,141.6846,56.32,6.4,mww,,51,2.984,0.74,us,us6000h518,2022-03-16T17:41:02.032Z,"62 km ENE of Namie, Japan",earthquake,7.5,6.4,0.098,10,reviewed,us,us
 2022-03-16T14:17:50.594Z,37.1039,-115.3162,4.6,2.3,ml,30,82.38,0.369,0.1787,nn,nn00835416,2022-03-16T16:48:41.336Z,"31 km SSW of Alamo, Nevada",earthquake,,2.8,0.4,19,reviewed,nn,nn
 2022-03-16T14:13:07.790Z,64.815,-147.4234,15.8,0.7,ml,,,,0.82,ak,ak0223g9pwex,2022-03-16T14:25:45.291Z,"5 km ENE of Badger, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -245,5 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-15T18:12:54.650Z,18.021,-66.822,15.44,2.31,md,11,148,,0.12,pr,pr71340333,2022-03-15T18:27:51.210Z,"2 km N of Indios, Puerto Rico",earthquake,0.33,0.84,0.103385767967436,5,reviewed,pr,pr
 2022-03-15T18:04:47.590Z,37.5336667,-121.822,3.57,0.65,md,18,76,0.02015,0.06,nc,nc73706081,2022-03-16T09:19:13.289Z,"10km SE of Sunol, CA",earthquake,0.27,0.22,0.305,11,reviewed,nc,nc
 2022-03-15T18:02:46.679Z,34.50166667,-97.21116667,0,1.46,ml,23,102,0.1349735136,0.51,ok,ok2022fetl,2022-03-16T13:08:14.981Z,"8 km W of Davis, Oklahoma",quarry blast,,1,0.33,11,reviewed,ok,ok
-2022-03-15T17:57:00.440Z,19.2186660766602,-155.385665893555,32.1100006103516,1.83000004,md,40,155,,0.129999995,hv,hv72951212,2022-03-15T18:00:09.340Z,"Island of Hawaii, Hawaii",earthquake,0.71,0.829999983,0.839999974,7,automatic,hv,hv
-2022-03-15T17:53:09.410Z,36.2345,-95.83933333,0,1.41,ml,59,119,0.3257360795,0.43,ok,ok2022fetd,2022-03-16T13:14:57.032Z,"4 km SSE of Owasso, Oklahoma",quarry blast,,0.4,0.21,25,reviewed,ok,ok
