@@ -3265,3 +3265,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-16T10:01:39.710Z,38.8294983,-122.8040009,1.86,0.85,md,7.0,105.0,0.007723,0.02,nc,nc73706356,2022-03-16T10:11:11.596Z,"7km W of Cobb, CA",earthquake,0.5,1.24,,1.0,automatic,nc,nc
 2022-03-16T10:23:21.554Z,59.9573,-152.9849,109.7,1.6,ml,,,,0.5,ak,ak0223g7ec7v,2022-03-16T10:33:02.092Z,"65 km ENE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-03-16T10:18:50.910Z,60.7927,-147.6931,13.8,1.9,ml,,,,0.88,ak,ak0223g7dbxx,2022-03-16T10:32:03.548Z,"54 km E of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-16T10:40:01.479Z,61.1625,-152.2153,10.5,0.7,ml,,,,0.08,ak,ak0223g7hxxp,2022-03-16T10:45:38.764Z,"59 km W of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-16T10:34:40.019Z,64.8666,-149.3756,15.6,0.9,ml,,,,0.28,ak,ak0223g7gqj1,2022-03-16T10:45:27.745Z,"31 km S of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
