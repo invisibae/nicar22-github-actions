@@ -218,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-16T09:18:50.240Z,33.5581667,-116.6596667,7.67,0.42,ml,21,59,0.02574,0.1,ci,ci39969215,2022-03-16T13:14:26.580Z,"1km ENE of Anza, CA",earthquake,0.17,0.37,0.087,11,reviewed,ci,ci
 2022-03-16T09:17:18.630Z,19.2383327484131,-155.389663696289,32.7400016784668,2.07,ml,47,146,,0.140000001,hv,hv72951937,2022-03-16T09:22:48.900Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.5,0.620000005,3.95,3,automatic,hv,hv
 2022-03-16T09:03:06.480Z,18.6188,-68.8535,109,4.07,md,29,126,0.4836,0.06,pr,pr2022075000,2022-03-16T12:25:38.368Z,"13 km ENE of Guaymate, Dominican Republic",earthquake,1.37,0.71,0.16,25,reviewed,pr,pr
-2022-03-16T08:50:20.666Z,-16.4839,-173.7828,92.1,4.8,mb,,52,3.206,1.03,us,us6000h4zq,2022-03-16T09:08:27.040Z,"58 km S of Hihifo, Tonga",earthquake,8.4,7,0.032,308,reviewed,us,us
