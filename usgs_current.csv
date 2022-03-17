@@ -27,6 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-17T06:34:19.292Z,64.5603,-149.3173,17,1.1,ml,,,,0.16,ak,ak0223hsmazt,2022-03-17T06:44:01.908Z,"10 km WSW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-17T06:30:12.274Z,69.6006,-144.3689,10.2,2.7,ml,,,,0.84,ak,ak0223hslgtm,2022-03-17T06:52:42.040Z,"65 km SSW of Kaktovik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-17T06:27:03.420Z,38.831665,-122.8170013,1.44,0.82,md,23,52,0.009873,0.02,nc,nc73706671,2022-03-17T07:07:21.761Z,"8km NW of The Geysers, CA",earthquake,0.19,0.42,0.23,4,automatic,nc,nc
+2022-03-17T06:20:23.072Z,25.0234,-45.2489,10,4.7,mb,,145,17.139,1.07,us,us6000h5c2,2022-03-17T10:39:07.040Z,"northern Mid-Atlantic Ridge",earthquake,15.1,1.9,0.082,45,reviewed,us,us
 2022-03-17T06:07:03.580Z,38.8118324,-122.8284988,1.76,1.01,md,20,57,0.003007,0.03,nc,nc73706666,2022-03-17T06:14:10.566Z,"7km WNW of The Geysers, CA",earthquake,0.2,0.39,0.14,3,automatic,nc,nc
 2022-03-17T05:56:09.220Z,38.8043327,-122.807663,1.5,0.49,md,15,54,0.01032,0.02,nc,nc73706661,2022-03-17T06:07:10.383Z,"5km NW of The Geysers, CA",earthquake,0.24,0.56,0.35,2,automatic,nc,nc
 2022-03-17T05:35:15.565Z,36.13393784,-97.53929901,2.348222733,2.09,ml,61,20.82073975,0.09669910371,0.5475576258,ok,ok2022fhlu,2022-03-17T05:38:10.145Z,"8 km ESE of Marshall, Oklahoma",earthquake,1.394914992,1.271850485,,45,automatic,ok,ok
@@ -196,7 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-16T10:56:52.430Z,47.308,-122.02033333333334,21.96,1.33,ml,27,115,0.05016,0.15,uw,uw61822716,2022-03-16T21:49:26.481Z,"1 km W of Black Diamond, Washington",earthquake,0.4,0.66,0.08938136776708694,8,reviewed,uw,uw
 2022-03-16T10:51:28.677Z,45.2949,-68.7303,5,1.3,ml,,105,0.397,0.45,us,us6000h5b4,2022-03-17T06:01:11.040Z,"7 km S of Seboeis, Maine",earthquake,1.6,1.9,0.128,8,reviewed,us,us
 2022-03-16T10:50:11.460Z,35.9376667,-117.2205,5.09,1.07,ml,20,92,0.06909,0.14,ci,ci39969239,2022-03-16T15:58:34.170Z,"24km NE of Trona, CA",earthquake,0.21,0.47,0.019,5,reviewed,ci,ci
-2022-03-16T10:48:10.386Z,40.0303,-119.5571,10.7,0.6,ml,3,270.17,0.223,0.0853,nn,nn00835479,2022-03-17T02:38:58.924Z,"9 km NNE of Sutcliffe, Nevada",earthquake,,13.5,0,1,reviewed,nn,nn
-2022-03-16T10:46:14.466Z,-23.4521,-179.8516,523.49,4.7,mb,,66,6.007,0.77,us,us6000h50g,2022-03-16T11:02:07.040Z,"south of the Fiji Islands",earthquake,11.4,8.1,0.035,247,reviewed,us,us
-2022-03-16T10:46:03.608Z,38.8775,-119.6498,0,0.8,ml,4,252.46,0.036,0.1017,nn,nn00835478,2022-03-17T02:38:58.004Z,"1 km NNW of Carter Springs, Nevada",earthquake,,0,0,1,reviewed,nn,nn
-2022-03-16T10:40:01.479Z,61.1625,-152.2153,10.5,0.7,ml,,,,0.08,ak,ak0223g7hxxp,2022-03-16T10:48:59.153Z,"59 km W of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
