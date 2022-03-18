@@ -3829,3 +3829,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T11:05:12.390Z,35.6238333,-117.5875,6.35,1.0,ml,15.0,112.0,0.1087,0.13,ci,ci39970991,2022-03-18T11:08:53.527Z,"8km E of Ridgecrest, CA",earthquake,0.32,1.24,0.248,12.0,automatic,ci,ci
 2022-03-18T10:17:26.050Z,19.1568333333333,-66.5751666666667,53.94,3.13,md,14.0,234.0,,0.31,pr,pr71340708,2022-03-18T11:02:13.610Z,"77 km N of Arecibo, Puerto Rico",earthquake,1.56,4.56,0.108098150788944,14.0,reviewed,pr,pr
 2022-03-18T11:43:33.050Z,33.6315002,-116.6924973,13.3,0.96,ml,34.0,50.0,0.04043,0.17,ci,ci39971007,2022-03-18T11:45:52.532Z,"9km NNW of Anza, CA",earthquake,0.32,0.68,0.23,8.0,automatic,ci,ci
+2022-03-18T12:02:26.440Z,33.1831665,-116.7143326,4.56,1.1,ml,38.0,49.0,0.05845,0.18,ci,ci39971015,2022-03-18T12:04:31.620Z,"8km SE of Lake Henshaw, CA",earthquake,0.25,0.52,0.267,8.0,automatic,ci,ci
