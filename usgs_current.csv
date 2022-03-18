@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-18T02:53:53.961Z,61.4026,-147.0614,19,1.6,ml,,,,0.97,ak,ak0223jdw2cv,2022-03-18T02:56:33.334Z,"48 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-18T02:38:09.680Z,34.0403333,-117.6071667,3.54,1.22,ml,36,37,0.05198,0.25,ci,ci39970751,2022-03-18T02:42:59.700Z,"2km SE of Ontario, CA",earthquake,0.32,0.63,0.145,28,automatic,ci,ci
 2022-03-18T02:29:15.450Z,19.3913326263428,-154.92317199707,4.09999990463257,2.02,ml,23,288,,0.310000002,hv,hv72954122,2022-03-18T02:34:45.840Z,"8 km S of Leilani Estates, Hawaii",earthquake,2.72,1.08000004,0.2,3,automatic,hv,hv
 2022-03-18T02:26:55.696Z,61.1667,-152.2949,95.2,1.6,ml,,,,0.63,ak,ak0223jdqaa1,2022-03-18T02:44:03.642Z,"63 km W of Tyonek, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -238,8 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-17T03:22:54.560Z,38.8380013,-122.7854996,1.05,0.36,md,9,84,0.003805,0.01,nc,nc73706631,2022-03-17T05:19:16.101Z,"6km WNW of Cobb, CA",earthquake,0.39,0.92,,1,automatic,nc,nc
 2022-03-17T03:17:41.926Z,61.752,-152.0329,97.1,2.1,ml,,,,0.63,ak,ak0223hqqepj,2022-03-17T03:30:04.870Z,"42 km SW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-17T03:16:01.530Z,38.8251667,-122.786,1.41,-0.31,md,11,72,0.01259,0.03,nc,nc73706626,2022-03-17T04:59:36.524Z,"6km W of Cobb, CA",earthquake,0.23,0.37,,1,reviewed,nc,nc
-2022-03-17T03:03:29.510Z,39.0705,-123.0518333,2.19,2.01,md,46,56,0.07854,0.06,nc,nc73706616,2022-03-17T06:41:28.607Z,"12km WNW of Lakeport, CA",earthquake,0.13,0.91,0.219,32,reviewed,nc,nc
-2022-03-17T02:57:29.060Z,36.0295,-117.7808333,2.44,0.73,ml,10,211,0.01333,0.05,ci,ci37491077,2022-03-17T15:47:07.538Z,"15km E of Coso Junction, CA",earthquake,0.24,0.13,0.135,4,reviewed,ci,ci
-2022-03-17T02:57:20.840Z,36.1718333,-117.8535,2.8,0.92,ml,18,58,0.05415,0.1,ci,ci39969767,2022-03-17T15:41:51.897Z,"16km NNE of Coso Junction, CA",earthquake,0.17,0.42,0.244,6,reviewed,ci,ci
-2022-03-17T02:55:29.150Z,36.0243333,-117.7821667,2.21,0.17,ml,12,68,0.01373,0.07,ci,ci39969759,2022-03-17T15:58:56.550Z,"15km NE of Little Lake, CA",earthquake,0.13,0.13,0.144,3,reviewed,ci,ci
-2022-03-17T02:50:57.367Z,60.2851,-152.0911,72.9,1.8,ml,,,,0.62,ak,ak0223hqc2yw,2022-03-17T02:52:44.746Z,"35 km NW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
