@@ -4186,3 +4186,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T14:32:26.920Z,33.4021667,-116.3655,5.99,0.77,ml,19.0,140.0,0.131,0.18,ci,ci39972335,2022-03-19T14:36:08.464Z,"16km N of Borrego Springs, CA",earthquake,0.42,1.59,0.154,15.0,automatic,ci,ci
 2022-03-19T14:39:48.836Z,60.7355,-150.8275,14.2,1.6,ml,,,,0.27,ak,ak0223l8hloj,2022-03-19T14:42:46.879Z,"22 km SSW of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-19T14:39:12.085Z,38.1785,-117.8991,16.0,0.6,ml,8.0,172.96,0.062,0.2161,nn,nn00835675,2022-03-19T14:43:17.124Z,"29 km SE of Mina, Nevada",earthquake,,1.4,0.47,5.0,automatic,nn,nn
+2022-03-19T15:12:31.400Z,38.836834,-122.8011703,1.86,0.36,md,6.0,117.0,0.0086,0.0,nc,nc73707746,2022-03-19T15:14:04.960Z,"7km WNW of Cobb, CA",earthquake,0.59,1.7,,1.0,automatic,nc,nc
+2022-03-19T14:56:10.638Z,38.1832,-117.7621,11.2,0.9,ml,8.0,161.61,0.115,0.0598,nn,nn00835676,2022-03-19T15:00:27.408Z,"38 km SE of Mina, Nevada",earthquake,,2.3,0.21,4.0,automatic,nn,nn
+2022-03-19T14:33:21.640Z,17.8933333333333,-66.8541666666667,14.4,3.39,md,35.0,202.0,,0.16,pr,pr71340868,2022-03-19T15:13:12.670Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,0.39,0.43,0.157250740920396,17.0,reviewed,pr,pr
+2022-03-19T00:58:12.820Z,46.8901667,-112.5165,10.88,1.27,ml,16.0,65.0,0.051,0.18,mb,mb80540934,2022-03-19T15:11:21.150Z,"14 km ESE of Lincoln, Montana",earthquake,0.53,0.55,0.201,7.0,reviewed,mb,mb
