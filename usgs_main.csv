@@ -4143,3 +4143,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T10:41:33.650Z,36.0631676,-120.1926651,7.53,1.34,md,7.0,217.0,0.09475,0.07,nc,nc73707641,2022-03-19T10:43:09.937Z,"9km NW of Avenal, CA",earthquake,1.84,1.05,0.03,3.0,automatic,nc,nc
 2022-03-19T10:48:12.572Z,61.8009,-151.0023,72.1,1.6,ml,,,,0.45,ak,ak0223l65pxb,2022-03-19T10:50:45.268Z,"29 km SE of Skwentna, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2022-03-19T10:47:08.970Z,35.7583333,-117.586,9.78,1.46,ml,21.0,125.0,0.05804,0.16,ci,ci39972095,2022-03-19T10:50:59.519Z,"16km W of Searles Valley, CA",earthquake,0.29,0.63,0.212,21.0,automatic,ci,ci
+2022-03-19T10:53:43.320Z,33.2306667,-116.7293333,11.39,0.37,ml,13.0,68.0,0.02523,0.14,ci,ci39972103,2022-03-19T10:57:19.001Z,"3km ESE of Lake Henshaw, CA",earthquake,0.32,0.57,0.055,7.0,automatic,ci,ci
