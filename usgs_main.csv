@@ -4175,3 +4175,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T12:39:03.970Z,19.2256660461426,-155.387161254883,32.5099983215332,2.1099999,md,38.0,156.0,,0.129999995,hv,hv72955597,2022-03-19T12:42:33.770Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.6,0.899999976,0.519999981,11.0,automatic,hv,hv
 2022-03-19T12:25:26.123Z,28.2544,55.2906,10.0,4.7,mb,,72.0,3.395,0.71,us,us6000h60f,2022-03-19T12:58:40.040Z,"91 km SE of Dārāb, Iran",earthquake,8.5,1.9,0.059,87.0,reviewed,us,us
 2022-03-19T13:16:32.514Z,62.8361,-150.5243,85.7,1.6,ml,,,,0.56,ak,ak0223l7r7cj,2022-03-19T13:20:23.569Z,"39 km NNE of Petersville, Alaska",earthquake,,2.3,,,automatic,ak,ak
+2022-03-19T13:31:36.220Z,35.3658333,-118.5808333,1.11,1.69,ml,31.0,41.0,0.1505,0.23,ci,ci39972271,2022-03-19T13:35:22.638Z,"26km SSW of Bodfish, CA",earthquake,0.29,0.82,0.225,27.0,automatic,ci,ci
