@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-19T14:24:10.290Z,33.9988333,-116.8458333,12.34,1.93,ml,63,27,0.04808,0.22,ci,ci39972327,2022-03-19T14:27:52.949Z,"9km NNE of Banning, CA",earthquake,0.21,0.58,0.186,27,automatic,ci,ci
+2022-03-19T14:32:26.920Z,33.4021667,-116.3655,5.99,0.77,ml,19,140,0.131,0.18,ci,ci39972335,2022-03-19T14:36:08.464Z,"16km N of Borrego Springs, CA",earthquake,0.42,1.59,0.154,15,automatic,ci,ci
+2022-03-19T14:24:10.290Z,33.9988333,-116.8458333,12.34,1.93,ml,63,27,0.04808,0.22,ci,ci39972327,2022-03-19T14:35:02.800Z,"9km NNE of Banning, CA",earthquake,0.21,0.58,0.186,27,automatic,ci,ci
 2022-03-19T14:18:23.540Z,35.3688333,-118.5836667,0.89,1.65,ml,27,48,0.154,0.21,ci,ci39972319,2022-03-19T14:28:55.800Z,"26km SSW of Bodfish, CA",earthquake,0.3,0.84,0.166,29,automatic,ci,ci
 2022-03-19T14:14:44.280Z,33.7806667,-115.7085,8.9,1.36,ml,21,82,0.09334,0.18,ci,ci39972303,2022-03-19T14:18:25.958Z,"29km WNW of Desert Center, CA",earthquake,0.42,1.16,0.193,18,automatic,ci,ci
-2022-03-19T13:45:28.730Z,38.8288345,-122.8150024,1.96,1.2,md,26,44,0.006657,0.03,nc,nc73707721,2022-03-19T14:06:11.983Z,"8km NW of The Geysers, CA",earthquake,0.17,0.4,0.06,5,automatic,nc,nc
+2022-03-19T13:45:28.730Z,38.8288345,-122.8150024,1.96,1.2,md,26,44,0.006657,0.03,nc,nc73707721,2022-03-19T14:34:12.158Z,"8km NW of The Geysers, CA",earthquake,0.17,0.4,0.06,5,automatic,nc,nc
 2022-03-19T13:41:25.780Z,32.6293335,-115.791832,7.81,1.76,ml,34,123,0.05871,0.19,ci,ci39972279,2022-03-19T13:45:02.697Z,"20km WNW of Progreso, B.C., MX",earthquake,0.42,0.67,0.309,11,automatic,ci,ci
 2022-03-19T13:40:54.210Z,36.5928345,-121.1881638,6.45,2.08,md,26,124,0.02121,0.09,nc,nc73707716,2022-03-19T14:08:10.994Z,"8km NNW of Pinnacles, CA",earthquake,0.3,0.61,0.16,23,automatic,nc,nc
 2022-03-19T13:38:58.792Z,59.7503,-152.7908,90.8,2.3,ml,,,,0.4,ak,ak0223l7vz2h,2022-03-19T14:21:00.498Z,"53 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -48,7 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T09:58:26.758Z,58.1593,-151.2738,35,2.9,ml,,195,0.793,0.34,us,us6000h5zt,2022-03-19T10:32:01.040Z,"77 km ENE of Ouzinkie, Alaska",earthquake,5.3,2,0.043,72,reviewed,us,us
 2022-03-19T09:57:22.920Z,32.2468333,-116.3778333,4.01,1.37,ml,12,94,0.2509,0.13,ci,ci39972071,2022-03-19T10:00:55.248Z,"41km SSE of Campo, CA",earthquake,0.48,31.61,0.196,12,automatic,ci,ci
 2022-03-19T09:54:12.030Z,17.9626666666667,-66.9601666666667,11.08,2.77,md,26,175,,0.16,pr,pr71340848,2022-03-19T11:15:10.120Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.47,0.35,0.224136642273366,12,reviewed,pr,pr
-2022-03-19T09:53:11.941Z,41.339,-106.5668,10.06,3.8,ml,,62,0.646,0.77,us,us6000h5zq,2022-03-19T14:28:36.357Z,"5 km WNW of Ryan Park, Wyoming",earthquake,2.8,8.5,0.033,142,reviewed,us,us
+2022-03-19T09:53:11.941Z,41.339,-106.5668,10.06,3.8,ml,,62,0.646,0.77,us,us6000h5zq,2022-03-19T14:33:41.797Z,"5 km WNW of Ryan Park, Wyoming",earthquake,2.8,8.5,0.033,142,reviewed,us,us
 2022-03-19T09:48:42.305Z,35.26375961,-97.87870026,5,1.53,ml,10,92.37342834,0.09236814082,0.976279575,ok,ok2022flle,2022-03-19T09:51:26.163Z,"6 km WSW of Tuttle, Oklahoma",earthquake,4.607692445,,,6,automatic,ok,ok
 2022-03-19T09:35:53.700Z,19.1728324890137,-155.500503540039,34.9900016784668,1.87,md,34,238,,0.119999997,hv,hv72955462,2022-03-19T09:39:11.100Z,"4 km SW of Pāhala, Hawaii",earthquake,0.58,0.680000007,1.66999996,6,automatic,hv,hv
 2022-03-19T09:31:17.006Z,-28.0441,-67.0952,199.32,4.2,mb,,68,2.171,0.58,us,us6000h5zp,2022-03-19T09:57:36.040Z,"36 km S of Londres, Argentina",earthquake,8.5,13.3,0.236,5,reviewed,us,us
@@ -247,7 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T14:46:09.871Z,-4.6656,101.735,35,4.4,mb,,121,1.254,0.75,us,us6000h5q4,2022-03-19T04:57:52.040Z,"112 km SSW of Bengkulu, Indonesia",earthquake,7.9,2,0.114,22,reviewed,us,us
 2022-03-18T14:43:38.420Z,45.328,-121.68483333333333,5.12,1.01,ml,8,141,0.01959,0.09,uw,uw61814367,2022-03-18T16:33:37.760Z,"6 km ENE of Government Camp, Oregon",earthquake,0.41,0.9,0.1818853170182272,5,reviewed,uw,uw
 2022-03-18T14:41:51.664Z,44.2565,-115.0661,12.59,2.3,ml,,68,0.748,0.78,us,us6000h5pz,2022-03-19T05:14:05.040Z,"11 km WNW of Stanley, Idaho",earthquake,2.4,9.2,0.064,32,reviewed,us,us
-2022-03-18T14:40:30.180Z,38.8251648,-122.802002,2.49,0.71,md,11,77,0.006548,0.01,nc,nc73707231,2022-03-18T15:24:17.861Z,"7km NW of The Geysers, CA",earthquake,0.38,1.03,0.14,2,automatic,nc,nc
-2022-03-18T14:39:47.160Z,44.2441667,-115.0515,8.08,1.92,ml,11,85,0.74,0.41,mb,mb80540829,2022-03-18T17:57:17.850Z,"9 km WNW of Stanley, Idaho",earthquake,1,2.36,0.089,7,reviewed,mb,mb
-2022-03-18T14:37:31.635Z,59.9408,-152.7302,87.5,1.8,ml,,,,0.66,ak,ak0223jkxsfh,2022-03-18T14:57:54.955Z,"53 km WNW of Anchor Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-03-18T14:36:54.940Z,45.324666666666666,-121.68383333333334,5.53,0.56,ml,7,151,0.02173,0.08,uw,uw61814357,2022-03-18T17:55:49.980Z,"6 km ENE of Government Camp, Oregon",earthquake,0.41,0.54,0.08984482831326368,3,reviewed,uw,uw
