@@ -4515,3 +4515,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-21T06:34:52.100Z,19.1464996337891,-155.460662841797,31.2600002288818,1.96000004,md,27.0,172.0,,0.150000006,hv,hv72957587,2022-03-21T06:37:57.290Z,"6 km SSE of Pāhala, Hawaii",earthquake,0.9,0.800000012,0.970000029,3.0,automatic,hv,hv
 2022-03-21T06:30:49.610Z,33.4928333,-116.774,3.11,0.39,ml,15.0,56.0,0.0294,0.18,ci,ci39973295,2022-03-21T06:34:27.639Z,"10km ENE of Aguanga, CA",earthquake,0.36,0.76,0.108,5.0,automatic,ci,ci
 2022-03-21T05:40:08.250Z,17.9898333333333,-66.8613333333333,9.65,2.64,md,15.0,153.0,,0.21,pr,pr71341038,2022-03-21T06:26:50.350Z,"2 km SSE of Palomas, Puerto Rico",earthquake,0.59,0.58,0.0710826665931275,5.0,reviewed,pr,pr
+2022-03-21T06:49:59.792Z,65.5251,-148.3876,0.0,2.2,ml,,,,0.55,ak,ak0223oeuzu3,2022-03-21T06:52:06.878Z,"7 km E of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
