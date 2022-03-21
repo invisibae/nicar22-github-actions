@@ -4662,3 +4662,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-21T19:04:06.984Z,38.598,-118.1782,0.0,1.0,ml,8.0,137.05,0.166,0.1999,nn,nn00835739,2022-03-21T19:08:08.782Z,"23 km NNW of Mina, Nevada",earthquake,,9.1,0.32,5.0,automatic,nn,nn
 2022-03-21T19:03:19.635Z,61.3697,-150.0645,35.7,1.6,ml,,,,0.72,ak,ak0223ombonv,2022-03-21T19:14:49.593Z,"4 km WNW of Point MacKenzie, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2022-03-21T16:28:47.044Z,-56.6938,-25.4038,10.0,5.0,mb,,84.0,6.745,0.7,us,us6000h6hj,2022-03-21T19:08:00.040Z,South Sandwich Islands region,earthquake,8.9,1.9,0.111,29.0,reviewed,us,us
+2022-03-21T19:24:47.110Z,62.4963,-149.8899,56.9,2.0,ml,,,,0.41,ak,ak0223omg8rr,2022-03-21T19:26:13.617Z,"12 km ENE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-03-21T19:21:20.260Z,35.649,-117.5455,8.19,1.23,ml,17.0,141.0,0.09217,0.16,ci,ci39973663,2022-03-21T19:25:03.227Z,"12km ENE of Ridgecrest, CA",earthquake,0.34,1.28,0.145,15.0,automatic,ci,ci
+2022-03-21T19:18:46.748Z,62.9675,-149.3196,0.0,1.6,ml,,,,1.02,ak,ak0223omeyhu,2022-03-21T19:26:10.683Z,"50 km SSW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-21T08:46:54.450Z,48.318666666666665,-122.109,12.15,1.25,ml,16.0,93.0,0.05529,0.1,uw,uw61814952,2022-03-21T19:23:38.400Z,"6 km W of Lake Cavanaugh, Washington",earthquake,0.47,0.8,0.1761005118848204,3.0,reviewed,uw,uw
