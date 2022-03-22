@@ -4884,3 +4884,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-21T23:43:28.240Z,39.417,-110.3053333,-2.46,1.64,ml,9.0,198.0,0.01687,0.13,uu,uu60486622,2022-03-22T14:01:41.480Z,"16 km SSE of Sunnyside, Utah",earthquake,0.38,1.04,0.084,2.0,reviewed,uu,uu
 2022-03-22T14:25:58.370Z,35.6833344,-117.4834976,5.41,1.09,ml,14.0,103.0,0.09817,0.16,ci,ci39974327,2022-03-22T14:28:20.464Z,"12km SW of Searles Valley, CA",earthquake,0.7,3.65,0.023,4.0,automatic,ci,ci
 2022-03-21T20:38:55.690Z,47.7423333,-113.8245,1.39,-0.27,md,5.0,241.0,0.175,0.04,mb,mb80541189,2022-03-22T14:28:25.450Z,"17 km E of Finley Point, Montana",earthquake,0.83,1.07,0.062,2.0,reviewed,mb,mb
+2022-03-22T14:02:28.876Z,34.7065,23.1291,10.0,4.3,mb,,199.0,1.557,0.81,us,us6000h6ml,2022-03-22T14:32:03.040Z,"77 km SW of Palaióchora, Greece",earthquake,8.6,2.0,0.091,34.0,reviewed,us,us
+2022-03-21T22:52:00.120Z,47.7616667,-113.8091667,9.61,-0.2,md,6.0,249.0,0.17,0.1,mb,mb80541194,2022-03-22T14:31:36.800Z,"18 km S of Swan Lake, Montana",earthquake,1.54,2.97,0.061,2.0,reviewed,mb,mb
