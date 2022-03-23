@@ -5177,3 +5177,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T11:11:00.046Z,37.7706,141.6324,55.51,4.5,mb,,137.0,2.997,0.58,us,us6000h6wv,2022-03-23T12:49:26.040Z,"64 km ENE of Namie, Japan",earthquake,9.6,8.3,0.15,13.0,reviewed,us,us
 2022-03-23T05:05:10.930Z,36.3093333,-89.5296667,9.47,1.72,md,27.0,33.0,0.03352,0.07,nm,nm60378112,2022-03-23T13:11:30.070Z,"6 km NW of Ridgely, Tennessee",earthquake,0.54,0.66,0.141,25.0,reviewed,nm,nm
 2022-03-23T04:17:48.430Z,39.4191667,-110.31,-1.72,1.44,md,6.0,196.0,0.01269,0.08,uu,uu60486722,2022-03-23T13:16:14.920Z,"16 km SSE of Sunnyside, Utah",earthquake,0.81,0.64,0.212,6.0,reviewed,uu,uu
+2022-03-23T13:21:21.770Z,33.4855,-116.5556667,9.73,0.57,ml,12.0,123.0,0.04052,0.19,ci,ci39975207,2022-03-23T13:24:54.640Z,"13km SE of Anza, CA",earthquake,0.63,1.49,0.189,7.0,automatic,ci,ci
+2022-03-23T10:20:55.270Z,44.7166667,-110.0491667,6.74,0.18,md,4.0,208.0,0.0797,0.1,uu,uu60486742,2022-03-23T13:22:26.510Z,"32 km S of Silver Gate, Montana",earthquake,2.42,4.59,0.063,3.0,reviewed,uu,uu
+2022-03-23T00:46:02.220Z,36.1263333,-89.7291667,6.82,1.99,md,30.0,64.0,0.02289,0.1,nm,nm60378082,2022-03-23T13:26:48.150Z,"9 km SW of Caruthersville, Missouri",earthquake,0.19,0.46,0.136,23.0,reviewed,nm,nm
