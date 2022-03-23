@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-23T09:42:23.020Z,35.6181667,-117.439,5.58,0.82,ml,11,167,0.03682,0.18,ci,ci39975103,2022-03-23T09:45:55.437Z,"17km S of Searles Valley, CA",earthquake,0.77,0.91,0.16,7,automatic,ci,ci
+2022-03-23T09:38:11.880Z,35.7613333,-118.0121667,5.26,0.67,ml,10,139,0.1181,0.2,ci,ci39975095,2022-03-23T09:41:52.989Z,"22km SSW of Little Lake, CA",earthquake,0.58,11.33,0.024,6,automatic,ci,ci
 2022-03-23T09:32:24.770Z,38.7965012,-122.7375031,1.88,0.74,md,17,100,0.01326,0.02,nc,nc73709211,2022-03-23T09:34:00.427Z,"3km NE of The Geysers, CA",earthquake,0.28,0.64,0.14,4,automatic,nc,nc
 2022-03-23T09:26:56.747Z,64.6363,-146.8458,8.5,1.6,ml,,,,0.61,ak,ak0223rrl19u,2022-03-23T09:31:48.038Z,"10 km ESE of Eielson Air Force Base, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-23T09:21:42.419Z,62.1483,-149.5828,75.4,1.7,ml,,,,0.94,ak,ak0223rrjy8y,2022-03-23T09:24:16.184Z,"14 km E of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -71,6 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T01:39:27.133Z,62.2039,-145.7926,6.7,1.8,ml,,,,0.86,ak,ak0223rmwb49,2022-03-23T01:42:14.675Z,"16 km NW of Glennallen, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-23T01:29:17.334Z,35.6742,75.2714,10,4,mb,,90,2.607,1.3,us,us6000h6uv,2022-03-23T01:49:58.040Z,"53 km NW of Skardu, Pakistan",earthquake,8.2,1.9,0.156,11,reviewed,us,us
 2022-03-23T01:22:34.450Z,38.8313332,-122.8059998,2.24,0.71,md,16,44,0.008542,0.02,nc,nc73709066,2022-03-23T01:39:16.279Z,"7km W of Cobb, CA",earthquake,0.28,0.6,0.14,2,automatic,nc,nc
+2022-03-23T01:09:48.566Z,31.61619847,-104.0258586,5.540283203000001,1.7,ml,9,100,0.08491525215,0.2,tx,tx2022fscc,2022-03-23T09:44:19.557Z,"40 km NNW of Toyah, Texas",earthquake,1.764059546,1.989456689,0.2,6,reviewed,tx,tx
 2022-03-23T00:59:59.080Z,32.6878333,-115.7736667,4.85,0.82,ml,13,93,0.05536,0.19,ci,ci39974951,2022-03-23T01:03:25.159Z,"21km ESE of Ocotillo, CA",earthquake,0.54,1.08,0.208,7,automatic,ci,ci
 2022-03-23T00:57:06.615Z,62.787,-148.3695,50.1,1.8,ml,,,,0.55,ak,ak0223rmeot8,2022-03-23T01:00:17.998Z,"73 km SSE of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-23T00:56:55.132Z,38.4075,-118.7229,0.9,1.4,ml,11,147.68,0.06,0.195,nn,nn00835823,2022-03-23T01:01:41.484Z,"15 km SSW of Hawthorne, Nevada",earthquake,,2.8,0.32,7,automatic,nn,nn
