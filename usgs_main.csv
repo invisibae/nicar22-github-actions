@@ -5386,3 +5386,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T04:43:09.700Z,35.8903351,-117.7093353,7.45,1.76,ml,31.0,44.0,0.07477,0.13,ci,ci39976391,2022-03-24T04:46:44.368Z,"18km ESE of Little Lake, CA",earthquake,0.22,0.63,0.257,15.0,automatic,ci,ci
 2022-03-24T04:38:58.030Z,36.4651667,-117.9653333,6.27,1.85,ml,17.0,129.0,0.09596,0.22,ci,ci39976383,2022-03-24T04:42:32.418Z,"16km SE of Lone Pine, CA",earthquake,0.46,1.32,0.217,22.0,automatic,ci,ci
 2022-03-24T04:34:48.212Z,31.60933161,-104.5202005,6.414355469,3.1,ml,21.0,83.0,0.06163938005,0.2,tx,tx2022fuei,2022-03-24T04:50:13.063Z,"64 km SSW of Whites City, New Mexico",earthquake,1.536417946,1.473534012,0.1,11.0,reviewed,tx,tx
+2022-03-24T04:52:05.548Z,59.8936,-152.2941,74.7,1.9,ml,,,,0.58,ak,ak0223tcap1y,2022-03-24T05:03:10.091Z,"29 km WNW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
