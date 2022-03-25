@@ -86,7 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T20:33:17.690Z,52.26,-174.048333333333,9.17,0.33,ml,5,238,,0.24,av,av91521831,2022-03-25T04:31:12.870Z,"12 km NE of Atka, Alaska",earthquake,0.99,1.21,0.292291043958947,5,reviewed,av,av
 2022-03-24T20:31:35.090Z,33.3218333,-115.703,4.83,1.58,ml,47,75,0.04817,0.18,ci,ci39977103,2022-03-24T21:26:50.170Z,"4km SE of Bombay Beach, CA",earthquake,0.15,0.39,0.133,21,reviewed,ci,ci
 2022-03-24T20:27:42.300Z,38.8364983,-122.807663,1.96,0.36,md,9,79,0.01322,0.01,nc,nc73709936,2022-03-24T21:20:13.317Z,"8km WNW of Cobb, CA",earthquake,0.4,1.28,,1,automatic,nc,nc
-2022-03-24T20:27:19.000Z,37.1213333,-121.5265,1.1,1.14,md,23,59,0.06655,0.11,nc,nc73709931,2022-03-25T04:50:13.074Z,"8km ENE of San Martin, CA",earthquake,0.25,1,0.115,17,reviewed,nc,nc
+2022-03-24T20:27:19.000Z,37.1213333,-121.5265,1.1,1.14,md,23,59,0.06655,0.11,nc,nc73709931,2022-03-25T05:17:11.223Z,"8km ENE of San Martin, CA",earthquake,0.25,1,0.115,17,reviewed,nc,nc
 2022-03-24T20:26:28.473Z,61.9598,-149.5551,40.5,1.5,ml,,,,0.9,ak,ak0223tlo3wf,2022-03-24T20:30:08.450Z,"27 km SE of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-03-24T20:20:34.320Z,51.8341666666667,-178.831166666667,10.08,-0.23,ml,5,280,,0.14,av,av91521811,2022-03-25T03:51:47.500Z,"151 km W of Adak, Alaska",earthquake,1.14,0.75,0.218335048704797,5,reviewed,av,av
 2022-03-24T20:09:26.276Z,41.9508,-119.5196,0,1.2,ml,5,229.49,0.585,0.076,nn,nn00835993,2022-03-25T02:40:16.008Z,"53 km E of Fort Bidwell, California",earthquake,,0,0.67,2,reviewed,nn,nn
@@ -310,5 +310,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T05:33:25.090Z,19.4993333333333,-155.491666666667,3.04,2.2,md,36,69,,0.13,hv,hv72960637,2022-03-24T22:09:54.030Z,"27 km WNW of Volcano, Hawaii",earthquake,0.26,0.79,0.145681009896745,18,reviewed,hv,hv
 2022-03-24T05:31:52.620Z,48.035,-113.4841667,5.8,0.77,ml,8,228,0.394,0.16,mb,mb80541354,2022-03-24T14:21:54.730Z,"29 km ENE of Swan Lake, Montana",earthquake,1.43,10.57,0.121,2,reviewed,mb,mb
 2022-03-24T05:29:15.340Z,32.3208333,-115.3685,10.31,1.98,ml,22,158,0.1121,0.15,ci,ci39976407,2022-03-24T17:18:19.194Z,"17km WSW of Delta, B.C., MX",earthquake,0.28,0.66,0.115,12,reviewed,ci,ci
-2022-03-24T05:25:05.985Z,42.0019,-119.6129,3.7,1.2,ml,6,153.22,0.523,0.2034,nn,nn00835972,2022-03-25T02:40:02.780Z,"47 km ENE of Fort Bidwell, California",earthquake,,3.5,0.71,2,reviewed,nn,nn
-2022-03-24T05:16:04.035Z,41.9612,-119.5665,3.6,2.3,ml,6,227.58,0.551,0.1897,nn,nn00835971,2022-03-25T02:40:01.746Z,"49 km ENE of Fort Bidwell, California",earthquake,,3.7,0.67,4,reviewed,nn,nn
