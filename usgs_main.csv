@@ -5850,3 +5850,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-25T16:19:07.730Z,36.8668327,-121.4531631,13.34,1.27,md,8.0,190.0,0.06287,0.04,nc,nc73710251,2022-03-25T16:38:14.277Z,"5km WNW of Hollister, CA",earthquake,2.45,2.16,0.57,6.0,automatic,nc,nc
 2022-03-25T14:13:47.960Z,39.8321667,-121.8738333,8.3,2.01,md,17.0,123.0,0.1084,0.07,nc,nc73710216,2022-03-25T16:35:12.721Z,"11km NNW of Chico, CA",earthquake,0.57,0.77,0.082,23.0,reviewed,nc,nc
 2022-03-25T13:24:57.200Z,41.5335,-109.805,-3.29,1.37,md,7.0,102.0,0.09449,0.06,uu,uu60487007,2022-03-25T16:21:55.870Z,"4 km ESE of Little America, Wyoming",earthquake,0.43,1.4,0.196,3.0,reviewed,uu,uu
+2022-03-25T16:28:42.944Z,38.5517,97.296,10.0,5.0,mb,,37.0,14.689,0.73,us,us7000gx8v,2022-03-25T16:48:58.040Z,"147 km SSW of Laojunmiao, China",earthquake,10.4,1.9,0.045,159.0,reviewed,us,us
+2022-03-25T12:29:49.150Z,17.9375,-66.9606666666667,13.67,1.62,md,3.0,228.0,,0.01,pr,pr71341978,2022-03-25T16:52:37.530Z,"6 km SW of Guánica, Puerto Rico",earthquake,2.12,0.81,0.11167317348456,3.0,reviewed,pr,pr
