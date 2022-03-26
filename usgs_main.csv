@@ -6021,3 +6021,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-26T04:42:45.130Z,38.8063316,-122.7825012,0.16,1.0,md,14.0,62.0,0.007061,0.03,nc,nc73710426,2022-03-26T04:44:23.062Z,"4km NW of The Geysers, CA",earthquake,0.22,0.46,0.12,3.0,automatic,nc,nc
 2022-03-25T21:15:53.282Z,-20.3394,-70.0793,10.3,2.6,ml,,170.0,0.891,0.35,us,us7000gxfq,2022-03-26T05:07:38.040Z,"15 km SSE of Iquique, Chile",earthquake,1.7,6.5,0.081,20.0,reviewed,us,us
 2022-03-25T18:00:44.315Z,17.446,-62.6961,11.21,3.2,ml,,157.0,0.276,0.18,us,us7000gxfl,2022-03-26T05:01:47.691Z,"9 km NE of Nicola Town, Saint Kitts and Nevis",earthquake,4.1,10.3,0.077,22.0,reviewed,us,us
+2022-03-26T04:56:50.025Z,36.8428,-104.814,5.0,2.7,ml,,164.0,0.056,0.95,us,us7000gxfm,2022-03-26T05:09:49.040Z,"31 km S of Segundo, Colorado",earthquake,5.7,2.0,0.057,40.0,reviewed,us,us
