@@ -6203,3 +6203,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-26T22:32:39.132Z,59.8267,-153.3039,134.4,1.9,ml,,,,0.58,ak,ak0223wxyz9o,2022-03-26T22:35:30.420Z,"45 km E of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-26T22:29:02.204Z,61.4106,-150.3495,49.2,1.8,ml,,,,0.33,ak,ak0223wxy97u,2022-03-26T22:35:35.327Z,"17 km SSE of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-26T22:27:49.478Z,59.7452,-139.3667,0.0,3.2,ml,,,,0.76,ak,ak0223wxxxgq,2022-03-26T22:35:32.215Z,"30 km NE of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-26T22:36:18.090Z,35.6765,-117.4113333,4.25,1.22,ml,14.0,130.0,0.0989,0.14,ci,ci39979391,2022-03-26T22:39:42.546Z,"10km S of Searles Valley, CA",earthquake,0.44,0.82,0.07,8.0,automatic,ci,ci
