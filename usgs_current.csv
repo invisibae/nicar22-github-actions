@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-27T03:42:55.590Z,38.7905006,-122.7610016,1.87,1.57,md,29,62,0.01016,0.03,nc,nc73710966,2022-03-27T03:46:24.226Z,"2km NNW of The Geysers, CA",earthquake,0.2,0.32,0.1,9,automatic,nc,nc
-2022-03-27T03:39:34.810Z,59.764,-153.4659,127.5,1.9,ml,,,,0.61,ak,ak0223ya8kwz,2022-03-27T03:45:54.040Z,"36 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-27T03:54:11.910Z,36.6839981,-121.2839966,5.01,2.34,md,34,67,0.02916,0.09,nc,nc73710976,2022-03-27T03:57:27.335Z,"12km SSE of Tres Pinos, CA",earthquake,0.25,0.81,0.21,29,automatic,nc,nc
+2022-03-27T03:49:02.020Z,38.8218346,-122.7610016,1.97,0.45,md,10,125,0.01108,0.03,nc,nc73710971,2022-03-27T03:50:35.455Z,"3km W of Cobb, CA",earthquake,0.41,0.72,0.4,2,automatic,nc,nc
+2022-03-27T03:42:55.590Z,38.7905006,-122.7610016,1.87,1.57,md,29,62,0.01016,0.03,nc,nc73710966,2022-03-27T03:54:10.091Z,"2km NNW of The Geysers, CA",earthquake,0.2,0.32,0.1,9,automatic,nc,nc
+2022-03-27T03:39:34.810Z,59.764,-153.4659,127.5,1.9,ml,,,,0.61,ak,ak0223ya8kwz,2022-03-27T03:56:08.347Z,"36 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-27T03:27:41.970Z,31.6495,-104.4027,5,2.5,ml,,102,0.085,0.39,us,us7000gxlm,2022-03-27T03:41:25.040Z,"58 km S of Whites City, New Mexico",earthquake,1.2,2,0.091,56,reviewed,us,us
 2022-03-27T03:18:40.950Z,38.8260002,-122.7651672,2.04,0.45,md,7,127,0.005803,0.01,nc,nc73710956,2022-03-27T03:36:13.982Z,"4km W of Cobb, CA",earthquake,0.48,1.17,0.4,2,automatic,nc,nc
 2022-03-27T03:06:42.539Z,65.3149,-163.0654,16.27,2.9,ml,,103,0.768,0.51,us,us7000gxlj,2022-03-27T03:35:41.040Z,"72 km NNE of White Mountain, Alaska",earthquake,3.1,7.1,0.062,34,reviewed,us,us
@@ -26,12 +28,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-27T01:16:28.060Z,37.549,-118.8575,6.74,0.63,md,10,209,0.04676,0.12,nc,nc73710886,2022-03-27T03:18:12.867Z,"14km SE of Mammoth Lakes, CA",earthquake,0.89,1.48,0.193,10,reviewed,nc,nc
 2022-03-27T01:12:21.862Z,44.0677,-129.4136,10,4.7,mb,,188,1.767,1.21,us,us7000gxl1,2022-03-27T03:17:25.287Z,"off the coast of Oregon",earthquake,8.3,1.9,0.035,255,reviewed,us,us
 2022-03-27T01:04:44.800Z,33.5986667,-116.8061667,4.49,0.49,ml,18,82,0.03546,0.1,ci,ci39979511,2022-03-27T01:08:19.878Z,"13km WNW of Anza, CA",earthquake,0.17,0.25,0.188,16,automatic,ci,ci
-2022-03-27T01:01:17.110Z,38.8198318,-122.7761688,-0.91,1.46,md,24,68,0.007451,0.13,nc,nc73710866,2022-03-27T02:23:19.541Z,"5km W of Cobb, CA",earthquake,0.23,0.77,0.07,5,automatic,nc,nc
+2022-03-27T01:01:17.270Z,38.8166667,-122.7828333,1.53,1.48,md,44,35,0.003794,0.05,nc,nc73710866,2022-03-27T03:55:54.321Z,"5km NNW of The Geysers, CA",earthquake,0.12,0.22,0.131,13,reviewed,nc,nc
 2022-03-27T00:52:15.760Z,38.7791672,-122.7653351,0.64,0.46,md,11,103,0.00844,0.04,nc,nc73710861,2022-03-27T00:53:50.587Z,"1km WNW of The Geysers, CA",earthquake,0.26,0.56,0.4,2,automatic,nc,nc
 2022-03-27T00:52:10.840Z,34.1293333,-117.4865,4.17,1.4,ml,44,45,0.07988,0.23,ci,ci39979503,2022-03-27T03:14:29.320Z,"4km NW of Fontana, CA",earthquake,0.28,0.9,0.174,27,automatic,ci,ci
 2022-03-27T00:50:43.889Z,-13.7707,66.167,6.41,5.7,mww,,42,6.526,0.71,us,us7000gxkt,2022-03-27T02:53:33.945Z,"Mid-Indian Ridge",earthquake,6.4,4.2,0.098,10,reviewed,us,us
 2022-03-27T00:49:17.140Z,36.2121667,-117.909,2.14,1.72,ml,17,107,0.1041,0.17,ci,ci39979495,2022-03-27T00:53:02.953Z,"12km SE of Olancha, CA",earthquake,0.39,0.73,0.122,18,automatic,ci,ci
-2022-03-27T00:35:51.840Z,38.8236667,-122.8095,2.34,1.46,md,48,37,0.0005241,0.02,nc,nc73710851,2022-03-27T03:49:17.405Z,"7km NW of The Geysers, CA",earthquake,0.12,0.22,0.073,15,reviewed,nc,nc
+2022-03-27T00:35:51.840Z,38.8236667,-122.8095,2.34,1.46,md,48,37,0.0005241,0.02,nc,nc73710851,2022-03-27T03:50:22.257Z,"7km NW of The Geysers, CA",earthquake,0.12,0.22,0.073,15,reviewed,nc,nc
 2022-03-27T00:32:44.720Z,35.4296684,-120.8831635,5.23,1.54,md,10,169,0.01578,0.03,nc,nc73710846,2022-03-27T01:51:14.346Z,"2km SSE of Cayucos, CA",earthquake,0.45,0.5,0.18,8,automatic,nc,nc
 2022-03-27T00:25:17.940Z,33.6633333,-117.4235,28.05,1.45,ml,11,172,0.2031,0.32,ci,ci39979455,2022-03-27T00:29:04.811Z,"8km WNW of Lakeland Village, CA",earthquake,1.57,2.18,0.351,28,automatic,ci,ci
 2022-03-27T00:21:42.960Z,38.828167,-122.8170013,1.96,0.85,md,10,89,0.00721,0.01,nc,nc73710841,2022-03-27T01:19:14.132Z,"8km NW of The Geysers, CA",earthquake,0.42,0.91,,1,automatic,nc,nc
@@ -237,5 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-26T04:01:41.125Z,3.4717,126.8757,75.58,4.9,mb,,93,2.726,0.81,us,us7000gxfd,2022-03-26T04:19:14.040Z,"230 km NNW of Tobelo, Indonesia",earthquake,8.4,3.7,0.061,86,reviewed,us,us
 2022-03-26T03:58:59.110Z,61.6991,-147.2845,28.9,1.7,ml,,,,0.79,ak,ak0223wmtcvr,2022-03-26T04:35:06.345Z,"22 km ESE of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-03-26T03:58:11.470Z,38.8643341,-122.8041687,1.41,0.67,md,12,138,0.01094,0.03,nc,nc73710411,2022-03-26T05:26:13.762Z,"8km NW of Cobb, CA",earthquake,0.35,0.46,0.13,2,automatic,nc,nc
-2022-03-26T03:54:51.200Z,33.4885,-116.5576667,8.04,0.7,ml,31,49,0.03825,0.17,ci,ci39978775,2022-03-26T03:58:21.996Z,"13km SE of Anza, CA",earthquake,0.2,0.51,0.13,20,automatic,ci,ci
-2022-03-26T03:49:37.664Z,31.6399,-104.4071,5,2.7,ml,,104,0.084,0.23,us,us7000gxf9,2022-03-26T03:57:47.040Z,"59 km S of Whites City, New Mexico",earthquake,1.1,2,0.085,46,reviewed,us,us
