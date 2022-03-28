@@ -6543,3 +6543,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-28T08:57:19.150Z,38.7905006,-122.7613297,1.29,1.07,md,13.0,76.0,0.01019,0.03,nc,nc73711446,2022-03-28T08:58:55.627Z,"2km NNW of The Geysers, CA",earthquake,0.22,0.4,0.26,4.0,automatic,nc,nc
 2022-03-28T09:22:21.460Z,33.184,-115.6091667,1.16,1.58,ml,20.0,52.0,0.008478,0.24,ci,ci39980343,2022-03-28T09:26:10.096Z,"10km SW of Niland, CA",earthquake,0.44,31.61,0.159,26.0,automatic,ci,ci
 2022-03-28T09:21:13.550Z,35.6333333,-117.5441667,9.4,1.5,ml,15.0,132.0,0.08152,0.13,ci,ci39980335,2022-03-28T09:24:56.710Z,"12km E of Ridgecrest, CA",earthquake,0.39,0.82,0.176,11.0,automatic,ci,ci
+2022-03-28T09:47:38.240Z,32.5698318,-116.1738358,9.35,1.96,ml,27.0,109.0,0.09675,0.19,ci,ci39980351,2022-03-28T09:49:54.328Z,"25km SW of Ocotillo, CA",earthquake,0.36,0.87,0.499,3.0,automatic,ci,ci
