@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-28T21:45:51.253Z,61.6872,-150.123,34.8,2.2,ml,,,,0.86,ak,ak022408j1sj,2022-03-28T21:47:36.499Z,"8 km SW of Willow, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-28T21:22:33.297Z,14.63,93.0138,10,4.7,mb,,79,5.919,0.75,us,us7000gxy0,2022-03-28T21:45:27.040Z,"Andaman Islands, India region",earthquake,7.9,1.9,0.062,79,reviewed,us,us
 2022-03-28T20:54:51.290Z,19.2700004577637,-155.386993408203,30.7299995422363,2.05,ml,43,168,,0.119999997,hv,hv72965232,2022-03-28T21:00:23.320Z,"12 km NE of Pāhala, Hawaii",earthquake,0.51,0.699999988,0.29,6,automatic,hv,hv
 2022-03-28T20:53:59.184Z,60.4952,-150.9014,59.9,1.8,ml,,,,0.18,ak,ak022407zcku,2022-03-28T20:55:47.918Z,"7 km W of Funny River, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2022-03-28T20:49:53.560Z,38.8284988,-122.8134995,2.01,0.85,md,8,77,0.005756,0.01,nc,nc73711641,2022-03-28T20:51:29.542Z,"8km NW of The Geysers, CA",earthquake,0.38,0.78,,1,automatic,nc,nc
@@ -74,7 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-28T14:23:29.500Z,33.7006667,-116.7078333,17.77,0.87,ml,21,113,0.01173,0.1,ci,ci39980511,2022-03-28T18:15:40.950Z,"4km SSE of Idyllwild, CA",earthquake,0.4,0.29,0.219,11,reviewed,ci,ci
 2022-03-28T14:21:05.600Z,38.8238335,-122.8521652,2.81,0.51,md,8,90,0.005221,0.01,nc,nc73711526,2022-03-28T14:43:14.418Z,"10km WNW of The Geysers, CA",earthquake,0.39,0.81,0.36,2,automatic,nc,nc
 2022-03-28T14:15:47.616Z,51.1518,-174.1025,10,3.5,mb,,231,1.053,0.69,us,us7000gxw4,2022-03-28T18:13:59.040Z,"116 km S of Atka, Alaska",earthquake,3,1.9,0.287,3,reviewed,us,us
-2022-03-28T14:14:06.780Z,38.84,-122.8793333,2.67,1.27,md,43,75,0.003674,0.03,nc,nc73711521,2022-03-28T20:44:12.820Z,"12km ENE of Cloverdale, CA",earthquake,0.17,0.25,0.151,12,reviewed,nc,nc
+2022-03-28T14:14:06.780Z,38.84,-122.8793333,2.67,1.27,md,43,75,0.003674,0.03,nc,nc73711521,2022-03-28T21:48:11.187Z,"12km ENE of Cloverdale, CA",earthquake,0.17,0.25,0.151,12,reviewed,nc,nc
 2022-03-28T14:07:43.461Z,58.1524,-154.61,17.6,1.5,ml,,,,0.35,ak,ak0224044usq,2022-03-28T14:19:15.234Z,"65 km N of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-28T14:05:13.060Z,35.9045,-117.7468333,8.13,1.42,ml,15,57,0.0729,0.14,ci,ci39980495,2022-03-28T15:16:55.718Z,"15km ESE of Little Lake, CA",earthquake,0.28,0.86,0.191,14,reviewed,ci,ci
 2022-03-28T13:45:32.135Z,63.2722,-151.3068,11.4,1.7,ml,,,,1.21,ak,ak022403rjit,2022-03-28T13:48:50.529Z,"36 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -182,6 +184,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-28T01:46:08.930Z,38.8251667,-122.8128333,1.9,1.19,md,43,38,0.002788,0.04,nc,nc73711336,2022-03-28T18:02:14.598Z,"7km NW of The Geysers, CA",earthquake,0.13,0.21,0.151,8,reviewed,nc,nc
 2022-03-28T01:45:10.460Z,38.8253326,-122.8133316,2.11,0.35,md,9,91,0.003197,0.01,nc,nc73711331,2022-03-28T02:35:24.158Z,"7km NW of The Geysers, CA",earthquake,0.37,1.27,,1,automatic,nc,nc
 2022-03-28T01:41:08.530Z,33.7201667,-116.8205,16.31,0.99,ml,40,88,0.08908,0.13,ci,ci39980191,2022-03-28T14:44:20.793Z,"7km ESE of Valle Vista, CA",earthquake,0.2,0.31,0.242,24,reviewed,ci,ci
+2022-03-28T01:33:12.684Z,36.7027,-116.3253,8.4,-0.1,ml,9,157.79,0.059,0.1191,nn,nn00836204,2022-03-28T21:44:57.861Z,"44 km ESE of Beatty, Nevada",earthquake,,1.8,0.06,2,reviewed,nn,nn
 2022-03-28T01:28:37.990Z,38.8358345,-122.8111649,2.06,1.14,md,22,65,0.01245,0.02,nc,nc73711326,2022-03-28T04:52:15.953Z,"8km WNW of Cobb, CA",earthquake,0.21,0.5,0.28,4,automatic,nc,nc
 2022-03-28T01:13:52.240Z,33.4586667,-116.4331667,4.17,0.83,ml,31,75,0.06486,0.23,ci,ci39980175,2022-03-28T13:33:45.310Z,"23km NNW of Borrego Springs, CA",earthquake,0.3,0.69,0.096,22,reviewed,ci,ci
 2022-03-28T01:13:33.800Z,33.5276667,-116.7326667,4.94,0.15,ml,17,115,0.05856,0.15,ci,ci39980167,2022-03-28T14:32:01.724Z,"6km WSW of Anza, CA",earthquake,0.32,0.87,0.084,4,reviewed,ci,ci
