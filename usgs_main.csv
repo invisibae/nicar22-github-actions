@@ -7071,3 +7071,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T21:08:42.580Z,36.5564995,-121.1431656,7.43,1.42,md,11.0,116.0,0.03724,0.09,nc,nc73712036,2022-03-29T21:10:15.649Z,"3km N of Pinnacles, CA",earthquake,0.39,0.83,0.23,6.0,automatic,nc,nc
 2022-03-29T21:04:03.440Z,19.4099998474121,-155.580673217773,37.2200012207031,1.97,ml,31.0,75.0,,0.189999998,hv,hv72966602,2022-03-29T21:09:34.440Z,"25 km NNW of Pāhala, Hawaii",earthquake,0.74,0.949999988,0.23,5.0,automatic,hv,hv
 2022-03-29T01:57:53.622Z,41.9388,-119.505,0.0,0.8,ml,4.0,310.36,0.595,0.1035,nn,nn00836257,2022-03-29T21:08:27.830Z,"54 km E of Fort Bidwell, California",earthquake,,0.0,0.66,2.0,reviewed,nn,nn
+2022-03-29T21:18:04.910Z,38.8413315,-122.824501,1.64,0.86,md,11.0,96.0,0.009006,0.01,nc,nc73712046,2022-03-29T21:19:40.838Z,"9km WNW of Cobb, CA",earthquake,0.34,0.75,,1.0,automatic,nc,nc
