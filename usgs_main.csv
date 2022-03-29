@@ -6819,3 +6819,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T10:38:34.597Z,63.2012,-151.298,5.6,2.1,ml,,,,0.67,ak,ak02241ph3e2,2022-03-29T10:46:09.148Z,"43 km SSE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-29T09:06:01.410Z,23.9243,122.3055,10.0,4.4,mb,,123.0,0.695,0.54,us,us7000gy20,2022-03-29T10:29:29.040Z,"71 km E of Hualien City, Taiwan",earthquake,2.2,1.9,0.088,37.0,reviewed,us,us
 2022-03-29T08:34:51.769Z,-35.2131,138.8378,10.0,3.0,ml,,142.0,2.871,0.23,us,us7000gy27,2022-03-29T10:45:52.924Z,"4 km S of Macclesfield, Australia",earthquake,6.5,2.0,0.148,6.0,reviewed,us,us
+2022-03-29T10:47:20.688Z,38.234,-118.3843,0.0,1.4,ml,9.0,144.28,0.096,0.1408,nn,nn00836236,2022-03-29T10:51:25.252Z,"29 km SW of Mina, Nevada",earthquake,,19.7,0.24,5.0,automatic,nn,nn
+2022-03-29T09:56:11.271Z,19.081,-67.7835,35.0,2.7,ml,,190.0,0.798,0.37,us,us7000gy26,2022-03-29T10:56:08.040Z,"85 km NE of Punta Cana, Dominican Republic",earthquake,3.9,2.0,0.055,43.0,reviewed,us,us
