@@ -261,10 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T14:00:18.402Z,63.1947,-146.776,33,1.4,ml,,,,1.07,ak,ak02241rmndg,2022-03-29T14:03:01.968Z,"59 km W of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-29T13:51:18.120Z,19.3113333333333,-155.251833333333,7.09,2.18,md,46,94,,0.11,hv,hv72966172,2022-03-29T21:14:04.540Z,"14 km S of Volcano, Hawaii",earthquake,0.22,0.47,0.117447195738458,21,reviewed,hv,hv
 2022-03-29T13:49:20.844Z,58.6291,-151.1365,70.4,2.3,ml,,,,0.46,ak,ak02241rbq0k,2022-03-29T13:51:43.642Z,"89 km SSE of Port Graham, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2022-03-29T13:46:11.040Z,19.4758333333333,-155.439333333333,0.78,1.51,md,21,87,,0.14,hv,hv72966162,2022-03-29T14:01:04.470Z,"21 km W of Volcano, Hawaii",earthquake,0.25,0.84,0.182016834715853,9,reviewed,hv,hv
-2022-03-29T13:44:04.950Z,44.7576667,-110.9186667,7.82,0.82,md,8,145,0.05742,0.1,uu,uu60487817,2022-03-29T14:41:03.680Z,"18 km NE of West Yellowstone, Montana",earthquake,0.56,1.51,0.201,7,reviewed,uu,uu
-2022-03-29T13:42:24.240Z,44.7665,-110.9258333,10.39,0.55,md,8,164,0.05767,0.1,uu,uu60487812,2022-03-29T14:38:57.990Z,"18 km NE of West Yellowstone, Montana",earthquake,0.67,1.3,0.205,6,reviewed,uu,uu
-2022-03-29T13:41:40.620Z,44.7598333,-110.9283333,8.3,0.08,md,5,125,0.05545,0.1,uu,uu60030129,2022-03-29T14:35:35.300Z,"17 km NE of West Yellowstone, Montana",earthquake,0.5,1.21,0.192,4,reviewed,uu,uu
-2022-03-29T13:41:06.560Z,44.7618333,-110.923,8.72,0.94,ml,10,126,0.05804,0.11,uu,uu60487807,2022-03-29T14:28:03.580Z,"18 km NE of West Yellowstone, Montana",earthquake,0.43,1.15,0.171,2,reviewed,uu,uu
-2022-03-29T13:40:47.684Z,62.9902,-150.4584,8.6,1.5,ml,,,,0.42,ak,ak02241r9un4,2022-03-29T13:43:35.459Z,"57 km NNE of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-03-29T13:39:58.700Z,44.7648333,-110.9163333,8.93,0.59,ml,12,128,0.05244,0.11,uu,uu60487802,2022-03-29T14:22:53.240Z,"18 km NE of West Yellowstone, Montana",earthquake,0.39,0.74,0.225,2,reviewed,uu,uu
