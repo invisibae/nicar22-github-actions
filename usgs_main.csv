@@ -7519,3 +7519,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-31T09:33:08.800Z,33.4826667,-116.5576667,11.11,0.98,ml,34.0,80.0,0.03972,0.17,ci,ci39982407,2022-03-31T09:36:40.673Z,"13km SE of Anza, CA",earthquake,0.23,0.46,0.193,26.0,automatic,ci,ci
 2022-03-31T09:29:54.594Z,57.5568,-155.7861,16.1,2.0,ml,,,,0.22,ak,ak02244zwgv7,2022-03-31T09:31:34.946Z,"79 km W of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-31T09:27:26.295Z,61.5935,-148.2673,25.4,0.7,ml,,,,0.51,ak,ak02244zvz91,2022-03-31T09:29:12.560Z,"24 km SSE of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-31T09:36:41.950Z,19.2351665496826,-155.384994506836,32.7099990844727,2.18000007,md,47.0,145.0,,0.129999995,hv,hv72968592,2022-03-31T09:42:13.740Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.56,0.790000021,0.529999971,25.0,automatic,hv,hv
