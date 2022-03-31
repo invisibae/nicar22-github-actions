@@ -7507,3 +7507,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-31T05:59:41.960Z,37.4095,-118.6015,10.42,1.32,md,20.0,62.0,0.06396,0.05,nc,nc73712556,2022-03-31T08:12:10.021Z,"1km SSW of Round Valley, CA",earthquake,0.36,0.93,0.109,15.0,reviewed,nc,nc
 2022-03-31T08:23:59.803Z,64.1662,-149.0536,20.8,2.0,ml,,,,1.38,ak,ak02244z9rd8,2022-03-31T08:26:32.373Z,"11 km SSE of Clear, Alaska, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2022-03-31T07:41:37.913Z,-22.3148,170.0587,10.0,4.7,mb,,82.0,2.434,0.89,us,us7000gynm,2022-03-31T08:34:56.040Z,"240 km ESE of Tadine, New Caledonia",earthquake,5.6,1.9,0.112,24.0,reviewed,us,us
+2022-03-31T08:42:45.440Z,33.4199982,-116.6220016,4.7,1.11,ml,22.0,90.0,0.07702,0.13,ci,ci39982391,2022-03-31T08:44:51.703Z,"15km N of Warner Springs, CA",earthquake,0.36,1.21,0.495,13.0,automatic,ci,ci
+2022-03-31T07:31:58.040Z,17.9538333333333,-66.9198333333333,10.14,2.17,md,8.0,209.0,,0.13,pr,pr71342808,2022-03-31T08:42:34.530Z,"2 km SSW of Guánica, Puerto Rico",earthquake,0.61,0.77,0.166515533154407,7.0,reviewed,pr,pr
+2022-03-31T07:26:23.200Z,18.0186666666667,-66.8005,15.67,1.69,md,12.0,133.0,,0.19,pr,pr71342803,2022-03-31T08:42:40.380Z,"0 km W of Guayanilla, Puerto Rico",earthquake,0.45,0.71,0.0848616839323139,10.0,reviewed,pr,pr
+2022-03-31T07:00:53.640Z,37.41,-118.601,10.61,0.74,md,18.0,89.0,0.06421,0.06,nc,nc73712586,2022-03-31T08:36:27.033Z,"1km SSW of Round Valley, CA",earthquake,0.36,1.05,0.309,13.0,reviewed,nc,nc
