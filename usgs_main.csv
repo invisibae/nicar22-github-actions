@@ -7560,3 +7560,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-31T13:11:12.689Z,61.8621,-147.5435,40.3,0.8,ml,,,,0.24,ak,ak022452695w,2022-03-31T13:12:50.271Z,"8 km NE of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-31T12:56:05.168Z,36.3695,-103.2039,5.0,3.4,mb_lg,,90.0,1.236,1.03,us,us7000gypi,2022-03-31T13:28:40.197Z,"9 km S of Clayton, New Mexico",earthquake,3.1,1.9,0.041,157.0,reviewed,us,us
 2022-03-31T02:55:43.680Z,39.4201667,-110.3058333,-2.14,1.93,md,9.0,197.0,0.01543,0.13,uu,uu60488012,2022-03-31T13:28:05.049Z,"16 km SSE of Sunnyside, Utah",earthquake,0.62,0.81,0.144,8.0,reviewed,uu,uu
+2022-03-31T13:39:51.432Z,58.9495,-154.4904,63.0,1.4,ml,,,,0.2,ak,ak022452ccl5,2022-03-31T13:45:13.947Z,"56 km SSE of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-31T13:39:23.245Z,59.9384,-154.1791,194.1,1.9,ml,,,,0.96,ak,ak022452cakw,2022-03-31T13:43:00.311Z,"17 km NNW of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
