@@ -7461,3 +7461,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-30T16:00:04.650Z,53.3676666666667,-168.1785,-1.0,0.78,ml,5.0,288.0,,0.07,av,av91053248,2022-03-31T04:40:35.960Z,"66 km NE of Nikolski, Alaska",earthquake,0.35,0.3,0.462554847250161,5.0,reviewed,av,av
 2022-03-30T11:08:05.706Z,50.1135,179.3714,29.52,3.1,ml,,285.0,1.267,0.45,us,us7000gyfd,2022-03-31T04:53:12.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,10.4,22.0,0.097,14.0,reviewed,us,us
 2022-03-30T09:29:05.845Z,52.4976,-175.1373,242.7,2.7,ml,,222.0,0.648,0.4,us,us7000gyfa,2022-03-31T04:51:44.040Z,"72 km WNW of Atka, Alaska",earthquake,20.2,11.9,0.115,10.0,reviewed,us,us
+2022-03-31T05:05:22.270Z,33.2630005,-116.7570038,7.15,1.53,ml,14.0,115.0,0.24,0.3,ci,ci39982303,2022-03-31T05:07:32.906Z,"2km NNE of Lake Henshaw, CA",earthquake,1.01,18.93,0.441,17.0,automatic,ci,ci
+2022-03-30T17:22:05.520Z,54.5638333333333,-163.34,9.01,0.85,ml,4.0,281.0,,0.17,av,av91053268,2022-03-31T05:08:04.000Z,"32 km S of False Pass, Alaska",earthquake,1.1,0.47,0.10888754136782,4.0,reviewed,av,av
