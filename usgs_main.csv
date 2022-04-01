@@ -7801,3 +7801,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T09:28:08.280Z,38.8144989,-122.8249969,2.1,0.85,md,12.0,89.0,0.006503,0.02,nc,nc73713001,2022-04-01T09:29:43.091Z,"7km NW of The Geysers, CA",earthquake,0.35,0.72,,1.0,automatic,nc,nc
 2022-04-01T09:28:04.397Z,61.7024,-150.7044,56.1,2.2,ml,,,,0.51,ak,ak02246nfhrm,2022-04-01T09:37:56.226Z,"20 km NNW of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-01T09:48:52.608Z,35.41509247,-97.90270233,1.169079304,1.9,ml,17.0,52.86798096,0.02693909965,1.384688269,ok,ok2022gjes,2022-04-01T09:51:07.189Z,"4 km NE of Union City, Oklahoma",earthquake,2.707969905,2.264154115,,12.0,automatic,ok,ok
+2022-04-01T10:14:24.115Z,62.5396,-151.3973,87.8,1.9,ml,,,,0.48,ak,ak02246nxyvf,2022-04-01T10:16:09.311Z,"32 km W of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-04-01T10:08:43.516Z,62.0599,-150.0842,40.4,1.9,ml,,,,0.87,ak,ak02246nwq2o,2022-04-01T10:13:37.191Z,"16 km SW of Susitna North, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2022-04-01T09:57:49.051Z,38.3452,-118.9223,10.3,2.4,ml,25.0,65.45,0.166,0.3015,nn,nn00836467,2022-04-01T10:01:35.750Z,"28 km ENE of Bridgeport, California",earthquake,,0.5,0.25,16.0,automatic,nn,nn
+2022-04-01T09:32:01.772Z,9.0132,126.7193,35.0,4.9,mb,,85.0,2.236,0.77,us,us7000gyxy,2022-04-01T10:16:41.040Z,"46 km ENE of Aras-asan, Philippines",earthquake,7.9,1.9,0.051,119.0,reviewed,us,us
