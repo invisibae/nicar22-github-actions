@@ -7798,3 +7798,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T09:25:53.998Z,61.7488,-149.7054,29.4,1.6,ml,,,,0.44,ak,ak02246neyg7,2022-04-01T09:27:51.102Z,Southern Alaska,earthquake,,0.3,,,automatic,ak,ak
 2022-04-01T09:24:28.143Z,59.9163,-151.0435,42.8,1.8,ml,,,,0.31,ak,ak02246neoqm,2022-04-01T09:26:25.484Z,"8 km NW of Fox River, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2022-04-01T09:14:35.720Z,38.0583344,-120.411499,14.94,2.51,md,13.0,178.0,0.03087,0.14,nc,nc73712996,2022-04-01T09:21:16.045Z,"3km NNW of Columbia, CA",earthquake,0.76,0.74,0.21,7.0,automatic,nc,nc
+2022-04-01T09:28:08.280Z,38.8144989,-122.8249969,2.1,0.85,md,12.0,89.0,0.006503,0.02,nc,nc73713001,2022-04-01T09:29:43.091Z,"7km NW of The Geysers, CA",earthquake,0.35,0.72,,1.0,automatic,nc,nc
+2022-04-01T09:28:04.397Z,61.7024,-150.7044,56.1,2.2,ml,,,,0.51,ak,ak02246nfhrm,2022-04-01T09:37:56.226Z,"20 km NNW of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
