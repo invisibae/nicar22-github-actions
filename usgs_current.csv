@@ -32,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T11:17:20.502Z,20.0101,-155.4397,31.53,2.6,ml,,164,0.187,0.49,us,us7000gyyf,2022-04-01T11:33:31.040Z,"8 km SSE of Honoka‘a, Hawaii",earthquake,4.3,10.1,0.059,38,reviewed,us,us
 2022-04-01T11:03:34.350Z,19.2621669769287,-155.388336181641,31.7299995422363,2.26,ml,46,130,,0.119999997,hv,hv72969957,2022-04-01T11:09:05.950Z,"11 km NE of Pāhala, Hawaii",earthquake,0.54,0.660000026,0.19,3,automatic,hv,hv
 2022-04-01T10:56:05.994Z,59.5753,-152.005,0,2.5,ml,,,,1.35,ak,ak02246o6xjr,2022-04-01T10:58:58.656Z,"22 km NW of Seldovia, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2022-04-01T10:55:38.444Z,61.5197,-149.8907,37.1,3.4,ml,,,,0.62,ak,ak02246o6s9l,2022-04-01T13:32:26.094Z,"Southern Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2022-04-01T10:55:38.444Z,61.5197,-149.8907,37.1,3.4,ml,,,,0.62,ak,ak02246o6s9l,2022-04-01T13:49:30.862Z,"Southern Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2022-04-01T10:36:46.216Z,-42.9796,171.7596,16.36,4.3,mb,,51,0.344,0.31,us,us7000gyy7,2022-04-01T12:25:18.040Z,"49 km NW of Oxford, New Zealand",earthquake,1.6,3.9,0.237,5,reviewed,us,us
 2022-04-01T10:26:55.633Z,62.389,-148.3197,37.2,1.7,ml,,,,0.76,ak,ak02246o0lwb,2022-04-01T10:28:57.755Z,"66 km N of Chickaloon, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-04-01T10:21:20.560Z,38.8260002,-122.7633362,2.09,0.36,md,7,185,0.006806,0.02,nc,nc73713011,2022-04-01T10:53:22.610Z,"4km W of Cobb, CA",earthquake,0.88,1.75,,1,automatic,nc,nc
@@ -72,7 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T07:32:26.500Z,33.4123333,-116.3475,8.76,1.16,ml,38,36,0.05906,0.2,ci,ci39983399,2022-04-01T07:43:07.680Z,"18km N of Borrego Springs, CA",earthquake,0.29,0.76,0.167,27,automatic,ci,ci
 2022-04-01T07:16:16.900Z,38.833168,-122.8024979,2.27,0.85,md,11,69,0.01084,0.01,nc,nc73712986,2022-04-01T07:41:23.470Z,"7km W of Cobb, CA",earthquake,0.37,0.9,,1,automatic,nc,nc
 2022-04-01T07:14:12.770Z,-7.2767,106.0777,20.16,5.3,mww,,33,1.57,1.08,us,us7000gywf,2022-04-01T08:29:44.705Z,"61 km WSW of Pelabuhanratu, Indonesia",earthquake,5.4,4.5,0.083,14,reviewed,us,us
-2022-04-01T06:59:22.870Z,33.995,-118.4233333,8.82,2.27,ml,68,55,0.033,0.3,ci,ci39983383,2022-04-01T13:22:31.314Z,"3km ENE of Marina del Rey, CA",earthquake,0.35,0.63,0.199,25,automatic,ci,ci
+2022-04-01T06:59:22.870Z,33.995,-118.4233333,8.82,2.27,ml,68,55,0.033,0.3,ci,ci39983383,2022-04-01T13:52:30.611Z,"3km ENE of Marina del Rey, CA",earthquake,0.35,0.63,0.199,25,automatic,ci,ci
 2022-04-01T06:56:22.647Z,31.67320541,-104.3889687,6.979931641,3.8,ml,10,69,0.09542366743,0.2,tx,tx2022giza,2022-04-01T08:59:14.018Z,"55 km S of Whites City, New Mexico",earthquake,1.266833134,1.729760603,0.1,6,reviewed,tx,tx
 2022-04-01T06:54:47.206Z,62.262,-150.8792,67.4,2,ml,,,,0.74,ak,ak02246lsuvi,2022-04-01T07:04:43.054Z,"26 km SSW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-01T06:27:52.586Z,31.6382,-104.4182,5,2.8,ml,,101,0.076,0.33,us,us7000gyw7,2022-04-01T06:39:11.040Z,"59 km S of Whites City, New Mexico",earthquake,1.3,1,0.074,35,reviewed,us,us
