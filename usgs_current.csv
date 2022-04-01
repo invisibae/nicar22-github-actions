@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-01T22:40:36.500Z,19.1340007781982,-155.388168334961,30.1100006103516,1.73000002,md,24,218,,0.109999999,hv,hv72970482,2022-04-01T22:43:39.220Z,"12 km SE of Pāhala, Hawaii",earthquake,1.21,1.66999996,1.73000002,4,automatic,hv,hv
 2022-04-01T22:36:31.690Z,38.7878342,-122.725502,2.13,0.86,md,11,90,0.0099,0.01,nc,nc73713186,2022-04-01T22:38:05.524Z,"3km ENE of The Geysers, CA",earthquake,0.37,0.75,0.01,3,automatic,nc,nc
 2022-04-01T22:18:20.711Z,61.594,-149.8177,57,1.7,ml,,,,0.43,ak,ak02246v40qf,2022-04-01T22:20:46.173Z,"4 km S of Houston, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-04-01T22:08:52.080Z,33.5981667,-116.6511667,18.59,0.79,ml,17,68,0.03582,0.22,ci,ci39984143,2022-04-01T22:12:32.862Z,"5km NNE of Anza, CA",earthquake,0.88,1.42,0.186,13,automatic,ci,ci
@@ -25,6 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T20:02:02.918Z,63.0142,-150.6818,102.7,1.8,ml,,,,0.45,ak,ak02246ttooz,2022-04-01T20:04:52.720Z,"57 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-04-01T19:37:20.830Z,38.8349991,-122.8115005,2,0.85,md,15,54,0.01164,0.02,nc,nc73713151,2022-04-01T21:02:15.323Z,"8km W of Cobb, CA",earthquake,0.27,0.59,,1,automatic,nc,nc
 2022-04-01T19:36:58.380Z,35.62116667,-97.948,6.09,1.83,ml,45,35,0.1088786343,0.23,ok,ok2022gjyc,2022-04-01T19:47:41.272Z,"Oklahoma",earthquake,,0.6,0.14,5,reviewed,ok,ok
+2022-04-01T19:33:55.160Z,17.9811666666667,-65.613,15,1.78,md,3,262,,0.13,pr,pr71342988,2022-04-01T22:42:33.260Z,"19 km SW of Esperanza, Puerto Rico",earthquake,1.87,1.15,0.162988536945256,3,reviewed,pr,pr
 2022-04-01T19:24:19.900Z,44.2955,-114.9568333,8.2,2.34,ml,11,74,0.831,0.23,mb,mb80541974,2022-04-01T20:20:56.300Z,"8 km N of Stanley, Idaho",earthquake,0.56,1.35,0.131,14,reviewed,mb,mb
 2022-04-01T19:19:55.000Z,35.8341675,-120.5561676,7.96,1.17,md,21,115,0.04095,0.04,nc,nc73713146,2022-04-01T20:35:22.181Z,"13km WSW of Parkfield, CA",earthquake,0.45,0.75,0.21,11,automatic,nc,nc
 2022-04-01T19:19:46.417Z,63.4937,-148.4236,3.9,2.6,ml,,,,0.55,ak,ak02246tbzmb,2022-04-01T19:31:30.487Z,"28 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -254,4 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-31T22:54:11.060Z,17.9963333333333,-66.8273333333333,16.99,1.94,md,10,170,,0.06,pr,pr71342878,2022-04-01T00:15:31.470Z,"0 km WNW of Indios, Puerto Rico",earthquake,0.33,0.44,0.0904124032798863,7,reviewed,pr,pr
 2022-03-31T22:52:32.678Z,42.9781,-126.5725,10,2.9,ml,,292,1.749,0.91,us,us7000gyu2,2022-03-31T23:16:40.040Z,"171 km W of Port Orford, Oregon",earthquake,4.5,2,0.051,50,reviewed,us,us
 2022-03-31T22:50:53.460Z,17.9775,-66.9758333333333,12.78,2.08,md,5,172,,0.06,pr,pr71342868,2022-03-31T23:14:08.510Z,"6 km W of Fuig, Puerto Rico",earthquake,0.59,0.8,0.0574909996461332,2,reviewed,pr,pr
-2022-03-31T22:50:09.097Z,55.7764,-159.7088,78.1,3.6,ml,,,,0.39,ak,ak022457ri7o,2022-03-31T23:27:18.020Z,"19 km SW of Ivanof Bay, Alaska",earthquake,,0.4,,,reviewed,ak,ak
