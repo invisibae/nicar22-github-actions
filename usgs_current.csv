@@ -16,6 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T04:41:36.730Z,33.3138333,-116.2553333,8.9,0.78,ml,26,110,0.06638,0.2,ci,ci39984271,2022-04-02T04:45:13.758Z,"13km ENE of Borrego Springs, CA",earthquake,0.34,0.76,0.122,16,automatic,ci,ci
 2022-04-02T04:31:47.726Z,61.528,-149.8961,35.7,1.4,ml,,,,0.56,ak,ak0224880eqa,2022-04-02T04:39:11.637Z,"3 km ENE of Big Lake, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2022-04-02T04:24:55.220Z,19.234167098999,-155.392166137695,31.2900009155273,1.99000001,md,31,143,,0.140000001,hv,hv72970827,2022-04-02T04:28:03.690Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.69,0.860000014,0.930000007,7,automatic,hv,hv
+2022-04-02T04:24:38.110Z,37.4095,-118.5925,9.71,1.08,md,16,114,0.06087,0.09,nc,nc73713231,2022-04-02T06:57:09.379Z,"1km SE of Round Valley, CA",earthquake,0.48,1.39,0.352,13,reviewed,nc,nc
 2022-04-02T04:22:20.020Z,61.6041,-151.6205,80.2,1.9,ml,,,,0.64,ak,ak022487yf5e,2022-04-02T04:27:22.410Z,"44 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-02T04:15:04.905Z,-22.9254,170.5411,10,5.6,mww,,78,2.873,0.99,us,us7000gz5q,2022-04-02T06:18:36.541Z,"southeast of the Loyalty Islands",earthquake,8.3,1.8,0.061,26,reviewed,us,us
 2022-04-02T03:58:12.281Z,38.3288,-119.3592,11,0.9,ml,11,153.97,0.067,0.1066,nn,nn00836549,2022-04-02T04:02:42.875Z,"13 km NW of Bridgeport, California",earthquake,,0.7,0.3,4,automatic,nn,nn
@@ -204,7 +205,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T11:28:16.070Z,17.9503333333333,-66.885,11.99,2.29,md,7,212,,0.18,pr,pr71342913,2022-04-01T11:57:46.790Z,"3 km S of Maria Antonia, Puerto Rico",earthquake,0.86,0.8,0.0837960121859271,6,reviewed,pr,pr
 2022-04-01T11:28:04.692Z,-31.4205,-68.0215,111.87,5.2,mww,,38,0.579,0.59,us,us7000gyyg,2022-04-01T22:29:40.290Z,"35 km NE of Caucete, Argentina",earthquake,3.5,4.2,0.054,33,reviewed,us,us
 2022-04-01T11:17:22.240Z,20.048,-155.4575,26.14,2.66,md,46,176,,0.17,hv,hv72969977,2022-04-01T22:14:47.090Z,"3 km SSE of Honoka‘a, Hawaii",earthquake,0.47,0.89,0.142995299250353,19,reviewed,hv,hv
-2022-04-01T11:07:46.650Z,37.5691667,-122.4265,10.06,1.03,md,15,81,0.01403,0.06,nc,nc73713021,2022-04-02T05:09:17.102Z,"4km W of Hillsborough, CA",earthquake,0.32,0.49,0.188,11,reviewed,nc,nc
+2022-04-01T11:07:46.650Z,37.5691667,-122.4265,10.06,1.03,md,15,81,0.01403,0.06,nc,nc73713021,2022-04-02T06:51:16.632Z,"4km W of Hillsborough, CA",earthquake,0.32,0.49,0.188,11,reviewed,nc,nc
 2022-04-01T11:03:34.350Z,19.2621669769287,-155.388336181641,31.7299995422363,2.26,ml,46,130,,0.119999997,hv,hv72969957,2022-04-01T11:09:05.950Z,"11 km NE of Pāhala, Hawaii",earthquake,0.54,0.660000026,0.19,3,automatic,hv,hv
 2022-04-01T10:55:38.456Z,61.542,-149.8702,37.6,3.4,ml,,,,0.51,ak,ak02246o6xjr,2022-04-01T19:57:33.642Z,"5 km ENE of Big Lake, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2022-04-01T10:55:38.444Z,61.5197,-149.8907,37.1,3.4,ml,,,,0.62,ak,ak02246o6s9l,2022-04-01T23:07:35.112Z,"3 km E of Big Lake, Alaska",earthquake,,0.5,,,reviewed,ak,ak
@@ -265,7 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T07:14:12.770Z,-7.2767,106.0777,20.16,5.3,mww,,33,1.57,1.08,us,us7000gywf,2022-04-01T19:12:45.741Z,"61 km WSW of Pelabuhanratu, Indonesia",earthquake,5.4,4.5,0.083,14,reviewed,us,us
 2022-04-01T07:05:16.360Z,19.2076666666667,-155.400666666667,30.56,1.47,md,14,163,,0.11,hv,hv72969777,2022-04-01T22:29:11.780Z,"8 km E of Pāhala, Hawaii",earthquake,0.67,0.59,0.0603685415968391,8,reviewed,hv,hv
 2022-04-01T06:59:22.730Z,33.9935,-118.4201667,10.42,2.32,ml,92,55,0.03374,0.2,ci,ci39983383,2022-04-02T05:56:51.942Z,"3km ENE of Marina del Rey, CA",earthquake,0.16,0.26,0.216,24,reviewed,ci,ci
-2022-04-01T06:56:28.430Z,37.4171667,-118.5926667,10.25,1.01,md,16,107,0.06805,0.08,nc,nc73712976,2022-04-02T06:17:09.381Z,"0km ENE of Round Valley, CA",earthquake,0.33,0.91,0.322,14,reviewed,nc,nc
-2022-04-01T06:56:22.639Z,31.67343347,-104.3892399,6.645727539,3.8,ml,21,57,0.09520397973,0.3,tx,tx2022giza,2022-04-02T00:30:17.808Z,"55 km S of Whites City, New Mexico",earthquake,0.9923160555000001,1.102266479,0.1,12,reviewed,tx,tx
-2022-04-01T06:54:47.206Z,62.262,-150.8792,67.4,2,ml,,,,0.74,ak,ak02246lsuvi,2022-04-01T07:04:43.054Z,"26 km SSW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-04-01T06:50:46.960Z,53.8625,-166.615833333333,8.4,-0.18,ml,6,143,,0.08,av,av91053478,2022-04-01T22:28:06.010Z,"5 km WSW of Unalaska, Alaska",earthquake,0.47,0.69,0.122062696061332,5,reviewed,av,av
