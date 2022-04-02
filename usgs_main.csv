@@ -8226,3 +8226,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T22:05:15.391Z,-17.0794,-174.5839,10.0,5.2,mb,,63.0,4.151,1.05,us,us7000gz9i,2022-04-02T22:25:10.040Z,"150 km SW of Hihifo, Tonga",earthquake,9.5,1.9,0.041,197.0,reviewed,us,us
 2022-04-02T22:04:01.900Z,34.2688333,-116.6978333,15.95,1.57,ml,6.0,180.0,0.262,0.13,ci,ci39984855,2022-04-02T22:07:56.201Z,"14km E of Big Bear City, CA",earthquake,0.77,31.61,0.224,22.0,automatic,ci,ci
 2022-04-02T21:34:01.010Z,17.9598333333333,-66.8818333333333,11.51,2.25,md,6.0,206.0,,0.12,pr,pr71343113,2022-04-02T22:22:12.550Z,"2 km SSE of Maria Antonia, Puerto Rico",earthquake,0.84,0.67,,1.0,reviewed,pr,pr
+2022-04-02T22:41:57.730Z,35.9036674,-117.7416687,8.62,0.97,ml,12.0,61.0,0.07674,0.05,ci,ci39984871,2022-04-02T22:44:16.410Z,"15km ESE of Little Lake, CA",earthquake,0.41,1.36,0.256,5.0,automatic,ci,ci
