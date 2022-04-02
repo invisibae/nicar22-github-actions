@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-02T22:03:37.460Z,38.8206673,-122.7991638,2.46,1.5,md,30,30,0.008947,0.03,nc,nc73713531,2022-04-02T22:06:29.451Z,"6km NW of The Geysers, CA",earthquake,0.2,0.38,0.07,7,automatic,nc,nc
 2022-04-02T21:45:01.180Z,33.488,-116.4855,15.05,0.82,ml,21,76,0.06118,0.15,ci,ci39984839,2022-04-02T21:48:31.266Z,"19km ESE of Anza, CA",earthquake,0.3,0.48,0.146,21,automatic,ci,ci
+2022-04-02T21:41:24.350Z,32.5151,-104.4427,1.83,2.8,ml,,78,0.485,0.52,us,us7000gz9h,2022-04-02T21:55:00.040Z,"22 km WNW of La Huerta, New Mexico",earthquake,2.3,2.4,0.085,18,reviewed,us,us
 2022-04-02T21:28:11.164Z,38.184,-117.9348,8.2,0.9,ml,9,167.74,0.042,0.2514,nn,nn00836590,2022-04-02T21:31:50.809Z,"27 km SSE of Mina, Nevada",earthquake,,0.8,0.25,5,automatic,nn,nn
 2022-04-02T21:22:09.660Z,38.8173332,-122.760498,1.89,0.45,md,11,118,0.01504,0.02,nc,nc73713526,2022-04-02T21:23:42.802Z,"3km W of Cobb, CA",earthquake,0.34,0.68,0.4,2,automatic,nc,nc
 2022-04-02T21:13:30.143Z,58.7063,-153.7081,78,1.9,ml,,,,0.36,ak,ak02248i0vrr,2022-04-02T21:20:50.691Z,"85 km NNW of Aleneva, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -17,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T20:02:29.440Z,38.809166,-122.7365036,2.7,0.85,md,9,124,0.02004,0.03,nc,nc73713501,2022-04-02T20:21:16.558Z,"2km SW of Cobb, CA",earthquake,0.53,1.22,,2,automatic,nc,nc
 2022-04-02T19:57:54.522Z,51.0909,175.5861,10,3,ml,,250,1.881,0.64,us,us7000gz9c,2022-04-02T21:05:58.040Z,"255 km SE of Attu Station, Alaska",earthquake,5.2,2,0.097,14,reviewed,us,us
 2022-04-02T19:45:15.098Z,51.61,-173.4552,33.39,2.5,ml,,215,0.75,0.41,us,us7000gz99,2022-04-02T20:54:22.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,5.1,17.8,0.115,10,reviewed,us,us
-2022-04-02T19:40:14.029Z,32.41607666,-101.5940596,7.067423503,3.1,ml,8,144,0.1946282478,0.1,tx,tx2022glts,2022-04-02T20:08:53.850Z,"16 km SE of Ackerly, Texas",earthquake,1.380449073,2.944138455,0.2,6,reviewed,tx,tx
+2022-04-02T19:40:14.029Z,32.41607666,-101.5940596,7.067423503,3.1,ml,8,144,0.1946282478,0.1,tx,tx2022glts,2022-04-02T20:08:53.850Z,"western Texas",earthquake,1.380449073,2.944138455,0.2,6,reviewed,tx,tx
 2022-04-02T19:28:31.200Z,33.374,-116.8405,9.59,0.67,ml,25,61,0.1537,0.22,ci,ci39984767,2022-04-02T19:32:04.628Z,"3km NE of Palomar Observatory, CA",earthquake,0.34,1.59,0.182,18,automatic,ci,ci
 2022-04-02T19:21:23.487Z,38.1901,-117.7585,3.5,1.6,ml,11,215.93,0.12,0.1088,nn,nn00836589,2022-04-02T19:25:11.038Z,"37 km SE of Mina, Nevada",earthquake,,1.3,0.21,7,automatic,nn,nn
 2022-04-02T19:11:06.430Z,36.0666667,-117.8551667,3.46,0.9,ml,10,139,0.05081,0.1,ci,ci39984743,2022-04-02T19:14:40.050Z,"9km ENE of Coso Junction, CA",earthquake,0.3,0.53,0.24,8,automatic,ci,ci
@@ -215,7 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T22:18:20.711Z,61.594,-149.8177,57,1.7,ml,,,,0.43,ak,ak02246v40qf,2022-04-01T22:20:46.173Z,"4 km S of Houston, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-04-01T22:08:51.420Z,33.6776667,-116.7123333,14.55,0.61,ml,16,95,0.0333,0.06,ci,ci39984143,2022-04-01T23:11:47.895Z,"7km S of Idyllwild, CA",earthquake,0.31,0.33,0.03,8,reviewed,ci,ci
 2022-04-01T22:08:44.290Z,33.6845,-116.7076667,15.01,0.5,ml,9,103,0.02714,0.06,ci,ci37408764,2022-04-01T23:16:34.662Z,"6km S of Idyllwild, CA",earthquake,0.36,0.33,0.082,6,reviewed,ci,ci
-2022-04-01T22:00:26.820Z,33.1853333,-115.6085,3.61,1.88,ml,39,86,0.009867,0.2,ci,ci39984127,2022-04-01T23:04:25.320Z,"10km SW of Niland, CA",earthquake,0.23,0.17,0.2,56,reviewed,ci,ci
-2022-04-01T21:57:47.476Z,62.6847,-150.4991,3.7,1.7,ml,,,,0.76,ak,ak02246ur049,2022-04-01T22:03:46.948Z,"25 km NNE of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-04-01T21:56:54.668Z,62.9254,-148.3555,14.7,1.5,ml,,,,0.8,ak,ak02246uqsyi,2022-04-01T21:59:04.710Z,"60 km SSE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-04-01T21:56:05.629Z,54.6162,-161.2891,25.5,1.8,ml,,,,0.61,ak,ak02246uqkjx,2022-04-01T22:32:11.702Z,"82 km SE of King Cove, Alaska",earthquake,,2.2,,,reviewed,ak,ak
