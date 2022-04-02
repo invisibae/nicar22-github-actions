@@ -8130,3 +8130,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T12:11:14.590Z,33.1705,-116.0173333,3.04,1.65,ml,46.0,56.0,0.03334,0.22,ci,ci39984407,2022-04-02T12:22:08.740Z,"11km ENE of Ocotillo Wells, CA",earthquake,0.26,0.47,0.117,29.0,automatic,ci,ci
 2022-04-02T11:55:29.360Z,17.9948333333333,-67.0046666666667,10.13,2.06,md,6.0,138.0,,0.06,pr,pr71343068,2022-04-02T12:45:18.890Z,"4 km ENE of La Parguera, Puerto Rico",earthquake,0.48,0.79,0.0380932970234318,4.0,reviewed,pr,pr
 2022-04-02T12:56:48.250Z,35.9136667,-117.6716667,7.99,0.71,ml,11.0,80.0,0.03828,0.16,ci,ci39984431,2022-04-02T13:00:26.415Z,"21km E of Little Lake, CA",earthquake,0.68,1.33,0.079,6.0,automatic,ci,ci
+2022-04-02T13:21:27.482Z,63.3378,-149.9594,92.0,1.9,ml,,,,0.67,ak,ak02248db4fz,2022-04-02T13:29:32.638Z,"50 km W of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-04-02T06:13:10.632Z,32.21466064,-102.215725,5.453409831,2.2,ml,14.0,79.0,0.09453203957,0.1,tx,tx2022gktc,2022-04-02T13:13:44.909Z,western Texas,earthquake,0.9830188655,3.013477369,0.2,15.0,reviewed,tx,tx
