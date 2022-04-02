@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-02T23:34:11.680Z,38.788166,-122.7796631,0.87,0.46,md,10,124,0.008165,0.02,nc,nc73713551,2022-04-02T23:35:48.509Z,"2km WNW of The Geysers, CA",earthquake,0.3,0.61,0.4,2,automatic,nc,nc
 2022-04-02T23:11:58.035Z,63.5733,-148.8831,0,1.5,ml,,,,0.96,ak,ak02248j7dpc,2022-04-02T23:20:02.814Z,"17 km S of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-02T23:08:48.337Z,61.8826,-149.2631,18.6,1.3,ml,,,,0.48,ak,ak02248j6psv,2022-04-02T23:17:18.335Z,"15 km N of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-02T23:06:24.944Z,-22.6404,170.82,10,4.8,mb,,107,3.116,0.94,us,us7000gz9t,2022-04-02T23:36:51.040Z,"southeast of the Loyalty Islands",earthquake,8.4,1.9,0.1,31,reviewed,us,us
 2022-04-02T22:58:01.144Z,37.9954,-117.9051,2.8,1.4,ml,15,149.11,0.023,0.2163,nn,nn00836594,2022-04-02T23:02:07.623Z,"35 km NW of Silver Peak, Nevada",earthquake,,0.4,0.73,9,automatic,nn,nn
 2022-04-02T22:48:45.481Z,60.2457,-152.0978,71.6,1.2,ml,,,,0.42,ak,ak02248ittmr,2022-04-02T23:11:37.081Z,"32 km NW of Ninilchik, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2022-04-02T22:45:29.541Z,36.6616,-116.2692,8.1,1.1,ml,15,108.43,0.058,0.1476,nn,nn00836592,2022-04-02T22:48:14.506Z,"California-Nevada border region",earthquake,,0.7,0.91,12,automatic,nn,nn
@@ -67,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T16:21:50.210Z,33.7031667,-116.716,17.4,0.76,ml,23,69,0.008125,0.21,ci,ci39984591,2022-04-02T16:25:26.455Z,"4km S of Idyllwild, CA",earthquake,0.46,0.6,0.156,17,automatic,ci,ci
 2022-04-02T16:11:07.900Z,18.8523330688477,-155.130661010742,14.1800003051758,1.94000006,md,41,281,,0.200000003,hv,hv72971272,2022-04-02T16:14:34.530Z,"52 km ESE of Naalehu, Hawaii",earthquake,3.78,5.26000023,1.66999996,10,automatic,hv,hv
 2022-04-02T16:10:36.110Z,36.8549995,-121.5551682,3.99,1.55,md,7,143,0.04166,0.04,nc,nc73713416,2022-04-02T17:37:13.711Z,"2km NW of San Juan Bautista, CA",earthquake,0.57,1.21,0.06,7,automatic,nc,nc
-2022-04-02T16:08:11.390Z,17.972,-66.9253333333333,12.27,2.43,md,6,184,,0.07,pr,pr71343088,2022-04-02T20:17:12.110Z,"Puerto Rico region",earthquake,0.54,0.3,0.156852642150339,3,reviewed,pr,pr
+2022-04-02T16:08:11.390Z,17.972,-66.9253333333333,12.27,2.43,md,6,184,,0.07,pr,pr71343088,2022-04-02T20:17:12.110Z,"1 km W of Guánica, Puerto Rico",earthquake,0.54,0.3,0.156852642150339,3,reviewed,pr,pr
 2022-04-02T15:58:47.751Z,38.1892,-117.7801,3.9,2.1,ml,22,112.63,0.126,0.3151,nn,nn00836581,2022-04-02T16:02:27.461Z,"36 km SE of Mina, Nevada",earthquake,,1,0.19,14,automatic,nn,nn
 2022-04-02T15:52:11.627Z,52.2173,-172.9766,79.35,3.2,ml,,190,0.672,0.31,us,us7000gz98,2022-04-02T21:25:05.040Z,"83 km E of Atka, Alaska",earthquake,12.9,14.8,0.115,10,reviewed,us,us
 2022-04-02T15:42:20.193Z,22.8845,121.5777,10,4.5,mb,,150,0.463,0.87,us,us7000gz8a,2022-04-02T21:23:24.040Z,"117 km ESE of Yujing, Taiwan",earthquake,4.6,1.9,0.113,23,reviewed,us,us
@@ -216,5 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T00:08:13.687Z,61.8193,-149.968,45.4,1.5,ml,,,,0.73,ak,ak022485ho7s,2022-04-02T00:15:46.508Z,"Southern Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-04-02T00:07:42.969Z,36.6454,-115.8808,1.2,1.1,ml,17,113.22,0.118,0.2698,nn,nn00836532,2022-04-02T00:10:52.445Z,"20 km WNW of Indian Springs, Nevada",earthquake,,4,0.78,13,automatic,nn,nn
 2022-04-01T23:59:33.380Z,17.9831666666667,-66.9976666666667,13.41,2.45,md,6,159,,0.06,pr,pr71343013,2022-04-02T00:23:18.150Z,"Puerto Rico region",earthquake,0.6,0.39,0.0309424011766843,2,reviewed,pr,pr
-2022-04-01T23:42:03.159Z,64.8163,-147.2684,16.2,1.2,ml,,,,0.96,ak,ak02246vuk65,2022-04-01T23:54:28.186Z,"8 km NNE of North Pole, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-04-01T23:35:16.290Z,19.115,-155.846333333333,41.42,2.26,md,34,224,,0.11,hv,hv72970532,2022-04-01T23:46:59.780Z,"9 km WNW of Hawaiian Ocean View, Hawaii",earthquake,0.5,0.62,0.104847912321113,13,reviewed,hv,hv
