@@ -8391,3 +8391,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-03T15:29:40.284Z,9.1925,126.6201,21.48,5.6,mww,,106.0,2.347,0.94,us,us7000gzdt,2022-04-03T15:52:43.366Z,"45 km ENE of La Paz, Philippines",earthquake,8.1,4.3,0.068,21.0,reviewed,us,us
 2022-04-03T16:15:07.990Z,35.6838341,-117.5371704,4.47,1.32,ml,19.0,81.0,0.1073,0.11,ci,ci39985279,2022-04-03T16:17:14.998Z,"14km ENE of Ridgecrest, CA",earthquake,0.36,0.84,0.118,6.0,automatic,ci,ci
 2022-04-03T16:07:49.150Z,17.9166666666667,-66.8848333333333,2.2,1.6,md,7.0,280.0,,0.11,pr,pr71343233,2022-04-03T16:16:36.650Z,"6 km SSE of Guánica, Puerto Rico",earthquake,0.59,0.3,0.102645579023914,6.0,reviewed,pr,pr
+2022-04-03T16:45:33.070Z,33.4804993,-116.5684967,7.24,2.55,ml,119.0,24.0,0.03153,0.21,ci,ci39985295,2022-04-03T16:47:39.258Z,"13km SE of Anza, CA",earthquake,0.16,0.5,0.278,20.0,automatic,ci,ci
+2022-04-03T16:43:25.780Z,38.8258324,-122.8523331,1.92,0.36,md,15.0,89.0,0.003937,0.02,nc,nc73713726,2022-04-03T16:45:03.316Z,"10km WNW of The Geysers, CA",earthquake,0.25,0.47,0.01,3.0,automatic,nc,nc
+2022-04-03T16:17:21.664Z,61.363,-151.7855,78.5,1.4,ml,,,,0.5,ak,ak0224a2lwg7,2022-04-03T16:20:27.670Z,"45 km WNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-04-03T15:46:51.395Z,26.8575,126.5138,7.77,4.6,mb,,75.0,1.571,0.4,us,us7000gze0,2022-04-03T16:19:08.040Z,"136 km WNW of Naha, Japan",earthquake,3.8,5.2,0.119,24.0,reviewed,us,us
