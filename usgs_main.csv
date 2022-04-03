@@ -8389,3 +8389,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T19:47:56.530Z,35.8843333,-117.709,3.6,0.09,ml,8.0,110.0,0.0793,0.09,ci,ci39984775,2022-04-03T15:48:01.506Z,"19km ESE of Little Lake, CA",earthquake,0.24,0.75,0.019,3.0,reviewed,ci,ci
 2022-04-03T15:49:13.760Z,35.634,-117.5738333,11.93,1.39,ml,19.0,121.0,0.1026,0.15,ci,ci39985255,2022-04-03T15:52:49.861Z,"9km E of Ridgecrest, CA",earthquake,0.29,0.82,0.206,20.0,automatic,ci,ci
 2022-04-03T15:29:40.284Z,9.1925,126.6201,21.48,5.6,mww,,106.0,2.347,0.94,us,us7000gzdt,2022-04-03T15:52:43.366Z,"45 km ENE of La Paz, Philippines",earthquake,8.1,4.3,0.068,21.0,reviewed,us,us
+2022-04-03T16:15:07.990Z,35.6838341,-117.5371704,4.47,1.32,ml,19.0,81.0,0.1073,0.11,ci,ci39985279,2022-04-03T16:17:14.998Z,"14km ENE of Ridgecrest, CA",earthquake,0.36,0.84,0.118,6.0,automatic,ci,ci
+2022-04-03T16:07:49.150Z,17.9166666666667,-66.8848333333333,2.2,1.6,md,7.0,280.0,,0.11,pr,pr71343233,2022-04-03T16:16:36.650Z,"6 km SSE of Guánica, Puerto Rico",earthquake,0.59,0.3,0.102645579023914,6.0,reviewed,pr,pr
