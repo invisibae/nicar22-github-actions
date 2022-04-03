@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-03T08:49:06.900Z,36.1066666,-117.8834991,3.66,1.64,ml,22,65,0.02562,0.14,ci,ci39985079,2022-04-03T08:51:34.265Z,"9km NE of Coso Junction, CA",earthquake,0.27,0.48,0.234,6,automatic,ci,ci
+2022-04-03T08:46:07.004Z,35.65401077,-97.91881561,1.408266187,1.93,ml,21,60.6503129,0.1247340664,1.270608865,ok,ok2022gmtq,2022-04-03T08:48:13.072Z,"9 km SSE of Okarche, Oklahoma",earthquake,2.335737059,2.308918346,,16,automatic,ok,ok
 2022-04-03T08:40:11.120Z,34.018,-117.1735,4.9,0.96,ml,29,88,0.05365,0.19,ci,ci39985071,2022-04-03T08:43:53.224Z,"4km S of Redlands, CA",earthquake,0.31,0.62,0.187,29,automatic,ci,ci
 2022-04-03T08:24:31.394Z,38.2105,-117.8612,8.7,1.1,ml,10,191.92,0.105,0.0718,nn,nn00836611,2022-04-03T08:28:42.464Z,"29 km SE of Mina, Nevada",earthquake,,0.7,0.66,6,automatic,nn,nn
 2022-04-03T08:23:47.792Z,61.815,-149.9064,24.5,1.9,ml,,,,0.56,ak,ak02249xvrxg,2022-04-03T08:29:53.152Z,"10 km NE of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
