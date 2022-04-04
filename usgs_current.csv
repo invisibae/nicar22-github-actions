@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-04T19:41:06.930Z,35.6725,-117.5293333,5.6,0.92,ml,10,149,0.1018,0.16,ci,ci39986247,2022-04-04T19:44:47.258Z,"14km ENE of Ridgecrest, CA",earthquake,0.53,2.31,0.163,9,automatic,ci,ci
 2022-04-04T19:22:28.324Z,61.8638,-149.2604,17.5,1.4,ml,,,,0.45,ak,ak0224brymuo,2022-04-04T19:25:39.845Z,"13 km N of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-04T19:20:57.492Z,60.5358,-153.8465,0,1.8,ml,,,,1.17,ak,ak0224bry9t3,2022-04-04T19:31:47.627Z,"45 km NE of Port Alsworth, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-04T19:11:33.670Z,19.1991672515869,-155.447998046875,35.6599998474121,1.96000004,md,36,148,,0.119999997,hv,hv72973367,2022-04-04T19:15:53.530Z,"3 km E of Pāhala, Hawaii",earthquake,0.51,0.839999974,1.42999995,14,automatic,hv,hv
@@ -37,7 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-04T15:38:20.510Z,35.8321667,-117.6565,10.63,-0.08,ml,5,109,0.05066,0.04,ci,ci39985903,2022-04-04T18:07:34.282Z,"24km N of Ridgecrest, CA",earthquake,0.23,0.7,0.112,2,reviewed,ci,ci
 2022-04-04T15:30:12.400Z,19.4648342132568,-155.44450378418,9.64999961853027,1.80999994,md,15,71,,0.180000007,hv,hv72973202,2022-04-04T15:33:14.190Z,"22 km W of Volcano, Hawaii",earthquake,0.63,1.42999995,0.899999976,3,automatic,hv,hv
 2022-04-04T15:18:57.466Z,-18.9998,-177.4101,513.58,4.8,mb,,115,4.485,0.52,us,us7000gzl6,2022-04-04T15:51:33.040Z,"Fiji region",earthquake,13.4,8.8,0.066,72,reviewed,us,us
-2022-04-04T15:18:31.590Z,40.4816667,-124.2186667,21.41,3.8,mw,32,60,0.05997,0.14,nc,nc73714176,2022-04-04T19:38:18.673Z,"10km WSW of Rio Dell, CA",earthquake,0.36,0.36,,4,reviewed,nc,nc
+2022-04-04T15:18:31.590Z,40.4816667,-124.2186667,21.41,3.8,mw,32,60,0.05997,0.14,nc,nc73714176,2022-04-04T19:47:16.725Z,"10km WSW of Rio Dell, CA",earthquake,0.36,0.36,,4,reviewed,nc,nc
 2022-04-04T15:16:46.240Z,40.4871667,-124.2101667,21.4,4.07,mw,32,56,0.06514,0.15,nc,nc73714181,2022-04-04T19:38:18.827Z,"9km W of Rio Dell, CA",earthquake,0.37,0.38,,4,reviewed,nc,nc
 2022-04-04T14:49:12.710Z,46.592166666666664,-121.808,10.26,1.11,ml,21,92,0.1423,0.18,uw,uw61827816,2022-04-04T18:17:08.130Z,"10 km W of Packwood, Washington",earthquake,0.39,1.57,0.1306971027207453,8,reviewed,uw,uw
 2022-04-04T14:34:29.490Z,35.8616667,-117.6581667,11.73,0.62,ml,13,101,0.0673,0.15,ci,ci39985887,2022-04-04T18:54:01.224Z,"24km ESE of Little Lake, CA",earthquake,0.32,0.56,0.231,6,reviewed,ci,ci
