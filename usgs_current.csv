@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-04T09:22:19.538Z,61.1645,-150.7988,21.7,1.3,ml,,,,0.46,ak,ak0224bm0a4h,2022-04-04T09:24:48.679Z,"15 km E of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-04T09:08:11.617Z,61.9568,-150.3739,40.7,1.5,ml,,,,0.67,ak,ak0224blx9ho,2022-04-04T09:14:48.154Z,"29 km NW of Willow, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-04-04T08:51:30.306Z,37.9878,-117.915,0.6,1.2,ml,14,150.62,0.034,0.2726,nn,nn00836654,2022-04-04T08:55:08.988Z,"35 km NW of Silver Peak, Nevada",earthquake,,0.3,0.41,8,automatic,nn,nn
 2022-04-04T08:41:16.660Z,33.544,-115.8946667,3.27,2.03,ml,47,55,0.04427,0.18,ci,ci39985711,2022-04-04T08:52:11.130Z,"4km ENE of North Shore, CA",earthquake,0.24,0.42,0.104,26,automatic,ci,ci
@@ -10,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-04T08:06:38.200Z,33.2868333,-116.4256667,3.29,0.54,ml,14,106,0.0199,0.25,ci,ci39985679,2022-04-04T08:10:07.575Z,"6km NW of Borrego Springs, CA",earthquake,0.49,0.88,0.139,12,automatic,ci,ci
 2022-04-04T07:59:58.390Z,33.5788333,-116.8085,7.63,1.83,ml,64,29,0.06066,0.2,ci,ci39985671,2022-04-04T08:11:21.810Z,"13km WNW of Anza, CA",earthquake,0.19,0.64,0.157,27,automatic,ci,ci
 2022-04-04T07:50:33.080Z,33.2066667,-116.3466667,11.13,0.51,ml,16,81,0.07894,0.27,ci,ci39985663,2022-04-04T07:54:09.424Z,"6km SSE of Borrego Springs, CA",earthquake,0.49,0.86,0.112,6,automatic,ci,ci
-2022-04-04T07:40:15.460Z,38.8224983,-122.807663,3.06,0.84,md,8,79,0.002085,0.01,nc,nc73714051,2022-04-04T07:57:14.266Z,"7km NW of The Geysers, CA",earthquake,0.5,1.53,,1,automatic,nc,nc
+2022-04-04T07:40:15.460Z,38.8224983,-122.807663,3.06,0.84,md,8,79,0.002085,0.01,nc,nc73714051,2022-04-04T09:27:14.814Z,"7km NW of The Geysers, CA",earthquake,0.5,1.53,,1,automatic,nc,nc
 2022-04-04T07:33:41.000Z,19.1593341827393,-155.370498657227,27.8799991607666,1.74000001,md,37,216,,0.119999997,hv,hv72972892,2022-04-04T07:36:49.240Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.62,0.889999986,0.629999995,7,automatic,hv,hv
 2022-04-04T07:25:51.230Z,17.951,-67.1103333333333,12.44,2.04,md,7,277,,0.1,pr,pr71343303,2022-04-04T08:38:54.700Z,"Puerto Rico region",earthquake,0.74,0.33,0.0305861828516032,5,reviewed,pr,pr
 2022-04-04T07:23:30.500Z,18.8188333333333,-155.146666666667,8.4,3.3,ml,36,273,,0.15,hv,hv72972882,2022-04-04T08:07:48.898Z,"53 km ESE of Naalehu, Hawaii",earthquake,0.97,0.75,0.132284352006772,40,reviewed,hv,hv
@@ -214,5 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-03T09:39:12.441Z,61.951,-149.1666,19.8,1.9,ml,,,,0.89,ak,ak02249ykkak,2022-04-03T09:48:37.126Z,"23 km N of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-03T09:36:18.128Z,35.39769745,-97.88280487,0.7361242771,2.34,ml,57,76.2775116,0.0279792808,0.8028687001,ok,ok2022gmvh,2022-04-03T22:15:03.398Z,"Oklahoma",earthquake,1.529932781,1.356735094,,43,automatic,ok,ok
 2022-04-03T09:32:35.950Z,38.8156662,-122.8238297,-0.62,0.36,md,7,167,0.007971,0.24,nc,nc73713676,2022-04-03T10:05:22.382Z,"7km NW of The Geysers, CA",earthquake,1.28,2.37,,1,automatic,nc,nc
-2022-04-03T09:25:55.959Z,26.526,126.4621,10,4.7,mb,,86,1.648,0.39,us,us7000gzbx,2022-04-03T10:11:25.040Z,"126 km WNW of Naha, Japan",earthquake,5.9,1.6,0.086,41,reviewed,us,us
-2022-04-03T09:23:43.340Z,38.7809982,-122.7331696,2.32,0.67,md,7,133,0.003566,0.01,nc,nc73713671,2022-04-03T09:41:23.233Z,"2km ENE of The Geysers, CA",earthquake,0.45,1.31,0.16,2,automatic,nc,nc
