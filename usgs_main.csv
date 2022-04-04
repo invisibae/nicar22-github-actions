@@ -8718,3 +8718,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-04T20:47:20.055Z,63.1428,-150.2022,82.1,1.5,ml,,,,0.25,ak,ak0224bspepx,2022-04-04T20:49:16.510Z,"68 km WSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-04-04T20:40:21.486Z,60.0771,-152.5962,92.0,2.1,ml,,,,0.37,ak,ak0224bsnwt8,2022-04-04T20:47:46.835Z,"50 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-04T20:27:07.840Z,35.8513333,-117.658,8.2,1.0,mh,12.0,97.0,0.06064,0.14,ci,ci39986335,2022-04-04T20:48:50.122Z,"24km ESE of Little Lake, CA",earthquake,0.29,0.63,,0.0,reviewed,ci,ci
+2022-04-04T20:54:05.860Z,38.7976685,-122.7513351,2.19,0.86,md,17.0,95.0,0.007181,0.03,nc,nc73714271,2022-04-04T20:55:40.793Z,"2km N of The Geysers, CA",earthquake,0.28,0.56,0.11,4.0,automatic,nc,nc
+2022-04-04T20:46:51.670Z,34.516,-118.7881667,12.72,1.37,ml,20.0,183.0,0.1118,0.26,ci,ci39986351,2022-04-04T20:50:32.605Z,"11km N of Piru, CA",earthquake,0.94,1.12,0.18,30.0,automatic,ci,ci
