@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-04T21:39:43.292Z,-4.6759,129.3927,213.5,4.4,mb,,92,3.341,0.77,us,us7000gzpf,2022-04-04T22:00:05.040Z,"156 km SSE of Amahai, Indonesia",earthquake,9.2,9.1,0.095,32,reviewed,us,us
 2022-04-04T21:38:14.030Z,38.8273315,-122.7994995,1.97,0.89,md,27,33,0.009147,0.02,nc,nc73714296,2022-04-04T21:55:12.476Z,"7km W of Cobb, CA",earthquake,0.2,0.35,0.08,5,automatic,nc,nc
 2022-04-04T21:27:06.710Z,19.2439994812012,-155.413162231445,31.7999992370605,1.82000005,md,26,130,,0.129999995,hv,hv72973492,2022-04-04T21:35:55.200Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.75,0.839999974,0.910000026,8,reviewed,hv,hv
 2022-04-04T21:21:14.210Z,33.4015,-116.8915,5.93,0.78,ml,24,46,0.05352,0.17,ci,ci39986399,2022-04-04T21:29:07.901Z,"5km SSW of Aguanga, CA",earthquake,0.23,0.81,0.116,19,reviewed,ci,ci
 2022-04-04T21:20:00.712Z,63.5601,-147.9482,0,1.8,ml,,,,0.77,ak,ak0224bt50h4,2022-04-04T21:27:59.649Z,"51 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-04T21:16:24.580Z,40.4835014,-124.213501,20.67,2.88,md,17,183,0.09693,0.08,nc,nc73714286,2022-04-04T21:38:58.040Z,"9km W of Rio Dell, CA",earthquake,0.93,0.45,0.06,12,automatic,nc,nc
-2022-04-04T21:14:32.230Z,40.3391685,-123.7549973,21.08,1.84,md,9,139,0.113,0.08,nc,nc73714281,2022-04-04T21:39:39.022Z,"25km NNE of Redway, CA",earthquake,1.06,1.02,0.04,5,automatic,nc,nc
+2022-04-04T21:14:32.230Z,40.3391685,-123.7549973,21.08,1.84,md,9,139,0.113,0.08,nc,nc73714281,2022-04-04T22:09:11.541Z,"25km NNE of Redway, CA",earthquake,1.06,1.02,0.04,5,automatic,nc,nc
 2022-04-04T21:08:47.560Z,60.1689,-151.6833,58.4,1.5,ml,,,,0.43,ak,ak0224bt2jig,2022-04-04T21:15:41.897Z,"13 km N of Ninilchik, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-04-04T20:56:15.340Z,62.162,-150.5067,13.6,1.6,ml,,,,0.72,ak,ak0224bsrbsi,2022-04-04T21:02:42.136Z,"22 km SW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-04T20:54:05.860Z,38.7976685,-122.7513351,2.19,0.86,md,17,95,0.007181,0.03,nc,nc73714271,2022-04-04T21:10:12.232Z,"2km N of The Geysers, CA",earthquake,0.28,0.56,0.11,4,automatic,nc,nc
@@ -69,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-04T15:30:12.400Z,19.4648342132568,-155.44450378418,9.64999961853027,1.80999994,md,15,71,,0.180000007,hv,hv72973202,2022-04-04T15:33:14.190Z,"22 km W of Volcano, Hawaii",earthquake,0.63,1.42999995,0.899999976,3,automatic,hv,hv
 2022-04-04T15:18:57.466Z,-18.9998,-177.4101,513.58,4.8,mb,,115,4.485,0.52,us,us7000gzl6,2022-04-04T15:51:33.040Z,"Fiji region",earthquake,13.4,8.8,0.066,72,reviewed,us,us
 2022-04-04T15:18:31.590Z,40.4816667,-124.2186667,21.41,3.8,mw,32,60,0.05997,0.14,nc,nc73714176,2022-04-04T21:52:32.910Z,"10km WSW of Rio Dell, CA",earthquake,0.36,0.36,,4,reviewed,nc,nc
-2022-04-04T15:16:46.240Z,40.4871667,-124.2101667,21.4,4.07,mw,32,56,0.06514,0.15,nc,nc73714181,2022-04-04T21:53:41.550Z,"9km W of Rio Dell, CA",earthquake,0.37,0.38,,4,reviewed,nc,nc
+2022-04-04T15:16:46.240Z,40.4871667,-124.2101667,21.4,4.07,mw,32,56,0.06514,0.15,nc,nc73714181,2022-04-04T22:12:12.556Z,"9km W of Rio Dell, CA",earthquake,0.37,0.38,,4,reviewed,nc,nc
 2022-04-04T14:49:12.710Z,46.592166666666664,-121.808,10.26,1.11,ml,21,92,0.1423,0.18,uw,uw61827816,2022-04-04T18:17:08.130Z,"10 km W of Packwood, Washington",earthquake,0.39,1.57,0.1306971027207453,8,reviewed,uw,uw
 2022-04-04T14:34:29.490Z,35.8616667,-117.6581667,11.73,0.62,ml,13,101,0.0673,0.15,ci,ci39985887,2022-04-04T18:54:01.224Z,"24km ESE of Little Lake, CA",earthquake,0.32,0.56,0.231,6,reviewed,ci,ci
 2022-04-04T14:29:14.320Z,47.3688333,-114.2031667,7.73,1.11,ml,13,60,0.154,0.1,mb,mb80542109,2022-04-04T15:16:50.500Z,"8 km SSW of Charlo, Montana",earthquake,0.29,1.64,0.216,3,reviewed,mb,mb
@@ -259,4 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-03T22:22:55.550Z,32.3988333,-115.2618333,11.46,1.91,ml,17,169,0.04193,0.31,ci,ci39985447,2022-04-03T22:26:39.205Z,"8km NW of Delta, B.C., MX",earthquake,0.96,1.15,0.36,18,automatic,ci,ci
 2022-04-03T22:20:40.720Z,38.8414993,-122.8251648,1.85,0.37,md,11,115,0.008569,0.01,nc,nc73713871,2022-04-03T22:56:14.871Z,"9km WNW of Cobb, CA",earthquake,0.33,0.7,,1,automatic,nc,nc
 2022-04-03T22:19:56.589Z,62.9998,-151.0452,111.1,1.8,ml,,,,0.32,ak,ak0224a6707e,2022-04-03T22:22:02.425Z,"57 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-04-03T22:00:03.710Z,35.40566667,-97.87666667,6.39,2.08,ml,99,49,0.03599293696,0.27,ok,ok2022gntv,2022-04-04T15:22:59.736Z,"6 km ENE of Union City, Oklahoma",earthquake,,0.4,0.21,18,reviewed,ok,ok
