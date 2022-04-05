@@ -8943,3 +8943,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-05T20:13:34.170Z,34.0565,-117.4986667,7.52,1.24,ml,11.0,111.0,0.1648,0.34,ci,ci39987015,2022-04-05T20:17:21.652Z,"5km NNW of Glen Avon, CA",earthquake,1.46,8.21,0.205,29.0,automatic,ci,ci
 2022-04-05T18:41:42.378Z,-24.1787,-67.0201,214.58,4.7,ml,,104.0,1.619,1.14,us,us7000gzx9,2022-04-05T20:16:12.040Z,"71 km W of San Antonio de los Cobres, Argentina",earthquake,5.5,13.9,,,reviewed,us,guc
 2022-04-05T06:20:04.602Z,36.593,-115.9329,0.0,0.5,ml,5.0,318.35,0.073,0.2331,nn,nn00836726,2022-04-05T20:25:13.289Z,"23 km W of Indian Springs, Nevada",earthquake,,0.0,0.46,2.0,reviewed,nn,nn
+2022-04-05T11:41:08.000Z,36.7229,-116.3561,6.4,0.2,ml,4.0,210.83,0.079,0.093,nn,nn00836732,2022-04-05T20:31:25.643Z,"41 km ESE of Beatty, Nevada",earthquake,,8.4,0.0,1.0,reviewed,nn,nn
