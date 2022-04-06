@@ -9153,3 +9153,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-06T18:34:38.976Z,66.7397,-146.7222,3.0,2.3,ml,,,,0.97,ak,ak0224f2ihmx,2022-04-06T18:46:29.349Z,"33 km SSW of Venetie, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2022-04-06T18:31:01.150Z,19.2181663513184,-155.39533996582,31.2000007629395,1.98000002,md,31.0,158.0,,0.119999997,hv,hv72975467,2022-04-06T18:34:09.710Z,"8 km E of Pāhala, Hawaii",earthquake,0.54,0.920000017,1.03999996,7.0,automatic,hv,hv
 2022-04-06T16:59:36.580Z,38.4828333,-112.8426667,0.07,-0.44,md,6.0,197.0,0.02624,0.06,uu,uu60030384,2022-04-06T18:44:08.830Z,"17 km ENE of Milford, Utah",earthquake,0.7,31.61,0.447,3.0,reviewed,uu,uu
+2022-04-06T18:52:38.740Z,35.991333,-120.5528336,3.17,1.23,md,13.0,117.0,0.02233,0.06,nc,nc73715141,2022-04-06T18:54:12.842Z,"15km NW of Parkfield, CA",earthquake,0.46,1.09,0.34,4.0,automatic,nc,nc
+2022-04-06T18:47:29.675Z,63.3315,-145.4156,12.7,1.5,ml,,,,0.56,ak,ak0224f2l98k,2022-04-06T18:54:26.853Z,"28 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-06T18:43:52.610Z,38.2824,-118.5546,0.0,0.6,ml,8.0,279.52,0.05,0.4712,nn,nn00836777,2022-04-06T18:48:09.136Z,"27 km SSE of Hawthorne, Nevada",earthquake,,0.9,0.99,5.0,automatic,nn,nn
