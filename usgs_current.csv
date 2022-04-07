@@ -272,5 +272,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-06T07:09:32.970Z,38.789,-122.7608333,1.67,1.34,md,44,62,0.01164,0.05,nc,nc73714931,2022-04-07T02:51:15.601Z,"1km NNW of The Geysers, CA",earthquake,0.16,0.25,0.063,9,reviewed,nc,nc
 2022-04-06T07:05:29.000Z,44.4278333,-110.3218333,7.14,0.68,md,7,114,0.04464,0.12,uu,uu60489082,2022-04-06T13:23:19.690Z,"67 km ESE of West Yellowstone, Montana",earthquake,0.99,2.08,0.358,5,reviewed,uu,uu
 2022-04-06T07:00:51.262Z,61.6475,-150.9266,70.8,1.4,ml,,,,0.5,ak,ak0224evrgkx,2022-04-06T07:13:08.865Z,"24 km WNW of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-04-06T06:56:00.631Z,-0.0548,126.6971,61.1,4.7,mb,,78,1.059,0.67,us,us7000h03u,2022-04-06T11:53:19.040Z,"120 km SW of Ternate, Indonesia",earthquake,7.3,6.4,0.073,57,reviewed,us,us
-2022-04-06T06:55:31.010Z,35.9096667,-117.7438333,8.82,0.47,ml,12,61,0.07186,0.04,ci,ci39987183,2022-04-06T16:10:23.327Z,"15km ESE of Little Lake, CA",earthquake,0.14,0.38,0.068,4,reviewed,ci,ci
