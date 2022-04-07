@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-04-07T13:38:04.827Z,59.484,-152.6587,74.5,1.5,ml,,,,0.59,ak,ak0224gn3gcz,2022-04-07T13:40:55.938Z,"44 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-04-07T13:17:10.660Z,38.9840012,-122.4056702,9.75,1.87,md,6,168,0.109,0.01,nc,nc73715506,2022-04-07T13:33:17.482Z,"19km E of Clearlake, CA",earthquake,0.68,2.31,0.24,6,automatic,nc,nc
+2022-04-07T13:17:10.660Z,38.9840012,-122.4056702,9.75,1.87,md,6,168,0.109,0.01,nc,nc73715506,2022-04-07T13:50:11.592Z,"19km E of Clearlake, CA",earthquake,0.68,2.31,0.24,6,automatic,nc,nc
 2022-04-07T13:06:59.500Z,19.1966667175293,-155.459838867188,32.9900016784668,1.72000003,md,34,149,,0.129999995,hv,hv72976212,2022-04-07T13:10:27.010Z,"2 km ESE of Pāhala, Hawaii",earthquake,0.55,1.03999996,0.860000014,3,automatic,hv,hv
 2022-04-07T12:31:38.887Z,61.9257,-150.8457,70.2,1.1,ml,,,,0.48,ak,ak0224gmglct,2022-04-07T12:34:22.183Z,"29 km ESE of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-04-07T11:54:09.500Z,19.1569995880127,-155.467834472656,29.7099990844727,1.88,md,36,121,,0.170000002,hv,hv72976172,2022-04-07T11:57:33.260Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.78,1.12,0.819999993,12,automatic,hv,hv
