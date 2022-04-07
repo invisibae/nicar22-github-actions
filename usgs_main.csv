@@ -9428,3 +9428,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-07T14:40:52.840Z,19.3816661834717,-155.477996826172,8.80000019073486,1.95000005,md,39.0,58.0,,0.180000007,hv,hv72976297,2022-04-07T14:44:03.180Z,"19 km N of Pāhala, Hawaii",earthquake,0.38,0.689999998,1.34000003,22.0,automatic,hv,hv
 2022-04-07T10:01:42.874Z,-24.1147,-67.2022,193.8,4.5,mb,,93.0,1.463,1.02,us,us7000h0c4,2022-04-07T14:40:46.040Z,"90 km W of San Antonio de los Cobres, Argentina",earthquake,10.7,14.4,0.22,6.0,reviewed,us,us
 2022-04-07T14:47:42.544Z,64.0798,-148.5022,0.0,1.5,ml,,,,0.53,ak,ak0224gnqwb1,2022-04-07T14:50:27.869Z,"30 km ENE of Ferry, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-04-07T14:55:53.570Z,19.1906661987305,-155.482833862305,33.189998626709,2.13000011,md,43.0,76.0,,0.129999995,hv,hv72976317,2022-04-07T14:59:03.290Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.44,0.910000026,1.74000001,14.0,automatic,hv,hv
