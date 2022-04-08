@@ -9762,3 +9762,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-08T13:00:13.100Z,38.8313332,-122.8096695,2.12,0.36,md,8.0,98.0,0.007933,0.01,nc,nc73715956,2022-04-08T13:01:47.040Z,"8km W of Cobb, CA",earthquake,0.4,0.99,,1.0,automatic,nc,nc
 2022-04-08T12:58:39.969Z,63.1823,-150.564,118.8,2.0,ml,,,,0.33,ak,ak0224ia5qa4,2022-04-08T13:08:56.680Z,"70 km SE of Denali National Park, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-04-08T12:32:13.397Z,-3.337,138.8629,75.8,5.1,mb,,59.0,6.617,0.76,us,us7000h0mt,2022-04-08T12:48:54.040Z,"213 km WSW of Abepura, Indonesia",earthquake,9.6,7.3,0.064,80.0,reviewed,us,us
+2022-04-08T13:25:48.360Z,19.167667388916,-155.470336914062,31.6200008392334,2.28999996,md,47.0,78.0,,0.150000006,hv,hv72977927,2022-04-08T13:29:00.050Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.57,0.819999993,1.21000004,19.0,automatic,hv,hv
+2022-04-08T13:15:19.820Z,35.6666667,-117.4778333,6.5,1.61,ml,22.0,110.0,0.081,0.17,ci,ci39988607,2022-04-08T13:19:21.833Z,"13km SSW of Searles Valley, CA",earthquake,0.31,0.9,0.1,21.0,automatic,ci,ci
+2022-04-08T13:12:17.382Z,65.2534,-158.2711,7.2,2.5,ml,,,,0.62,ak,ak0224iah979,2022-04-08T13:22:18.805Z,"49 km NNW of Koyukuk, Alaska",earthquake,,0.4,,,automatic,ak,ak
