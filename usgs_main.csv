@@ -9757,3 +9757,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-08T12:08:31.510Z,33.5063333,-116.4518333,2.25,1.45,ml,57.0,60.0,0.02768,0.26,ci,ci39988583,2022-04-08T12:19:48.230Z,"21km ESE of Anza, CA",earthquake,0.24,0.58,0.227,25.0,automatic,ci,ci
 2022-04-08T12:06:45.476Z,60.0808,-152.9279,127.7,2.0,ml,,,,0.81,ak,ak0224i9ulfd,2022-04-08T12:18:28.750Z,"68 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-08T05:15:19.910Z,36.0803333,-89.4438333,10.82,1.48,md,16.0,70.0,0.04341,0.05,nm,nm60381327,2022-04-08T12:35:29.790Z,"7 km NW of Dyersburg, Tennessee",earthquake,0.28,0.68,0.079,11.0,reviewed,nm,nm
+2022-04-08T13:10:20.901Z,37.176,-115.3644,0.0,0.6,ml,8.0,181.45,0.496,0.2732,nn,nn00836927,2022-04-08T13:13:38.973Z,"27 km SW of Alamo, Nevada",earthquake,,52.5,1.48,2.0,automatic,nn,nn
+2022-04-08T13:02:10.294Z,37.167,-115.3149,0.6,1.6,ml,16.0,186.22,0.623,0.3991,nn,nn00836924,2022-04-08T13:05:30.604Z,"25 km SSW of Alamo, Nevada",earthquake,,27.9,0.86,11.0,automatic,nn,nn
+2022-04-08T13:00:13.100Z,38.8313332,-122.8096695,2.12,0.36,md,8.0,98.0,0.007933,0.01,nc,nc73715956,2022-04-08T13:01:47.040Z,"8km W of Cobb, CA",earthquake,0.4,0.99,,1.0,automatic,nc,nc
+2022-04-08T12:58:39.969Z,63.1823,-150.564,118.8,2.0,ml,,,,0.33,ak,ak0224ia5qa4,2022-04-08T13:08:56.680Z,"70 km SE of Denali National Park, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2022-04-08T12:32:13.397Z,-3.337,138.8629,75.8,5.1,mb,,59.0,6.617,0.76,us,us7000h0mt,2022-04-08T12:48:54.040Z,"213 km WSW of Abepura, Indonesia",earthquake,9.6,7.3,0.064,80.0,reviewed,us,us
