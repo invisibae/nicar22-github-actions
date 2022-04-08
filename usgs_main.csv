@@ -9658,3 +9658,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-08T04:33:46.133Z,39.5811,-119.0685,7.1,1.3,ml,15.0,114.08,0.276,0.2072,nn,nn00836893,2022-04-08T04:37:06.902Z,"16 km E of Fernley, Nevada",earthquake,,2.2,0.2,8.0,automatic,nn,nn
 2022-04-08T04:02:04.350Z,17.9768333333333,-66.739,15.36,2.1,md,3.0,213.0,,0.19,pr,pr71343708,2022-04-08T04:46:22.180Z,"3 km SW of Tallaboa, Puerto Rico",earthquake,4.63,3.28,0.145786304768025,3.0,reviewed,pr,pr
 2022-04-07T16:24:15.160Z,58.3991666666667,-154.767333333333,6.02,-0.77,ml,4.0,178.0,,0.11,av,av91054063,2022-04-08T04:36:05.530Z,"94 km NNW of Karluk, Alaska",earthquake,1.07,0.65,0.186920126332339,4.0,reviewed,av,av
+2022-04-08T04:47:52.320Z,40.3288345,-122.0763321,1.92,1.88,md,6.0,146.0,0.126,0.03,nc,nc73715826,2022-04-08T04:59:09.745Z,"21km WSW of Manton, CA",earthquake,0.64,7.68,0.08,5.0,automatic,nc,nc
+2022-04-08T04:45:29.500Z,17.9605,-67.0298333333333,6.95,2.16,md,10.0,217.0,,0.07,pr,pr71343718,2022-04-08T04:58:14.510Z,"2 km SE of La Parguera, Puerto Rico",earthquake,0.45,0.28,0.0615391721515204,5.0,reviewed,pr,pr
