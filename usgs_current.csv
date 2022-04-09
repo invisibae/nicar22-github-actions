@@ -1,11 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-09T20:54:18.430Z,33.795,-117.073,7.57,1.14,ml,8,85,0.3462,0.27,ci,ci39989599,2022-04-09T20:57:57.362Z,"6km N of Green Acres, CA",earthquake,1.07,31.61,0.296,13,automatic,ci,ci
 2022-04-09T20:40:46.586Z,63.1676,-149.6992,89.3,1.8,ml,,,,0.51,ak,ak0224k2cp8b,2022-04-09T20:43:23.234Z,"45 km SW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-09T20:37:07.490Z,33.3333333,-116.2258333,8.59,0.88,ml,23,61,0.07586,0.26,ci,ci39989591,2022-04-09T20:40:38.586Z,"16km ENE of Borrego Springs, CA",earthquake,0.56,1.12,0.08,18,automatic,ci,ci
 2022-04-09T20:14:06.240Z,34.0368333,-116.66,19.01,1.13,ml,15,132,0.1215,0.4,ci,ci39989583,2022-04-09T20:17:50.074Z,"7km W of Morongo Valley, CA",earthquake,1.59,2.72,0.194,19,automatic,ci,ci
 2022-04-09T20:00:03.846Z,-0.031,123.6733,126.99,4.8,mb,,31,1.349,1.09,us,us7000h0ya,2022-04-09T20:15:23.040Z,"92 km SE of Gorontalo, Indonesia",earthquake,6.2,5.9,0.063,81,reviewed,us,us
 2022-04-09T19:54:58.935Z,61.3691,-146.9637,19,1.4,ml,,,,0.91,ak,ak0224k1uald,2022-04-09T20:26:29.230Z,"42 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-09T19:53:53.965Z,61.6462,-141.8934,0,1.3,ml,,,,0.17,ak,ak0224k1u2h2,2022-04-09T20:05:20.948Z,"59 km ENE of McCarthy, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-04-09T19:50:55.770Z,38.8338333,-122.8403333,1.9,1.5,md,47,74,0.006073,0.03,nc,nc73716401,2022-04-09T20:38:10.613Z,"10km NW of The Geysers, CA",earthquake,0.13,0.17,0.039,13,reviewed,nc,nc
+2022-04-09T19:50:55.770Z,38.8338333,-122.8403333,1.9,1.5,md,47,74,0.006073,0.03,nc,nc73716401,2022-04-09T20:52:10.704Z,"10km NW of The Geysers, CA",earthquake,0.13,0.17,0.039,13,reviewed,nc,nc
 2022-04-09T19:49:29.570Z,38.8333321,-122.8404999,1.42,0.94,md,25,99,0.006548,0.05,nc,nc73716396,2022-04-09T19:51:04.122Z,"10km NW of The Geysers, CA",earthquake,0.2,0.38,0.06,5,automatic,nc,nc
 2022-04-09T19:35:14.119Z,-22.9049,171.537,22.96,5,mww,,64,3.786,0.91,us,us7000h0y5,2022-04-09T20:17:25.040Z,"southeast of the Loyalty Islands",earthquake,8.9,4.5,0.098,10,reviewed,us,us
 2022-04-09T19:34:34.240Z,33.9913333,-116.9945,13.75,1.17,ml,29,88,0.113,0.21,ci,ci39989575,2022-04-09T19:38:12.880Z,"5km E of Calimesa, CA",earthquake,0.3,0.67,0.202,30,automatic,ci,ci
@@ -136,7 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-09T04:28:01.065Z,65.2752,-158.2962,10,2.5,ml,,87,1.012,0.52,us,us7000h0ux,2022-04-09T04:52:28.040Z,"52 km NNW of Koyukuk, Alaska",earthquake,2.6,2,0.051,50,reviewed,us,us
 2022-04-09T04:14:48.171Z,63.0674,-149.4023,65.1,1.5,ml,,,,0.68,ak,ak0224jso71t,2022-04-09T04:17:14.470Z,"42 km SSW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-04-09T04:11:18.570Z,19.1678333282471,-155.466003417969,30.7299995422363,1.99000001,md,39,100,,0.129999995,hv,hv72978582,2022-04-09T04:14:36.570Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.52,0.769999981,0.899999976,12,automatic,hv,hv
-2022-04-09T03:46:41.640Z,38.8235,-122.788,1.34,0.49,md,13,87,0.01171,0.02,nc,nc73716161,2022-04-09T19:50:20.625Z,"6km W of Cobb, CA",earthquake,0.26,0.45,0.379,3,reviewed,nc,nc
+2022-04-09T03:46:41.640Z,38.8235,-122.788,1.34,0.49,md,13,87,0.01171,0.02,nc,nc73716161,2022-04-09T20:51:13.698Z,"6km W of Cobb, CA",earthquake,0.26,0.45,0.379,3,reviewed,nc,nc
 2022-04-09T02:55:21.750Z,32.7028333,-115.5023333,15.19,1.6,ml,9,116,0.1124,0.22,ci,ci39989127,2022-04-09T02:59:05.607Z,"3km N of Calexico, CA",earthquake,0.86,1.2,0.227,23,automatic,ci,ci
 2022-04-09T02:51:03.660Z,35.6933333,-117.4873333,4.42,0.45,ml,8,166,0.1085,0.11,ci,ci39989119,2022-04-09T02:54:35.625Z,"11km SW of Searles Valley, CA",earthquake,0.63,1.43,0.076,4,automatic,ci,ci
 2022-04-09T02:49:04.946Z,65.2994,-158.2513,3.6,2.2,ml,,,,0.48,ak,ak0224jroqke,2022-04-09T03:00:41.051Z,"53 km NNW of Koyukuk, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -191,5 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-08T21:08:02.140Z,35.6251667,-117.4678333,6.95,1.02,ml,19,110,0.03885,0.1,ci,ci39988935,2022-04-08T21:28:13.526Z,"17km SSW of Searles Valley, CA",earthquake,0.2,0.4,0.134,10,reviewed,ci,ci
 2022-04-08T21:03:21.610Z,51.87,179.643333333333,13.63,1.8,ml,6,267,,0.13,av,av91533481,2022-04-09T03:13:03.630Z,"256 km W of Adak, Alaska",earthquake,1.18,0.9,0.383870230551394,6,reviewed,av,av
 2022-04-08T21:01:14.026Z,31.68058579,-104.4199904,6.131567383,3.1,ml,21,52,0.0699020238,0.3,tx,tx2022gwvk,2022-04-08T21:14:50.040Z,"55 km S of Whites City, New Mexico",earthquake,0.9980426517,1.065926253,0.1,13,reviewed,tx,tx
-2022-04-08T20:57:35.510Z,47.1508333,-113.0926667,13.78,0.57,ml,8,182,0.216,0.14,mb,mb80542659,2022-04-09T14:50:54.520Z,"14 km NNE of Ovando, Montana",earthquake,0.73,1.69,0.106,2,reviewed,mb,mb
-2022-04-08T20:55:31.056Z,-1.8447,67.9701,10,4.7,mb,,44,10.017,0.86,us,us7000h0th,2022-04-08T21:19:27.040Z,"Carlsberg Ridge",earthquake,9.7,1.9,0.07,69,reviewed,us,us
