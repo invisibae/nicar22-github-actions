@@ -10098,3 +10098,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-09T19:24:05.220Z,17.9255,-68.541,57.0,3.49,md,17.0,230.0,0.6097,0.43,pr,pr2022099002,2022-04-09T20:04:10.930Z,"50 km S of Boca de Yuma, Dominican Republic",earthquake,3.04,4.8,0.08,9.0,reviewed,pr,pr
 2022-04-09T14:08:29.860Z,37.3228333,-122.2443333,5.12,1.31,md,8.0,114.0,0.0574,0.1,nc,nc73716281,2022-04-09T20:13:10.462Z,"7km S of Portola Valley, CA",earthquake,0.45,1.49,0.124,7.0,reviewed,nc,nc
 2022-04-09T10:23:36.920Z,38.8373333,-122.8035,2.57,0.13,md,15.0,60.0,0.01033,0.03,nc,nc73716231,2022-04-09T20:01:51.682Z,"7km WNW of Cobb, CA",earthquake,0.33,0.46,0.101,3.0,reviewed,nc,nc
+2022-04-09T17:32:53.810Z,37.6766667,-122.4906667,11.24,1.12,md,21.0,156.0,0.04136,0.08,nc,nc73716351,2022-04-09T20:25:10.684Z,"3km SW of Daly City, CA",earthquake,0.34,0.37,0.234,16.0,reviewed,nc,nc
