@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-09T11:32:47.437Z,63.2856,-151.313,0,1.9,ml,,,,0.8,ak,ak0224jwy34d,2022-04-09T11:39:01.115Z,"35 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-09T11:41:03.228Z,64.7043,-149.2832,16.5,1.4,ml,,,,0.73,ak,ak0224jwzx68,2022-04-09T11:50:41.427Z,"13 km NW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-09T11:32:47.412Z,63.2855,-151.3161,0,1.9,ml,,,,0.79,ak,ak0224jwy34d,2022-04-09T11:43:44.036Z,"34 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-09T11:29:06.889Z,65.9566,-151.0196,26.9,1.4,ml,,,,1.26,ak,ak0224jwxctz,2022-04-09T11:32:46.686Z,"63 km NW of Rampart, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-09T11:25:58.880Z,35.8958333,-117.706,5.01,0.82,ml,11,68,0.06883,0.09,ci,ci39989287,2022-04-09T11:29:36.168Z,"19km ESE of Little Lake, CA",earthquake,0.19,0.38,0.103,10,automatic,ci,ci
 2022-04-09T11:25:16.254Z,60.0402,-152.3416,91.5,1.6,ml,,,,0.88,ak,ak0224jwwiot,2022-04-09T11:28:17.482Z,"35 km WNW of Happy Valley, Alaska",earthquake,,0.8,,,automatic,ak,ak
