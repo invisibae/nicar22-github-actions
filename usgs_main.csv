@@ -9975,3 +9975,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-09T06:00:45.423Z,56.898,-155.4786,52.5,3.4,ml,,,,0.67,ak,ak0224jts20l,2022-04-09T06:07:56.194Z,"79 km W of Akhiok, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-04-09T05:59:38.800Z,38.8154984,-122.8198318,2.81,1.17,md,17.0,55.0,0.009856,0.01,nc,nc73716191,2022-04-09T06:15:14.291Z,"7km NW of The Geysers, CA",earthquake,0.29,0.75,,1.0,automatic,nc,nc
 2022-04-08T13:04:56.069Z,37.4767,137.2446,5.19,4.4,mb,,88.0,1.205,0.59,us,us7000h0pv,2022-04-09T06:10:32.040Z,"53 km NNE of Nanao, Japan",earthquake,4.9,4.2,0.079,46.0,reviewed,us,us
+2022-04-09T06:19:44.280Z,35.7236667,-117.5461667,8.09,1.05,ml,15.0,136.0,0.1009,0.18,ci,ci39989191,2022-04-09T06:23:21.666Z,"14km WSW of Searles Valley, CA",earthquake,0.47,1.17,0.195,12.0,automatic,ci,ci
