@@ -229,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-08T11:20:58.410Z,38.84,-122.837,1.79,1.54,md,46,60,0.001839,0.07,nc,nc73715926,2022-04-08T20:30:15.791Z,"10km NW of The Geysers, CA",earthquake,0.16,0.23,0.1,14,reviewed,nc,nc
 2022-04-08T11:18:25.355Z,38.6612,-119.6609,8.7,1.1,ml,12,93.2,0.134,0.1614,nn,nn00836915,2022-04-09T02:39:15.413Z,"10 km WSW of Topaz Lake, Nevada",earthquake,,2.3,0.58,4,reviewed,nn,nn
 2022-04-08T11:00:59.960Z,17.9586666666667,-66.8453333333333,20.33,2.21,md,6,216,,0.37,pr,pr71343753,2022-04-08T11:40:34.050Z,"4 km SW of Indios, Puerto Rico",earthquake,1.91,31.61,0.131615900727185,6,reviewed,pr,pr
-2022-04-08T10:52:58.345Z,38.1606,-117.9869,6.2,0.9,ml,16,119.04,0.031,0.1356,nn,nn00836914,2022-04-09T02:39:11.705Z,"27 km SSE of Mina, Nevada",earthquake,,0.8,0.58,5,reviewed,nn,nn
