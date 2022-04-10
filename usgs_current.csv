@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-10T15:33:11.565Z,62.4522,-148.2455,33.9,2.7,ml,,,,0.66,ak,ak0224lmvay0,2022-04-10T15:43:49.658Z,"73 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-04-10T15:32:25.210Z,60.7603,-143.8091,25.1,1.1,ml,,,,1.71,ak,ak0224lmv4db,2022-04-10T15:43:40.777Z,"88 km SSW of McCarthy, Alaska",earthquake,,1,,,automatic,ak,ak
+2022-04-10T15:33:11.570Z,62.4529,-148.2666,35.1,2.7,ml,,,,0.64,ak,ak0224lmvay0,2022-04-10T15:47:47.040Z,"73 km N of Chickaloon, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2022-04-10T15:32:25.210Z,60.7603,-143.8091,25.1,1.1,ml,,,,1.71,ak,ak0224lmv4db,2022-04-10T15:44:39.577Z,"88 km SSW of McCarthy, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-04-10T15:09:40.657Z,61.13,-148.333,11.6,2,ml,,,,0.86,ak,ak0224lmq815,2022-04-10T15:34:34.355Z,"43 km NNE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-10T15:04:06.381Z,61.4416,-151.1604,19,0.7,ml,,,,0.3,ak,ak0224lmp2tc,2022-04-10T15:16:28.423Z,"33 km N of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-10T15:00:23.105Z,-6.4966,152.5636,10,4.9,mb,,50,7.875,0.37,us,us7000h13y,2022-04-10T15:39:31.040Z,"240 km S of Kokopo, Papua New Guinea",earthquake,9.8,1.9,0.055,104,reviewed,us,us
@@ -179,4 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-09T16:14:30.050Z,38.800499,-122.7743301,1.41,0.55,md,17,73,0.01142,0.02,nc,nc73716316,2022-04-09T17:09:13.326Z,"3km NNW of The Geysers, CA",earthquake,0.23,0.43,0.35,4,automatic,nc,nc
 2022-04-09T16:13:22.524Z,-0.0447,122.0381,270.65,4.2,mb,,108,1.232,0.71,us,us7000h0x5,2022-04-09T18:54:46.040Z,"130 km NW of Luwuk, Indonesia",earthquake,11.4,8.3,0.137,16,reviewed,us,us
 2022-04-09T15:59:28.659Z,63.871,-148.7646,10,0.5,ml,,,,0.48,ak,ak0224jzhjut,2022-04-09T16:09:23.374Z,"10 km E of Healy, Alaska",earthquake,,1.7,,,reviewed,ak,ak
-2022-04-09T15:49:09.480Z,-36.5929,78.8474,10,5.8,mww,,46,32.358,1.15,us,us7000h0x2,2022-04-09T21:37:18.353Z,"Mid-Indian Ridge",earthquake,6.2,1.8,0.066,22,reviewed,us,us
