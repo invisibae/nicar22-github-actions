@@ -213,5 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-11T08:13:13.180Z,44.2938333,-115.0816667,9.33,1.68,ml,11,79,0.754,0.18,mb,mb80542814,2022-04-11T15:01:33.270Z,"14 km NW of Stanley, Idaho",earthquake,0.47,1,0.123,9,reviewed,mb,mb
 2022-04-11T08:07:46.920Z,46.19383333333333,-122.2,2.16,0.18,ml,9,82,0.008701,0.19,uw,uw61830471,2022-04-11T22:01:25.850Z,"36 km NNE of Amboy, Washington",earthquake,0.39,1.36,0.09388982902668835,7,reviewed,uw,uw
 2022-04-11T08:03:49.970Z,17.907,-66.7875,6.99,2.43,md,8,228,,0.24,pr,pr71344213,2022-04-11T18:46:50.080Z,"10 km SSE of Indios, Puerto Rico",earthquake,1.07,0.63,0.0987548628726915,7,reviewed,pr,pr
-2022-04-11T07:53:58.020Z,23.6457,126.27,10,4.4,mb,,118,3.089,0.66,us,us7000h18j,2022-04-11T09:47:56.040Z,"161 km SE of Hirara, Japan",earthquake,3.8,1.9,0.105,26,reviewed,us,us
-2022-04-11T07:49:25.518Z,60.3536,-151.4742,64,0.9,ml,,,,0.73,ak,ak0224n5qn5z,2022-04-11T07:51:21.209Z,"9 km W of Cohoe, Alaska",earthquake,,2.1,,,automatic,ak,ak
