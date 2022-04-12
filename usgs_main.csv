@@ -10643,3 +10643,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-12T06:10:27.270Z,38.7488327,-122.7423325,1.92,0.99,md,9.0,106.0,0.004249,0.02,nc,nc73717341,2022-04-12T06:27:21.596Z,"3km SSE of The Geysers, CA",earthquake,0.34,0.56,0.42,3.0,automatic,nc,nc
 2022-04-12T06:09:43.370Z,17.9686666666667,-66.8223333333333,10.82,2.15,md,11.0,201.0,,0.13,pr,pr71344333,2022-04-12T06:23:53.200Z,"2 km S of Indios, Puerto Rico",earthquake,0.77,0.53,0.154162713933097,9.0,reviewed,pr,pr
 2022-04-12T05:53:13.470Z,17.9148333333333,-66.8775,7.82,2.46,md,4.0,282.0,,0.07,pr,pr71344328,2022-04-12T06:16:46.700Z,"7 km SSE of Guánica, Puerto Rico",earthquake,1.26,0.41,0.182844028972412,3.0,reviewed,pr,pr
+2022-04-12T06:46:33.090Z,36.0043335,-117.9219971,2.55,1.56,ml,17.0,77.0,0.02584,0.13,ci,ci39990639,2022-04-12T06:48:38.671Z,"5km SSE of Coso Junction, CA",earthquake,0.39,0.44,0.205,6.0,automatic,ci,ci
+2022-04-12T06:34:02.913Z,61.4323,-150.9571,66.8,1.6,ml,,,,0.58,ak,ak0224oslakj,2022-04-12T06:40:20.258Z,"26 km WSW of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-12T06:28:58.336Z,-8.8928,-74.7067,177.86,4.6,mb,,111.0,2.293,0.21,us,us7000h1fe,2022-04-12T06:49:02.040Z,"4 km N of Tournavista, Peru",earthquake,5.7,11.8,0.141,15.0,reviewed,us,us
+2022-04-12T00:55:04.230Z,38.0706667,-122.34,6.07,0.95,md,9.0,163.0,0.06396,0.19,nc,nc71127854,2022-04-12T06:48:10.798Z,"8km NW of Hercules, CA",earthquake,0.61,1.91,0.063,6.0,reviewed,nc,nc
