@@ -11138,3 +11138,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-13T07:53:13.500Z,54.555,-163.316166666667,10.88,0.92,ml,6.0,242.0,,0.13,av,av91054618,2022-04-13T22:11:50.140Z,"33 km S of False Pass, Alaska",earthquake,0.75,0.86,0.123733311254026,6.0,reviewed,av,av
 2022-04-13T22:16:34.158Z,64.9154,-148.6596,16.2,1.0,ml,,,,0.33,ak,ak0224qpjs9j,2022-04-13T22:30:21.468Z,"31 km WNW of Ester, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-13T19:56:19.570Z,42.35783333333333,-122.98933333333332,6.74,1.56,ml,13.0,86.0,0.1412,0.12,uw,uw61822462,2022-04-13T22:30:28.430Z,Oregon,earthquake,0.31,0.74,0.0818704759633122,6.0,reviewed,uw,uw
+2022-04-13T22:34:19.296Z,59.7436,-152.2803,66.2,1.1,ml,,,,0.77,ak,ak0224qpnm1h,2022-04-13T22:37:23.908Z,"25 km W of Anchor Point, Alaska",earthquake,,1.1,,,automatic,ak,ak
