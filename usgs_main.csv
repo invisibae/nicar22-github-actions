@@ -11052,3 +11052,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-13T16:51:20.194Z,61.0771,-148.1317,0.0,1.4,ml,,,,1.57,ak,ak0224qm6nmb,2022-04-13T16:57:29.102Z,"45 km NE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-13T16:21:24.649Z,-19.437,-69.021,127.15,4.5,mww,,88.0,0.282,0.52,us,us7000h1r8,2022-04-13T16:55:41.875Z,"146 km NE of Iquique, Chile",earthquake,4.5,3.1,0.093,11.0,reviewed,us,us
 2022-04-12T21:20:32.060Z,33.1915,-115.6148333,2.03,1.09,ml,8.0,82.0,0.01057,0.18,ci,ci39990991,2022-04-13T16:51:22.380Z,"10km WSW of Niland, CA",earthquake,0.81,0.57,0.013,1.0,reviewed,ci,ci
+2022-04-13T17:19:39.310Z,35.769001,-117.579834,7.26,0.98,ml,15.0,90.0,0.0488,0.11,ci,ci39991527,2022-04-13T17:23:14.567Z,"16km W of Searles Valley, CA",earthquake,0.39,0.76,0.176,4.0,automatic,ci,ci
+2022-04-13T17:11:19.030Z,38.7905006,-122.7614975,0.58,0.36,md,6.0,183.0,0.01021,0.02,nc,nc73717931,2022-04-13T17:12:53.979Z,"2km NNW of The Geysers, CA",earthquake,0.53,1.78,,1.0,automatic,nc,nc
+2022-04-13T17:08:28.090Z,38.8326683,-122.8174973,1.6,0.85,md,13.0,52.0,0.01093,0.04,nc,nc73717926,2022-04-13T17:10:03.929Z,"8km NW of The Geysers, CA",earthquake,0.27,0.69,,1.0,automatic,nc,nc
+2022-04-13T04:37:45.213Z,38.1824,-117.8369,8.9,1.4,ml,15.0,147.19,0.106,0.1402,nn,nn00837104,2022-04-13T17:11:21.051Z,"33 km SE of Mina, Nevada",earthquake,,2.2,0.51,4.0,reviewed,nn,nn
+2022-04-13T01:26:52.710Z,54.4501666666667,-164.729,1.02,0.45,ml,4.0,314.0,,0.18,av,av91054603,2022-04-13T17:19:22.020Z,"76 km ENE of Akutan, Alaska",earthquake,1.94,0.41,0.361210957525326,4.0,reviewed,av,av
