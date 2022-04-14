@@ -11265,3 +11265,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-14T09:06:49.150Z,38.8255005,-122.803833,1.48,1.24,md,20.0,46.0,0.005309,0.03,nc,nc73718216,2022-04-14T09:15:11.405Z,"7km NW of The Geysers, CA",earthquake,0.19,0.38,0.04,3.0,automatic,nc,nc
 2022-04-14T09:06:27.577Z,60.4651,-143.7131,13.5,1.2,ml,,,,0.5,ak,ak0224s5ac7w,2022-04-14T09:13:52.338Z,"112 km E of Cordova, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-14T02:35:09.330Z,20.01,-155.997166666667,42.66,2.15,md,31.0,159.0,,0.14,hv,hv72983242,2022-04-14T09:22:05.270Z,"17 km WNW of Puako, Hawaii",earthquake,0.62,0.99,0.151366215663557,12.0,reviewed,hv,hv
+2022-04-14T09:30:18.500Z,38.7804985,-122.7675018,1.33,0.36,md,9.0,115.0,0.009859,0.02,nc,nc73718221,2022-04-14T09:31:54.176Z,"1km WNW of The Geysers, CA",earthquake,0.44,0.69,,1.0,automatic,nc,nc
