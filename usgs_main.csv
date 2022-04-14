@@ -11229,3 +11229,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-14T05:42:41.800Z,64.7398,-147.5363,0.0,0.6,ml,,,,0.84,ak,ak0224s34cok,2022-04-14T05:44:26.889Z,"6 km S of Badger, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-14T05:37:01.520Z,37.5784988,-118.8636703,3.58,1.05,md,11.0,219.0,0.02977,0.01,nc,nc73718136,2022-04-14T05:38:34.569Z,"12km ESE of Mammoth Lakes, CA",earthquake,0.72,0.87,0.16,11.0,automatic,nc,nc
 2022-04-14T05:36:45.099Z,63.4964,-150.8348,14.7,1.1,ml,,,,0.96,ak,ak0224s332my,2022-04-14T05:39:41.437Z,"44 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-14T05:45:21.680Z,38.7811661,-122.7646637,0.86,0.86,md,8.0,100.0,0.01046,0.01,nc,nc73718151,2022-04-14T05:46:54.579Z,"1km WNW of The Geysers, CA",earthquake,0.32,0.97,,1.0,automatic,nc,nc
