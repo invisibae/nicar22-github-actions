@@ -11383,3 +11383,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-14T18:13:59.910Z,38.8380013,-122.8033371,3.07,0.85,md,9.0,135.0,0.01551,0.02,nc,nc73717540,2022-04-14T18:30:17.701Z,"7km WNW of Cobb, CA",earthquake,1.24,2.15,,1.0,automatic,nc,nc
 2022-04-14T17:33:40.502Z,63.7192,-145.2329,13.1,0.5,ml,,,,0.77,ak,ak0224sa7men,2022-04-14T18:19:41.994Z,"17 km S of Deltana, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2022-04-13T21:26:20.924Z,31.66323809,-104.366273,8.728076172,2.6,ml,10.0,61.0,0.08683006633,0.3,tx,tx2022hfzr,2022-04-14T18:18:05.867Z,"56 km S of Whites City, New Mexico",earthquake,1.78173477,1.674993084,0.1,6.0,reviewed,tx,tx
+2022-04-14T18:45:05.909Z,62.0472,-148.3193,37.6,1.4,ml,,,,0.65,ak,ak0224savjxa,2022-04-14T18:46:52.395Z,"28 km NNE of Chickaloon, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-04-14T02:44:33.160Z,59.359,-153.456,-0.12,-0.21,ml,5.0,231.0,,0.06,av,av91537406,2022-04-14T18:40:48.910Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.5,0.12,0.119983107949158,5.0,reviewed,av,av
