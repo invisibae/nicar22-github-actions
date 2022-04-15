@@ -11626,3 +11626,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-15T14:42:39.950Z,38.8478317,-122.8193359,1.76,0.37,md,9.0,137.0,0.007504,0.01,nc,nc73717855,2022-04-15T14:44:17.674Z,"9km WNW of Cobb, CA",earthquake,0.42,1.18,,1.0,automatic,nc,nc
 2022-04-15T14:22:57.119Z,-5.9058,151.5899,10.0,4.8,mb,,72.0,1.796,0.91,us,us7000h2hy,2022-04-15T14:49:48.040Z,"165 km ESE of Kimbe, Papua New Guinea",earthquake,9.4,1.9,0.107,27.0,reviewed,us,us
 2022-04-14T17:51:39.467Z,-7.7929,-76.2648,128.75,4.6,mb,,134.0,3.528,0.6,us,us7000h2b4,2022-04-15T14:45:55.040Z,northern Peru,earthquake,5.3,7.2,0.042,168.0,reviewed,us,us
+2022-04-15T14:25:13.900Z,17.9555,-66.9575,5.83,2.85,md,29.0,181.0,,0.18,pr,pr71344673,2022-04-15T14:51:28.120Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.44,0.28,0.105050833789294,14.0,reviewed,pr,pr
+2022-04-15T13:55:35.480Z,17.965,-66.9548333333333,6.93,1.75,md,4.0,192.0,,0.05,pr,pr71344663,2022-04-15T14:57:19.880Z,"4 km WSW of Fuig, Puerto Rico",earthquake,1.35,31.61,0.0843959841504613,3.0,reviewed,pr,pr
