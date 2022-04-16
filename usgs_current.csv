@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-16T23:38:13.248Z,62.3197,-151.426,89.1,2.1,ml,,,,0.5,ak,ak0224vovxip,2022-04-16T23:48:42.279Z,"36 km N of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-04-16T23:55:25.450Z,39.2859993,-122.8088303,0.4,2.12,md,6,118,0.1587,0.06,nc,nc73718585,2022-04-16T23:58:13.180Z,"16km NNE of Upper Lake, CA",earthquake,0.42,9.64,0.06,5,automatic,nc,nc
+2022-04-16T23:38:13.248Z,62.3197,-151.426,89.1,2.1,ml,,,,0.5,ak,ak0224vovxip,2022-04-16T23:50:42.713Z,"36 km N of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-16T23:35:01.506Z,36.61096573,-99.14864349,9.892828941,1.98,ml,14,188.6058807,0.1056468189,1.32169028,ok,ok2022hlqn,2022-04-16T23:39:13.866Z,"17 km S of Freedom, Oklahoma",earthquake,5.367640038,3.677225316,,9,automatic,ok,ok
+2022-04-16T23:32:02.607Z,-31.481,-69.4776,123.99,4.1,mb,,84,0.68,0.92,us,us7000h2rs,2022-04-16T23:56:01.040Z,"17 km SSW of Calingasta, Argentina",earthquake,5.5,4.5,0.234,5,reviewed,us,us
 2022-04-16T23:25:15.350Z,38.8068352,-122.8235016,2.12,1.4,md,32,55,0.004877,0.03,nc,nc73718580,2022-04-16T23:47:38.456Z,"7km WNW of The Geysers, CA",earthquake,0.19,0.3,0.06,7,automatic,nc,nc
 2022-04-16T23:15:49.750Z,38.7981682,-122.7588348,5.44,0.36,md,4,157,0.002547,0.01,nc,nc73718575,2022-04-16T23:34:57.377Z,"2km N of The Geysers, CA",earthquake,1.25,6.66,,1,automatic,nc,nc
 2022-04-16T23:04:06.731Z,64.9155,-146.763,19,1.6,ml,,,,0.7,ak,ak0224voomnd,2022-04-16T23:11:01.080Z,"6 km NE of Pleasant Valley, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -223,9 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-16T00:17:36.400Z,38.8003349,-122.814003,3.02,0.56,md,17,75,0.0146,0.02,nc,nc73718090,2022-04-16T01:04:56.179Z,"6km WNW of The Geysers, CA",earthquake,0.27,0.66,0.34,2,automatic,nc,nc
 2022-04-16T00:01:49.220Z,36.9511667,-121.6915,11.74,2.56,md,84,50,0.03119,0.15,nc,nc73718085,2022-04-16T17:48:17.982Z,"4km E of Interlaken, CA",earthquake,0.19,0.29,0.159,105,reviewed,nc,nc
 2022-04-16T00:00:24.680Z,35.8566667,-117.6788333,2.95,1.41,ml,14,83,0.07768,0.16,ci,ci40237848,2022-04-16T00:03:55.679Z,"22km ESE of Little Lake, CA",earthquake,0.3,0.6,0.121,18,automatic,ci,ci
-2022-04-15T23:58:25.397Z,38.141,-118.0425,2.7,0.8,ml,11,150.85,0.065,0.1463,nn,nn00837286,2022-04-16T02:38:50.189Z,"28 km SSE of Mina, Nevada",earthquake,,2,0.25,4,reviewed,nn,nn
-2022-04-15T23:56:25.690Z,37.0263333,-121.487,5.81,0.91,md,15,85,0.002199,0.07,nc,nc73718080,2022-04-16T06:30:05.102Z,"8km ENE of Gilroy, CA",earthquake,0.29,0.46,0.177,13,reviewed,nc,nc
-2022-04-15T23:56:00.570Z,32.669,-115.8305,5.95,1.73,ml,21,129,0.08032,0.22,ci,ci40237840,2022-04-16T00:06:54.300Z,"17km ESE of Ocotillo, CA",earthquake,0.5,1.27,0.174,28,automatic,ci,ci
-2022-04-15T23:55:08.550Z,38.0036667,-122.233,6.51,1.05,md,14,142,0.02015,0.05,nc,nc73718075,2022-04-16T07:11:37.376Z,"4km SE of Rodeo, CA",earthquake,0.27,0.39,0.171,10,reviewed,nc,nc
-2022-04-15T23:54:13.900Z,38.8355,-122.7955,2.3,1.08,md,40,46,0.004965,0.03,nc,nc73718070,2022-04-16T07:10:55.371Z,"6km WNW of Cobb, CA",earthquake,0.14,0.25,0.291,8,reviewed,nc,nc
-2022-04-15T23:53:35.410Z,38.8345,-122.7866667,1.78,0.55,md,21,65,0.004846,0.04,nc,nc73718065,2022-04-16T04:03:57.239Z,"6km WNW of Cobb, CA",earthquake,0.22,0.5,,1,reviewed,nc,nc
