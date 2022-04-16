@@ -11921,3 +11921,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-16T05:51:03.670Z,38.8145,-122.824,2.46,0.37,md,15.0,71.0,0.006928,0.02,nc,nc71127984,2022-04-16T11:37:35.809Z,"7km NW of The Geysers, CA",earthquake,0.29,0.61,0.102,4.0,reviewed,nc,nc
 2022-04-16T11:41:38.940Z,38.8378334,-122.8338318,0.29,0.86,md,7.0,108.0,0.01473,0.07,nc,nc73718310,2022-04-16T11:46:09.394Z,"10km NW of The Geysers, CA",earthquake,0.53,3.05,,1.0,automatic,nc,nc
 2022-04-16T06:59:45.750Z,37.6213333,-118.4281667,6.66,1.08,md,17.0,56.0,0.08161,0.03,nc,nc73718230,2022-04-16T11:52:38.443Z,"23km ENE of Toms Place, CA",earthquake,0.28,0.73,0.196,9.0,reviewed,nc,nc
+2022-04-16T12:14:03.040Z,33.034668,-116.364502,13.26,0.98,ml,23.0,117.0,0.09494,0.21,ci,ci40238168,2022-04-16T12:16:19.506Z,"23km ESE of Julian, CA",earthquake,0.48,1.26,0.044,3.0,automatic,ci,ci
+2022-04-16T12:12:47.130Z,34.3618317,-117.621666,7.7,1.48,ml,42.0,117.0,0.05093,0.14,ci,ci40238160,2022-04-16T12:15:11.782Z,"1km E of Wrightwood, CA",earthquake,0.33,0.73,0.266,10.0,automatic,ci,ci
+2022-04-16T12:09:06.852Z,59.5975,-153.0814,108.4,1.9,ml,,,,0.87,ak,ak0224vi5xkx,2022-04-16T12:16:14.772Z,"61 km ESE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-16T11:56:03.469Z,60.8155,-146.91,12.4,2.0,ml,,,,0.71,ak,ak0224vhukgk,2022-04-16T12:12:54.687Z,"13 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-16T11:45:12.725Z,-4.5792,125.2174,461.69,4.6,mb,,43.0,4.279,0.71,us,us7000h2nw,2022-04-16T12:04:13.040Z,Banda Sea,earthquake,10.8,8.3,0.058,90.0,reviewed,us,us
+2022-04-15T19:35:48.590Z,36.9558333,-120.2873333,19.0,2.26,md,8.0,125.0,0.2146,0.1,nc,nc73718015,2022-04-16T12:11:36.144Z,"16km SSW of Fairmead, CA",earthquake,0.69,0.76,0.168,23.0,reviewed,nc,nc
