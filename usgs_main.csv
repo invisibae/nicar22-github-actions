@@ -12623,3 +12623,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T23:28:50.198Z,39.719,-119.9168,0.1,1.6,ml,9.0,83.76,0.117,0.235,nn,nn00837415,2022-04-18T23:31:51.271Z,Nevada,earthquake,,9.4,0.24,7.0,automatic,nn,nn
 2022-04-18T23:28:08.760Z,38.8261681,-122.8580017,2.42,0.85,md,16.0,66.0,0.001633,0.02,nc,nc73719855,2022-04-18T23:34:44.881Z,"10km WNW of The Geysers, CA",earthquake,0.32,0.52,0.02,3.0,automatic,nc,nc
 2022-04-18T17:55:56.415Z,38.2463,-118.7635,8.3,0.7,ml,8.0,319.16,0.203,0.1564,nn,nn00837414,2022-04-18T23:35:04.986Z,"33 km SSW of Hawthorne, Nevada",earthquake,,11.1,0.29,2.0,reviewed,nn,nn
+2022-04-18T23:36:42.420Z,33.6866667,-116.7131667,16.45,0.82,ml,24.0,95.0,0.02445,0.16,ci,ci40240624,2022-04-18T23:40:28.626Z,"6km S of Idyllwild, CA",earthquake,0.32,0.54,0.224,18.0,automatic,ci,ci
+2022-04-18T23:16:00.165Z,36.9569,140.403,98.13,5.3,mww,,38.0,1.81,0.94,us,us7000h36f,2022-04-18T23:44:54.040Z,"21 km NNE of Daigo, Japan",earthquake,5.4,4.6,0.066,22.0,reviewed,us,us
