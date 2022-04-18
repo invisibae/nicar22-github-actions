@@ -12578,3 +12578,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T21:43:46.560Z,36.581665,-121.1256638,9.35,1.31,md,7.0,152.0,0.0491,0.11,nc,nc73719820,2022-04-18T21:51:33.118Z,"6km NNE of Pinnacles, CA",earthquake,0.76,1.47,0.19,7.0,automatic,nc,nc
 2022-04-18T21:42:58.680Z,38.8305016,-122.810997,1.9,0.75,md,13.0,76.0,0.007133,0.01,nc,nc73719805,2022-04-18T21:50:28.948Z,"8km NW of The Geysers, CA",earthquake,0.25,0.69,0.1,2.0,automatic,nc,nc
 2022-04-18T18:04:54.550Z,35.6528333,-117.4325,5.35,-0.04,ml,5.0,175.0,0.07047,0.13,ci,ci37495989,2022-04-18T21:48:16.931Z,"13km SSW of Searles Valley, CA",earthquake,0.7,31.61,0.019,1.0,reviewed,ci,ci
+2022-04-18T22:07:50.302Z,61.8811,-152.3012,249.8,2.1,ml,,,,0.97,ak,ak0224yz6mja,2022-04-18T22:10:18.342Z,"48 km WSW of Skwentna, Alaska",earthquake,,7.0,,,automatic,ak,ak
+2022-04-18T21:42:20.820Z,33.0516667,-115.0083333,-0.2,1.65,ml,10.0,67.0,0.0832,0.24,ci,ci40240440,2022-04-18T22:11:39.997Z,"44km NE of Holtville, CA",quarry blast,0.81,31.61,0.222,4.0,reviewed,ci,ci
+2022-04-18T01:51:50.036Z,40.0512,-119.6613,16.8,0.3,ml,4.0,172.49,0.131,0.1514,nn,nn00837398,2022-04-18T22:10:49.263Z,"12 km NNW of Sutcliffe, Nevada",earthquake,,3.7,0.04,3.0,reviewed,nn,nn
+2022-04-18T00:26:54.000Z,40.0533,-119.6345,13.5,0.1,ml,3.0,183.32,0.139,0.0339,nn,nn00837397,2022-04-18T22:04:36.716Z,"11 km NNW of Sutcliffe, Nevada",earthquake,,6.9,0.03,2.0,reviewed,nn,nn
