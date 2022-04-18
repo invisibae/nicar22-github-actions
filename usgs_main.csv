@@ -12487,3 +12487,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T15:50:06.780Z,38.8359985,-122.8143311,1.43,0.36,md,8.0,97.0,0.01302,0.01,nc,nc73719680,2022-04-18T15:53:21.450Z,"8km W of Cobb, CA",earthquake,0.42,0.84,,1.0,automatic,nc,nc
 2022-04-18T15:46:21.650Z,38.824501,-122.7639999,1.84,0.85,md,7.0,198.0,0.007541,0.03,nc,nc73719675,2022-04-18T15:52:59.522Z,"4km W of Cobb, CA",earthquake,0.62,2.03,,1.0,automatic,nc,nc
 2022-04-18T15:43:21.360Z,33.2418333,-117.4281667,16.95,1.04,ml,21.0,173.0,0.06042,0.2,ci,ci40239880,2022-04-18T15:46:59.044Z,"5km WNW of Camp Pendleton South, CA",earthquake,0.56,0.83,0.127,15.0,automatic,ci,ci
+2022-04-18T05:21:04.537Z,53.1744,-166.84,25.2,2.5,ml,,,,0.39,ak,ak0224yp55yp,2022-04-18T16:01:45.486Z,"80 km SSW of Unalaska, Alaska",earthquake,,2.8,,,reviewed,ak,ak
+2022-04-18T02:51:28.115Z,37.0728,-117.9492,9.7,2.5,ml,14.0,75.89,0.225,0.2023,nn,nn00837341,2022-04-18T16:08:35.299Z,"31 km ESE of Big Pine, California",earthquake,,2.5,0.88,8.0,reviewed,nn,nn
+2022-04-17T23:49:11.182Z,52.6207,-168.5654,53.8,2.5,ml,,,,0.47,ak,ak0224xchn76,2022-04-18T15:57:46.644Z,"40 km SSE of Nikolski, Alaska",earthquake,,6.5,,,reviewed,ak,ak
