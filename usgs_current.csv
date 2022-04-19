@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-19T19:33:34.660Z,33.5911667,-116.808,7.42,0.52,ml,13,160,0.03673,0.18,ci,ci40241384,2022-04-19T19:37:08.004Z,"13km WNW of Anza, CA",earthquake,0.99,0.83,0.195,12,automatic,ci,ci
 2022-04-19T19:20:50.110Z,34.0108333,-116.9873333,15.71,1.67,ml,43,89,0.05456,0.2,ci,ci40241368,2022-04-19T19:24:29.029Z,"6km ESE of Yucaipa, CA",earthquake,0.26,0.69,0.164,28,automatic,ci,ci
 2022-04-19T18:36:38.790Z,32.9085,-115.5118333,4.82,1.69,ml,11,93,0.04171,0.23,ci,ci40241336,2022-04-19T18:40:24.760Z,"8km SSE of Brawley, CA",earthquake,0.61,0.99,0.155,26,automatic,ci,ci
 2022-04-19T18:28:41.300Z,18.623,-65.1685,39.46,3.01,md,8,296,,0.28,pr,pr71345113,2022-04-19T18:38:41.020Z,"38 km NNE of Culebra, Puerto Rico",earthquake,3.88,5,0.0365188471333842,4,reviewed,pr,pr
@@ -181,6 +182,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T00:20:48.622Z,-10.8329,166.0919,10,5.3,mww,,67,15.299,1.02,us,us7000h36v,2022-04-19T00:43:08.040Z,"34 km ESE of Lata, Solomon Islands",earthquake,14.6,1.8,0.093,11,reviewed,us,us
 2022-04-19T00:11:54.460Z,33.5115,-116.7443333,3.83,0.35,ml,22,79,0.04681,0.1,ci,ci40240672,2022-04-19T15:09:15.747Z,"8km SW of Anza, CA",earthquake,0.18,0.34,0.177,6,reviewed,ci,ci
 2022-04-19T00:10:55.380Z,33.514,-116.7456667,4.23,0.63,ml,21,57,0.04571,0.21,ci,ci40240664,2022-04-19T00:14:22.828Z,"8km SW of Anza, CA",earthquake,0.39,0.66,0.228,18,automatic,ci,ci
+2022-04-19T00:06:19.949Z,38.522,-119.5349,2.5,1.5,ml,6,182.72,0.065,0.1124,nn,nn00837454,2022-04-19T19:36:48.334Z,"5 km W of Walker, California",earthquake,,5.2,0.4,3,reviewed,nn,nn
 2022-04-19T00:00:15.320Z,32.3688333,-115.2778333,11.81,1.7,ml,14,175,0.0555,0.24,ci,ci37496021,2022-04-19T15:15:32.392Z,"8km W of Delta, B.C., MX",earthquake,0.48,0.67,0.083,5,reviewed,ci,ci
 2022-04-19T00:00:03.350Z,32.3358333,-115.2545,10.97,2.21,ml,17,216,0.09373,0.27,ci,ci40240656,2022-04-19T15:13:23.360Z,"6km WSW of Delta, B.C., MX",earthquake,0.92,0.71,0.232,7,reviewed,ci,ci
 2022-04-18T23:48:12.184Z,60.9814,-150.5491,37.5,1.5,ml,,,,0.4,ak,ak0224z00rk2,2022-04-18T23:54:22.395Z,"9 km NE of Point Possession, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -244,6 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T19:56:12.950Z,33.7271667,-116.0726667,3.58,0.93,ml,30,94,0.07641,0.13,ci,ci40240288,2022-04-19T17:46:25.543Z,"11km ENE of Coachella, CA",earthquake,0.14,0.3,0.11,13,reviewed,ci,ci
 2022-04-18T19:56:00.480Z,33.7333333,-116.0815,1.34,0.26,ml,7,121,0.08253,0.1,ci,ci37496053,2022-04-19T17:50:03.116Z,"10km NE of Coachella, CA",earthquake,0.29,0.67,0.119,4,reviewed,ci,ci
 2022-04-18T19:52:37.920Z,33.7905,-116.0891667,4.56,1.26,ml,35,102,0.1104,0.12,ci,ci40240272,2022-04-19T17:31:38.410Z,"14km ENE of Indio, CA",earthquake,0.15,0.44,0.19,20,reviewed,ci,ci
-2022-04-18T19:33:23.148Z,38.5304,-119.5174,5.9,1.4,ml,13,121.53,0.056,0.1607,nn,nn00837386,2022-04-19T02:38:30.642Z,"3 km WNW of Walker, California",earthquake,,1.3,0.12,4,reviewed,nn,nn
-2022-04-18T19:33:09.678Z,-21.7394,170.6729,106.97,4.6,mb,,120,3.114,0.9,us,us7000h34z,2022-04-18T20:45:52.040Z,"283 km SSE of Isangel, Vanuatu",earthquake,11.2,8.6,0.095,33,reviewed,us,us
-2022-04-18T19:31:44.030Z,35.6758333,-117.4911667,1.94,0.26,ml,6,163,0.09221,0.19,ci,ci40240264,2022-04-18T21:37:13.096Z,"13km SW of Searles Valley, CA",earthquake,1.27,0.64,0.061,3,reviewed,ci,ci
