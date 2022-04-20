@@ -12976,3 +12976,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-20T05:13:07.511Z,-22.8405,170.8661,10.0,5.7,mww,,77.0,3.165,1.21,us,us7000h3h9,2022-04-20T05:32:35.516Z,southeast of the Loyalty Islands,earthquake,8.3,1.9,0.093,11.0,reviewed,us,us
 2022-04-20T05:07:49.120Z,17.9501666666667,-66.9376666666667,12.52,1.59,md,5.0,216.0,,0.06,pr,pr71345178,2022-04-20T05:29:03.010Z,"3 km SW of Guánica, Puerto Rico",earthquake,1.04,0.49,0.125681401499749,4.0,reviewed,pr,pr
 2022-04-19T18:51:13.800Z,58.2931666666667,-154.9815,2.57,-0.1,ml,5.0,146.0,,0.13,av,av91055338,2022-04-20T05:49:55.070Z,"86 km NNW of Karluk, Alaska",earthquake,0.48,0.79,0.317149931729467,5.0,reviewed,av,av
+2022-04-20T05:31:26.100Z,18.176,-67.2251666666667,7.01,2.79,md,8.0,283.0,,0.31,pr,pr71345183,2022-04-20T05:58:13.510Z,"9 km WSW of Mayagüez, Puerto Rico",earthquake,2.74,3.37,0.127381948603124,4.0,reviewed,pr,pr
