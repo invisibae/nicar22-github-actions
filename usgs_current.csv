@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-04-21T13:37:59.090Z,19.2218341827393,-155.423004150391,33.0900001525879,1.92999995,md,37,133,,0.119999997,hv,hv72991507,2022-04-21T13:41:11.240Z,"6 km ENE of Pāhala, Hawaii",earthquake,0.6,0.790000021,1.95000005,4,automatic,hv,hv
-2022-04-21T13:16:09.753Z,59.8077,-153.4325,141.2,2.1,ml,,,,0.78,ak,ak02253shlwf,2022-04-21T13:27:19.582Z,"37 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-21T13:16:09.753Z,59.8077,-153.4325,141.2,2.1,ml,,,,0.78,ak,ak02253shlwf,2022-04-21T13:56:23.996Z,"37 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-21T12:58:32.420Z,33.6518333,-116.7076667,13.52,0.78,ml,24,83,0.05943,0.12,ci,ci40243064,2022-04-21T13:11:02.156Z,"10km S of Idyllwild, CA",earthquake,0.25,0.41,0.239,24,reviewed,ci,ci
 2022-04-21T12:38:56.017Z,46.0843,152.855,22.59,5.2,mb,,99,7.02,0.92,us,us6000hf98,2022-04-21T12:58:20.040Z,"Kuril Islands",earthquake,8.7,5,0.025,528,reviewed,us,us
 2022-04-21T12:30:22.819Z,63.0976,-151.3556,0,0.9,ml,,,,1.16,ak,ak02253rz7bd,2022-04-21T12:47:39.484Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -46,7 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-21T08:21:07.323Z,31.9667,-102.3108,1.47,2.6,mb_lg,,42,0.203,0.55,us,us6000hf7q,2022-04-21T13:18:37.377Z,"8 km SE of Gardendale, Texas",earthquake,1.3,5.7,0.208,6,reviewed,us,us
 2022-04-21T08:20:59.481Z,11.7186,-86.9856,49.76,4.3,mb,,132,0.838,0.81,us,us6000hf7r,2022-04-21T13:39:06.729Z,"51 km W of Masachapa, Nicaragua",earthquake,4.1,10,0.142,14,reviewed,us,us
 2022-04-21T07:44:40.025Z,61.9611,-150.8479,12,1.4,ml,,,,0.57,ak,ak02253p32nf,2022-04-21T08:04:03.012Z,"29 km E of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-04-21T07:42:46.447Z,11.5538,-86.9919,25.33,6.7,mww,,47,0.937,0.91,us,us6000hf75,2022-04-21T13:38:51.403Z,"58 km WSW of Masachapa, Nicaragua",earthquake,4.7,3.7,0.049,40,reviewed,us,us
+2022-04-21T07:42:46.447Z,11.5538,-86.9919,25.33,6.7,mww,,47,0.937,0.91,us,us6000hf75,2022-04-21T13:50:56.328Z,"58 km WSW of Masachapa, Nicaragua",earthquake,4.7,3.7,0.049,40,reviewed,us,us
 2022-04-21T07:42:42.150Z,17.9541666666667,-66.9095,9.56,2.29,md,7,205,,0.23,pr,pr71345293,2022-04-21T07:56:49.424Z,"1 km S of Guánica, Puerto Rico",earthquake,1.16,0.82,0.143854195980437,4,reviewed,pr,pr
 2022-04-21T07:38:44.203Z,38.5539,-119.4114,1.6,1.5,ml,9,133.06,0.054,0.1193,nn,nn00837590,2022-04-21T07:42:54.995Z,"7 km NE of Walker, California",earthquake,,0.9,0.22,5,automatic,nn,nn
 2022-04-21T07:18:03.050Z,38.8193321,-122.7633362,2.22,0.85,md,9,175,0.01225,0.02,nc,nc73721180,2022-04-21T07:43:16.955Z,"4km W of Cobb, CA",earthquake,0.46,0.97,,1,automatic,nc,nc
@@ -115,6 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-20T23:09:45.360Z,19.1721668243408,-155.490493774414,34.2599983215332,2.29,ml,45,92,,0.129999995,hv,hv72990822,2022-04-21T00:08:47.040Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.54,0.819999993,4.25,10,automatic,hv,hv
 2022-04-20T23:03:21.820Z,19.162166595459,-155.4931640625,33.3699989318848,2.07999992,md,26,152,,0.129999995,hv,hv72990807,2022-04-20T23:06:40.340Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.81,1.03999996,2.07999992,4,automatic,hv,hv
 2022-04-20T22:58:14.080Z,38.7919998,-122.7613297,2.82,0.68,md,13,128,0.008705,0.04,nc,nc73721040,2022-04-20T23:23:24.073Z,"2km NNW of The Geysers, CA",earthquake,0.39,0.84,0.15,3,automatic,nc,nc
+2022-04-20T22:16:00.370Z,33.5926667,-116.803,7.75,0.71,ml,29,77,0.03249,0.09,ci,ci40242672,2022-04-21T13:55:17.167Z,"13km WNW of Anza, CA",earthquake,0.14,0.29,0.112,13,reviewed,ci,ci
 2022-04-20T21:57:44.343Z,6.9894,126.9322,27,6,mww,,45,1.345,1.15,us,us6000hf49,2022-04-21T04:33:18.706Z,"50 km ESE of Manay, Philippines",earthquake,7,3,0.044,50,reviewed,us,us
 2022-04-20T21:49:49.280Z,37.4141655,-118.6044998,8.75,2.97,md,19,115,0.06919,0.05,nc,nc73720990,2022-04-21T02:38:57.886Z,"1km W of Round Valley, CA",earthquake,0.41,1.11,0.13,31,automatic,nc,nc
 2022-04-20T21:45:51.080Z,58.2825,-154.9695,3.34,-0.09,ml,7,136,,0.21,av,av91055548,2022-04-21T03:30:40.430Z,"85 km NNW of Karluk, Alaska",earthquake,0.5,1.32,0.198862959648202,7,reviewed,av,av
