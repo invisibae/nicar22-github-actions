@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-23T18:26:09.275Z,64.9396,-148.4594,18.2,0.7,ml,,,,0.37,ak,ak022576lm0v,2022-04-23T18:28:52.842Z,"23 km WNW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-23T18:25:08.680Z,19.3314990997314,-155.158493041992,1.46000003814697,1.87,ml,34,93,,0.219999999,hv,hv72993492,2022-04-23T18:30:39.260Z,"14 km SSE of Volcano, Hawaii",earthquake,0.52,0.629999995,0.44,3,automatic,hv,hv
+2022-04-23T18:21:43.560Z,17.953,-66.8448333333333,12.61,2.27,md,6,211,,0.23,pr,pr71345668,2022-04-23T18:32:21.890Z,"5 km SSW of Indios, Puerto Rico",earthquake,1.24,0.67,0.0637273070140163,4,reviewed,pr,pr
+2022-04-23T18:12:47.710Z,17.96,-66.8378333333333,12.99,2.36,md,7,204,,0.12,pr,pr71345658,2022-04-23T18:26:40.710Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.67,0.57,0.0845447481364121,7,reviewed,pr,pr
 2022-04-23T17:59:23.790Z,19.1626663208008,-155.481170654297,35.7099990844727,1.91999996,md,34,109,,0.119999997,hv,hv72993462,2022-04-23T18:03:39.640Z,"4 km S of Pāhala, Hawaii",earthquake,0.52,0.699999988,0.560000002,9,automatic,hv,hv
-2022-04-23T17:58:56.153Z,17.9288,-66.822,10,2.6,ml,,182,0.122,0.5,us,us6000hfvw,2022-04-23T18:23:04.040Z,"7 km S of Indios, Puerto Rico",earthquake,1.7,1.9,0.06,36,reviewed,us,us
+2022-04-23T17:58:56.270Z,17.9558333333333,-66.8441666666667,12.4,3.27,md,28,173,,0.13,pr,pr71345653,2022-04-23T18:32:32.210Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.31,0.22,0.0611668051435519,9,reviewed,pr,pr
 2022-04-23T17:53:49.130Z,24.5553,121.9479,35,4.1,mb,,70,0.498,0.53,us,us6000hfvu,2022-04-23T18:15:48.040Z,"29 km SE of Yilan, Taiwan",earthquake,2.6,2,0.234,5,reviewed,us,us
 2022-04-23T17:44:56.610Z,17.9388,-66.8393,10,3.46,md,22,180,0.0539,0.23,pr,pr2022113001,2022-04-23T18:10:19.232Z,"6 km SSW of Indios, Puerto Rico",earthquake,0.51,0.58,0.24,15,reviewed,pr,pr
 2022-04-23T17:38:29.170Z,17.9408333333333,-66.838,12.93,2.42,md,12,179,,0.13,pr,pr71345623,2022-04-23T18:20:54.390Z,"6 km SSW of Indios, Puerto Rico",earthquake,0.44,0.42,0.140514418710136,6,reviewed,pr,pr
@@ -77,6 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-23T10:17:10.940Z,46.895,-112.52,13.52,0.39,ml,10,96,0.056,0.14,mb,mb80543879,2022-04-23T15:19:56.090Z,"14 km ESE of Lincoln, Montana",earthquake,0.46,0.65,0.171,2,reviewed,mb,mb
 2022-04-23T10:11:08.510Z,18.0081666666667,-66.8543333333333,16.97,2.23,md,10,135,,0.09,pr,pr71345568,2022-04-23T10:43:51.550Z,"2 km ESE of Palomas, Puerto Rico",earthquake,0.37,0.46,0.0462285864031515,4,reviewed,pr,pr
 2022-04-23T10:02:31.880Z,33.3248333,-116.1456667,6.48,0.97,ml,32,70,0.1422,0.25,ci,ci40244272,2022-04-23T10:06:04.633Z,"16km SSW of Oasis, CA",earthquake,0.37,2.02,0.054,23,automatic,ci,ci
+2022-04-23T10:02:24.770Z,37.4733333,-118.8533333,3.9,0.6,md,8,153,0.1181,0.03,nc,nc73722225,2022-04-23T18:39:16.107Z,"18km WSW of Toms Place, CA",earthquake,0.75,2.69,0.246,9,reviewed,nc,nc
 2022-04-23T10:02:13.254Z,-8.7156,-74.2769,68.75,4.5,mb,,94,1.838,0.57,us,us6000hftt,2022-04-23T10:32:34.040Z,"Central Peru",earthquake,8.2,8,0.15,15,reviewed,us,us
 2022-04-23T09:56:58.179Z,6.8747,-76.4602,10,4.5,mb,,91,1.147,0.64,us,us6000hftr,2022-04-23T10:51:49.040Z,"25 km WSW of Dabeiba, Colombia",earthquake,4.3,1.8,0.204,8,reviewed,us,us
 2022-04-23T09:51:58.150Z,38.8648338,-122.7835007,2.15,0.75,md,10,180,0.01458,0.02,nc,nc73722220,2022-04-23T12:16:15.866Z,"7km NW of Cobb, CA",earthquake,0.75,0.76,0.14,2,automatic,nc,nc
@@ -210,6 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-22T19:00:17.150Z,32.9076667,-116.9503333,-0.33,1.44,ml,27,104,0.07048,0.3,ci,ci40243952,2022-04-22T21:30:50.105Z,"6km NNW of Lakeside, CA",quarry blast,0.77,31.61,0.18,17,reviewed,ci,ci
 2022-04-22T18:54:28.020Z,38.8219986,-122.8006668,2.27,0.89,md,26,32,0.007479,0.04,nc,nc73721930,2022-04-22T18:57:03.455Z,"6km NW of The Geysers, CA",earthquake,0.21,0.45,0.03,5,automatic,nc,nc
 2022-04-22T18:48:15.650Z,38.8185005,-122.8011703,2.26,2.08,md,34,33,0.008501,0.06,nc,nc73721925,2022-04-22T20:09:46.003Z,"6km NW of The Geysers, CA",earthquake,0.2,0.35,0.11,12,automatic,nc,nc
-2022-04-22T18:29:44.150Z,19.2303333282471,-155.408172607422,31.7600002288818,1.97000003,md,38,142,,0.140000001,hv,hv72992722,2022-04-22T18:32:46.990Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.63,0.810000002,1.13,15,automatic,hv,hv
-2022-04-22T18:27:24.850Z,46.8775,-112.528,10.74,1.4,ml,16,63,0.052,0.17,mb,mb80543794,2022-04-22T20:11:43.390Z,"14 km SE of Lincoln, Montana",earthquake,0.32,0.58,0.176,4,reviewed,mb,mb
-2022-04-22T18:27:22.010Z,46.85783333333333,-122.28916666666667,-0.84,1.16,ml,12,273,0.1377,0.09,uw,uw61833406,2022-04-22T21:37:17.040Z,"2 km WSW of Eatonville, Washington",explosion,0.8,31.61,0.13828011858054046,5,reviewed,uw,uw
