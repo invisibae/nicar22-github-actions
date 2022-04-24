@@ -14092,3 +14092,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-24T04:10:26.090Z,19.2275009155273,-155.385162353516,32.8199996948242,1.78999996,md,35.0,150.0,,0.100000001,hv,hv72993837,2022-04-24T04:13:34.580Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.6,0.980000019,1.24000001,8.0,automatic,hv,hv
 2022-04-24T03:19:52.930Z,17.9413,-68.3906,19.0,3.78,md,22.0,223.0,0.5727,0.31,pr,pr2022114000,2022-04-24T04:09:48.785Z,"53 km SSE of Boca de Yuma, Dominican Republic",earthquake,1.59,2.99,0.09,12.0,reviewed,pr,pr
 2022-04-23T11:59:11.702Z,-17.8386,168.264,50.34,4.5,mb,,143.0,2.586,0.65,us,us6000hfzc,2022-04-24T04:30:44.180Z,"12 km SSW of Port-Vila, Vanuatu",earthquake,8.8,9.8,0.156,13.0,reviewed,us,us
+2022-04-24T04:30:37.270Z,43.6707,148.6895,41.36,4.8,mb,,189.0,4.391,0.72,us,us6000hfzm,2022-04-24T04:50:48.040Z,"159 km E of Shikotan, Russia",earthquake,12.0,6.0,0.069,68.0,reviewed,us,us
+2022-04-24T04:27:53.247Z,43.0577,18.1372,10.0,4.8,mww,,20.0,1.038,0.97,us,us6000hfzd,2022-04-24T04:51:34.194Z,"12 km NNE of Ljubinje, Bosnia and Herzegovina",earthquake,4.7,0.9,0.093,11.0,reviewed,us,us
+2022-04-24T03:41:24.800Z,17.946,-66.8408333333333,12.35,2.7,md,16.0,176.0,,0.2,pr,pr71345778,2022-04-24T04:47:55.910Z,"5 km SSW of Indios, Puerto Rico",earthquake,0.49,0.32,0.125377709761024,9.0,reviewed,pr,pr
