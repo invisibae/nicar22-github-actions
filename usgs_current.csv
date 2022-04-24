@@ -235,4 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-23T10:02:13.254Z,-8.7156,-74.2769,68.75,4.5,mb,,94,1.838,0.57,us,us6000hftt,2022-04-23T10:32:34.040Z,"45 km SE of San Fernando, Peru",earthquake,8.2,8,0.15,15,reviewed,us,us
 2022-04-23T09:56:58.179Z,6.8747,-76.4602,10,4.5,mb,,91,1.147,0.64,us,us6000hftr,2022-04-23T10:51:49.040Z,"25 km WSW of Dabeiba, Colombia",earthquake,4.3,1.8,0.204,8,reviewed,us,us
 2022-04-23T09:51:58.150Z,38.8648338,-122.7835007,2.15,0.75,md,10,180,0.01458,0.02,nc,nc73722220,2022-04-23T12:16:15.866Z,"7km NW of Cobb, CA",earthquake,0.75,0.76,0.14,2,automatic,nc,nc
-2022-04-23T09:42:40.359Z,-22.9045,-66.2585,282.17,4.3,mb,,83,1.771,0.84,us,us6000hftq,2022-04-23T10:21:10.040Z,"61 km WSW of Abra Pampa, Argentina",earthquake,7,10.4,0.169,11,reviewed,us,us
