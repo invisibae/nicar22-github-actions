@@ -14459,3 +14459,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-25T15:17:42.295Z,63.3318,-150.3064,62.6,1.4,ml,,,,1.52,ak,ak0225afu5bv,2022-04-25T15:30:34.484Z,"68 km W of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-04-25T15:00:49.417Z,44.3465,-115.1694,10.0,2.7,ml,,62.0,0.811,1.02,us,us6000hg8d,2022-04-25T15:29:22.040Z,"23 km NW of Stanley, Idaho",earthquake,2.6,2.0,0.049,54.0,reviewed,us,us
 2022-04-25T14:58:53.870Z,44.3488333,-115.1748333,7.51,2.52,ml,13.0,64.0,0.816,0.21,mb,mb80544034,2022-04-25T15:36:59.270Z,"23 km NW of Stanley, Idaho",earthquake,0.52,1.07,0.152,16.0,reviewed,mb,mb
+2022-04-25T14:58:53.161Z,44.3376,-115.1874,10.0,2.2,ml,,63.0,0.825,0.53,us,us6000hg8a,2022-04-25T15:45:33.040Z,"23 km NW of Stanley, Idaho",earthquake,2.1,2.0,0.074,24.0,reviewed,us,us
+2022-04-24T16:03:16.820Z,35.44766667,-97.76216667,8.19,1.24,ml,31.0,69.0,0.1205763388,0.15,ok,ok2022hzrq,2022-04-25T15:50:17.277Z,"6 km S of Yukon, Oklahoma",earthquake,,1.4,0.14,3.0,reviewed,ok,ok
