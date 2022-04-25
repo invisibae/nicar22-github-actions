@@ -14410,3 +14410,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-25T11:28:28.262Z,65.1638,-150.2667,12.9,1.0,ml,,,,0.4,ak,ak0225adiqoa,2022-04-25T11:30:09.959Z,"25 km NE of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-25T06:24:17.348Z,44.2757,-115.2157,10.0,2.6,ml,,67.0,0.918,0.59,us,us6000hg6u,2022-04-25T11:35:38.040Z,"23 km WNW of Stanley, Idaho",earthquake,2.3,2.0,0.044,68.0,reviewed,us,us
 2022-04-25T11:38:39.076Z,59.9351,-153.0534,110.5,1.9,ml,,,,0.5,ak,ak0225adkwo3,2022-04-25T11:41:51.039Z,Southern Alaska,earthquake,,1.2,,,automatic,ak,ak
+2022-04-25T11:50:30.432Z,38.9491,-119.7887,0.6,1.1,ml,8.0,183.9,0.203,0.2031,nn,nn00837818,2022-04-25T11:54:25.015Z,"2 km WSW of Minden, Nevada",earthquake,,11.8,0.25,5.0,automatic,nn,nn
