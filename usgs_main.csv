@@ -14479,3 +14479,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-25T16:38:48.960Z,38.8334999,-122.8816681,2.32,1.27,md,24.0,127.0,0.004918,0.02,nc,nc73723250,2022-04-25T16:47:11.081Z,"12km ENE of Cloverdale, CA",earthquake,0.26,0.4,0.12,5.0,automatic,nc,nc
 2022-04-25T16:31:28.110Z,54.4498,-156.1538,1.9,4.6,ml,,,,1.0,ak,ak0225agijwj,2022-04-25T16:40:43.390Z,"250 km SE of Chignik, Alaska",earthquake,,11.4,,,automatic,ak,ak
 2022-04-25T14:59:59.280Z,19.0731,-68.2378,45.0,3.77,md,17.0,185.0,0.5773,0.92,pr,pr2022115003,2022-04-25T16:37:51.291Z,"57 km NNE of Punta Cana, Dominican Republic",earthquake,4.96,13.64,0.07,7.0,reviewed,pr,pr
+2022-04-25T17:25:26.841Z,59.9006,-152.8437,80.7,2.1,ml,,,,0.39,ak,ak0225ah2p1o,2022-04-25T17:27:16.476Z,"58 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
