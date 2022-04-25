@@ -1,11 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-25T20:50:24.170Z,33.207,-116.7233333,12.04,0.55,ml,17,56,0.04144,0.14,ci,ci40246048,2022-04-25T20:54:00.711Z,"5km SE of Lake Henshaw, CA",earthquake,0.33,0.53,0.082,8,automatic,ci,ci
 2022-04-25T20:43:04.177Z,35.1301651,-95.55500793,0.6716696024,2.49,ml,24,94.72813416,0.1004656181,0.7552784888,ok,ok2022ibwj,2022-04-25T20:46:13.492Z,"10 km E of Crowder, Oklahoma",earthquake,2.984953175,1.975172509,,19,automatic,ok,ok
 2022-04-25T20:32:18.530Z,33.8421667,-117.4955,2.06,1.43,ml,47,43,0.04874,0.21,ci,ci40246024,2022-04-25T20:35:56.611Z,"5km SSE of Home Gardens, CA",quarry blast,0.25,0.47,0.271,32,automatic,ci,ci
 2022-04-25T20:25:58.768Z,61.5049,-151.2303,14.5,0.9,ml,,,,0.31,ak,ak0225aiv2bo,2022-04-25T20:28:51.348Z,"38 km W of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-25T20:16:18.689Z,64.6183,-148.0733,22.7,0.8,ml,,,,0.6,ak,ak0225ait1rw,2022-04-25T20:26:05.222Z,"25 km SSW of South Van Horn, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-25T20:05:17.770Z,19.1895008087158,-155.474838256836,31.2000007629395,2.25,ml,29,87,,0.100000001,hv,hv72995092,2022-04-25T20:10:48.520Z,"1 km SSE of Pāhala, Hawaii",earthquake,0.57,0.889999986,4.31,3,automatic,hv,hv
 2022-04-25T20:00:33.180Z,38.8376656,-122.7994995,2.07,0.36,md,7,121,0.007189,0.01,nc,nc73723335,2022-04-25T20:42:17.478Z,"7km WNW of Cobb, CA",earthquake,0.55,1.54,,1,automatic,nc,nc
-2022-04-25T19:53:06.040Z,37.4083333,-118.6005,10.3,0.91,md,8,121,0.06255,0.03,nc,nc73723330,2022-04-25T20:15:55.350Z,"1km SSW of Round Valley, CA",earthquake,0.58,0.71,0.316,8,reviewed,nc,nc
+2022-04-25T19:53:06.040Z,37.4083333,-118.6005,10.3,0.91,md,8,121,0.06255,0.03,nc,nc73723330,2022-04-25T20:53:21.590Z,"1km SSW of Round Valley, CA",earthquake,0.58,0.71,0.316,8,reviewed,nc,nc
 2022-04-25T19:51:06.170Z,38.8116684,-122.8205032,2.65,0.85,md,13,63,0.007332,0.01,nc,nc73723315,2022-04-25T20:31:15.408Z,"7km NW of The Geysers, CA",earthquake,0.41,0.72,,1,automatic,nc,nc
 2022-04-25T19:48:43.930Z,37.6196667,-118.867,1.88,-0.07,md,8,125,0.003283,0.03,nc,nc73723320,2022-04-25T20:10:54.143Z,"10km E of Mammoth Lakes, CA",earthquake,0.42,0.85,0.331,7,reviewed,nc,nc
 2022-04-25T19:38:48.400Z,36.4901657,-120.995163,9.98,1.33,md,6,162,0.06144,0.11,nc,nc73723305,2022-04-25T20:40:10.465Z,"14km ESE of Pinnacles, CA",earthquake,1.25,0.97,0.28,8,automatic,nc,nc
