@@ -14348,3 +14348,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-25T04:59:09.180Z,17.9498333333333,-66.9533333333333,9.15,2.44,md,3.0,213.0,,0.2,pr,pr71345963,2022-04-25T05:24:55.090Z,"5 km WSW of Guánica, Puerto Rico",earthquake,4.19,2.26,,1.0,reviewed,pr,pr
 2022-04-25T04:52:31.770Z,17.9366,-66.9785,8.0,1.77,md,5.0,230.0,0.0735,0.17,pr,pr2022115001,2022-04-25T05:20:01.554Z,"8 km ESE of La Parguera, Puerto Rico",earthquake,1.07,1.39,0.0,1.0,reviewed,pr,pr
 2022-04-24T05:46:04.980Z,46.787333333333336,-121.95183333333334,7.55,-0.07,md,12.0,197.0,0.05299,0.14,uw,uw61833736,2022-04-25T05:20:51.830Z,"6 km ENE of Ashford, Washington",earthquake,0.5,0.6,0.3167626639372928,10.0,reviewed,uw,uw
+2022-04-25T05:29:35.770Z,35.7863333,-117.6023333,6.9,0.99,ml,19.0,136.0,0.0296,0.2,ci,ci40245440,2022-04-25T05:33:06.935Z,"18km W of Searles Valley, CA",earthquake,0.39,0.67,0.077,11.0,automatic,ci,ci
+2022-04-25T04:49:30.909Z,72.3209,125.4527,10.0,4.4,mb,,80.0,1.267,0.63,us,us6000hg65,2022-04-25T05:29:35.040Z,"137 km WNW of Tiksi, Russia",earthquake,7.2,1.9,0.07,58.0,reviewed,us,us
+2022-04-25T04:27:46.850Z,17.9595,-66.8426666666667,12.02,1.98,md,8.0,204.0,,0.19,pr,pr71345958,2022-04-25T05:32:07.810Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.72,0.59,0.0565358881183362,5.0,reviewed,pr,pr
