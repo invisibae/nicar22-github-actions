@@ -14914,3 +14914,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-27T08:31:22.880Z,38.8185005,-122.7641678,2.33,0.85,md,10.0,171.0,0.01277,0.02,nc,nc73725046,2022-04-27T08:32:56.094Z,"4km W of Cobb, CA",earthquake,0.53,0.71,,1.0,automatic,nc,nc
 2022-04-27T08:28:52.110Z,18.0265,-66.7463333333333,16.89,2.09,md,14.0,126.0,,0.19,pr,pr71346428,2022-04-27T08:43:16.560Z,"2 km ENE of Magas Arriba, Puerto Rico",earthquake,0.43,0.65,0.0628028568424917,9.0,reviewed,pr,pr
 2022-04-27T08:27:04.437Z,61.5241,-149.893,33.9,1.2,ml,,,,0.79,ak,ak0225dmsvaj,2022-04-27T08:30:12.100Z,"3 km E of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-27T08:49:33.410Z,33.3513333,-116.2748333,10.81,1.16,ml,36.0,58.0,0.03111,0.22,ci,ci40246800,2022-04-27T08:53:09.628Z,"14km NE of Borrego Springs, CA",earthquake,0.28,0.53,0.114,26.0,automatic,ci,ci
+2022-04-27T08:33:51.010Z,18.0321666666667,-66.7491666666667,14.85,2.16,md,11.0,122.0,,0.11,pr,pr71346433,2022-04-27T08:50:27.230Z,"2 km NE of Magas Arriba, Puerto Rico",earthquake,0.3,0.85,0.126483424375999,9.0,reviewed,pr,pr
+2022-04-27T08:25:43.310Z,18.02,-66.7431666666667,15.59,2.96,md,37.0,129.0,,0.15,pr,pr71346413,2022-04-27T08:49:27.150Z,"2 km E of Magas Arriba, Puerto Rico",earthquake,0.28,0.43,0.233545118444078,19.0,reviewed,pr,pr
