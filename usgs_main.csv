@@ -15363,3 +15363,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-28T21:20:33.030Z,33.0535,-114.9973333,-0.2,1.86,ml,14.0,80.0,0.08265,0.3,ci,ci40247888,2022-04-28T21:41:19.841Z,"45km NE of Holtville, CA",quarry blast,0.78,31.61,0.024,3.0,reviewed,ci,ci
 2022-04-28T21:46:04.399Z,62.8352,-151.5876,0.0,1.1,ml,,,,0.81,ak,ak0225fi6x93,2022-04-28T21:48:47.447Z,"56 km NW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-28T05:06:19.640Z,54.1205,-165.915666666667,2.64,-1.28,ml,5.0,109.0,,0.2,av,av91056638,2022-04-28T21:46:57.160Z,"9 km W of Akutan, Alaska",earthquake,0.48,1.25,0.28622018054215,5.0,reviewed,av,av
+2022-04-28T09:12:40.598Z,40.2355,-119.7169,11.2,0.1,ml,4.0,280.73,0.067,0.194,nn,nn00838026,2022-04-28T21:52:46.418Z,"33 km NNW of Sutcliffe, Nevada",earthquake,,5.1,0.0,1.0,reviewed,nn,nn
