@@ -15641,3 +15641,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-29T21:30:07.739Z,63.2403,-151.1336,0.0,1.5,ml,,,,0.58,ak,ak0225h5mujr,2022-04-29T21:39:15.304Z,"44 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-29T20:59:01.214Z,31.6723,-104.3673,6.56,2.5,ml,,115.0,0.113,0.56,us,us7000h5x6,2022-04-29T21:27:51.040Z,"55 km S of Whites City, New Mexico",earthquake,1.6,4.9,0.057,82.0,reviewed,us,us
 2022-04-29T09:35:13.290Z,51.7266666666667,-179.0275,11.87,1.25,ml,4.0,273.0,,0.08,av,av91547976,2022-04-29T21:29:03.800Z,"165 km W of Adak, Alaska",earthquake,1.08,1.76,0.277157569196369,5.0,reviewed,av,av
+2022-04-29T21:44:39.910Z,33.8606682,-117.5110016,1.38,1.21,ml,16.0,89.0,0.06984,0.22,ci,ci40248616,2022-04-29T21:46:45.038Z,"2km SSE of Home Gardens, CA",earthquake,0.62,0.82,0.254,4.0,automatic,ci,ci
+2022-04-29T12:14:40.530Z,51.9475,178.525166666667,5.83,0.52,ml,4.0,156.0,,0.08,av,av91056783,2022-04-29T21:47:03.880Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,0.95,0.67,0.204772781739303,4.0,reviewed,av,av
