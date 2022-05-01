@@ -16095,3 +16095,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-01T19:06:03.010Z,38.7949982,-122.815834,3.39,0.24,md,8.0,100.0,0.012,0.01,nc,nc73727721,2022-05-01T19:07:37.952Z,"6km WNW of The Geysers, CA",earthquake,0.59,1.59,0.11,2.0,automatic,nc,nc
 2022-05-01T19:05:24.080Z,38.7970009,-122.8168335,3.5,0.37,md,9.0,92.0,0.01381,0.01,nc,nc73727716,2022-05-01T19:18:11.083Z,"6km WNW of The Geysers, CA",earthquake,0.5,1.68,0.32,2.0,automatic,nc,nc
 2022-05-01T18:46:50.120Z,17.8896666666667,-66.7911666666667,7.38,2.59,md,9.0,240.0,,0.07,pr,pr71346998,2022-05-01T19:14:08.500Z,Puerto Rico region,earthquake,0.57,0.36,0.162050150740887,6.0,reviewed,pr,pr
+2022-05-01T19:23:10.654Z,64.93,-147.2888,0.0,1.4,ml,,,,0.7,ak,ak0225kfh6jd,2022-05-01T19:24:55.880Z,"13 km WNW of Two Rivers, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-05-01T17:28:56.228Z,47.6916,147.5903,392.79,4.7,mb,,100.0,3.366,1.13,us,us7000h685,2022-05-01T19:23:02.040Z,"274 km N of Kuril’sk, Russia",earthquake,10.3,5.8,0.022,631.0,reviewed,us,us
