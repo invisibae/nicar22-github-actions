@@ -16124,3 +16124,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-01T20:33:32.000Z,35.7945,-117.6065,9.49,0.73,ml,8.0,124.0,0.02242,0.24,ci,ci40249920,2022-05-01T20:37:01.934Z,"18km W of Searles Valley, CA",earthquake,0.71,1.17,0.104,7.0,automatic,ci,ci
 2022-05-01T20:30:33.290Z,38.8214989,-122.7656631,1.93,0.85,md,11.0,168.0,0.009554,0.02,nc,nc73727831,2022-05-01T20:39:11.399Z,"4km W of Cobb, CA",earthquake,0.5,0.42,,1.0,automatic,nc,nc
 2022-05-01T20:06:22.500Z,18.2578333333333,-66.144,38.31,2.27,md,9.0,121.0,,0.19,pr,pr71347018,2022-05-01T20:42:31.700Z,"4 km W of Aguas Buenas, Puerto Rico",earthquake,1.02,1.2,0.168538953959131,2.0,reviewed,pr,pr
+2022-05-01T20:56:44.456Z,62.3038,-149.0388,43.0,1.6,ml,,,,0.42,ak,ak0225kg9rdp,2022-05-01T20:59:16.788Z,"45 km ENE of Susitna North, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2022-05-01T20:54:57.495Z,60.093,-153.5259,160.1,2.5,ml,,,,0.64,ak,ak0225kg9cyi,2022-05-01T20:59:17.565Z,"45 km ESE of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-01T20:52:35.420Z,36.8538322,-121.5938339,6.62,2.79,md,64.0,39.0,,0.18,nc,nc73727841,2022-05-01T20:59:11.498Z,"5km W of San Juan Bautista, CA",earthquake,0.25,0.53,0.11,78.0,automatic,nc,nc
