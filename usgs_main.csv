@@ -16660,3 +16660,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-03T09:06:56.626Z,38.743,-118.5438,1.9,1.0,ml,8.0,99.25,0.348,0.0982,nn,nn00838267,2022-05-03T23:42:13.218Z,"21 km ENE of Walker Lake, Nevada",earthquake,,2.0,0.06,2.0,reviewed,nn,nn
 2022-05-03T23:50:49.971Z,61.6028,-151.5774,84.4,1.9,ml,,,,0.27,ak,ak0225nt3hb9,2022-05-03T23:52:49.074Z,"44 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-03T11:42:09.464Z,39.397,-120.1881,11.8,0.5,ml,8.0,98.19,0.112,0.1468,nn,nn00838268,2022-05-03T23:48:28.494Z,"7 km N of Truckee, California",earthquake,,4.1,0.63,4.0,reviewed,nn,nn
+2022-05-04T00:15:30.603Z,62.9703,-148.503,58.7,1.9,ml,,,,0.99,ak,ak0225p2qbcb,2022-05-04T00:23:48.047Z,Central Alaska,earthquake,,0.6,,,automatic,ak,ak
+2022-05-04T00:03:38.590Z,38.6241667,-119.8243333,3.11,2.48,md,42.0,47.0,0.04395,0.17,nc,nc73729046,2022-05-04T00:27:30.077Z,"8km SSW of Markleeville, CA",earthquake,0.21,0.46,0.233,40.0,reviewed,nc,nc
+2022-05-03T23:52:25.310Z,17.8793333333333,-66.8641666666667,9.84,3.24,md,34.0,210.0,,0.24,pr,pr71347298,2022-05-04T00:13:14.250Z,"11 km SSE of Guánica, Puerto Rico",earthquake,0.56,0.69,0.0479292230537873,17.0,reviewed,pr,pr
+2022-05-03T23:51:27.310Z,38.8023338,-122.7369995,1.6,1.8,md,32.0,57.0,0.01783,0.06,nc,nc73729041,2022-05-04T00:10:14.185Z,"2km SSW of Cobb, CA",earthquake,0.25,0.39,0.04,9.0,automatic,nc,nc
+2022-05-03T23:28:31.200Z,58.2646666666667,-155.1485,4.71,-0.65,ml,4.0,140.0,,0.09,av,av91057228,2022-05-04T00:09:52.380Z,"87 km NNW of Karluk, Alaska",earthquake,0.45,0.74,0.107781992932145,3.0,reviewed,av,av
+2022-05-03T22:24:04.560Z,37.5786667,-118.8481667,1.79,-0.21,md,6.0,250.0,0.01892,0.01,nc,nc73729016,2022-05-04T00:05:37.618Z,"13km ESE of Mammoth Lakes, CA",earthquake,0.99,2.1,0.035,5.0,reviewed,nc,nc
+2022-05-03T19:37:45.765Z,36.6937,-116.3052,4.9,-0.3,ml,12.0,149.33,0.056,0.1011,nn,nn00838269,2022-05-04T00:10:09.647Z,California-Nevada border region,earthquake,,2.9,0.28,5.0,reviewed,nn,nn
