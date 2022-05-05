@@ -17201,3 +17201,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-05T15:23:38.530Z,53.9981666666667,-166.12,17.13,-0.11,ml,7.0,316.0,,0.14,av,av91057428,2022-05-05T22:14:15.910Z,"27 km SW of Akutan, Alaska",earthquake,1.41,1.59,0.265541978485399,6.0,reviewed,av,av
 2022-05-05T23:01:56.502Z,64.9483,-147.2901,0.0,1.7,ml,,,,1.06,ak,ak0225r3von3,2022-05-05T23:03:49.640Z,"14 km NW of Two Rivers, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-05T01:32:58.983Z,-30.0146,-72.1111,10.0,4.1,mwr,,178.0,0.763,0.75,us,us7000h765,2022-05-05T22:54:52.040Z,"74 km W of Coquimbo, Chile",earthquake,2.5,1.9,0.036,75.0,reviewed,us,us
+2022-05-05T23:23:20.250Z,34.0068321,-117.1823349,17.37,1.21,ml,25.0,141.0,0.1461,0.22,ci,ci40253280,2022-05-05T23:25:32.289Z,"5km S of Redlands, CA",earthquake,0.61,1.1,0.192,5.0,automatic,ci,ci
+2022-05-05T22:58:42.842Z,51.5503,-176.7908,51.38,4.7,mb,,129.0,0.339,0.8,us,us7000h7ec,2022-05-05T23:17:55.040Z,"37 km SSW of Adak, Alaska",earthquake,6.3,5.4,0.036,234.0,reviewed,us,us
+2022-05-05T22:40:40.830Z,-25.0002,179.6324,499.71,4.4,mb,,95.0,4.772,0.74,us,us7000h7ea,2022-05-05T23:05:37.040Z,south of the Fiji Islands,earthquake,11.7,8.9,0.123,19.0,reviewed,us,us
+2022-05-05T17:25:59.507Z,36.7604,-115.9994,5.0,-0.2,ml,6.0,250.39,0.034,0.1329,nn,nn00838409,2022-05-05T23:10:33.312Z,"36 km NW of Indian Springs, Nevada",earthquake,,3.3,0.05,4.0,reviewed,nn,nn
