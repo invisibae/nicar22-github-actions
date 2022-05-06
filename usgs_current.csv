@@ -211,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-05T14:54:31.864Z,6.5741,126.9605,64.61,4.6,mb,,118,1.457,0.88,us,us7000h7ay,2022-05-05T15:18:37.040Z,"76 km SE of Lukatan, Philippines",earthquake,4.1,8.1,0.061,80,reviewed,us,us
 2022-05-05T14:51:00.734Z,36.6653,-117.1784,6.1,1.4,ml,17,193.8,0.173,0.1761,nn,nn00838385,2022-05-05T16:03:25.878Z,"37 km NW of Furnace Creek, California",earthquake,,3,0.69,8,reviewed,nn,nn
 2022-05-05T14:45:32.630Z,44.2621667,-115.0575,7.32,1.96,ml,8,118,0.741,0.21,mb,mb80545029,2022-05-05T15:22:20.130Z,"10 km WNW of Stanley, Idaho",earthquake,0.61,1.97,0.197,10,reviewed,mb,mb
-2022-05-05T14:41:56.410Z,33.5945,-116.805,8.07,0.58,ml,24,78,0.03415,0.09,ci,ci40252896,2022-05-05T18:59:51.813Z,"13km WNW of Anza, CA",earthquake,0.16,0.33,0.157,8,reviewed,ci,ci
-2022-05-05T14:38:08.580Z,38.8348351,-122.8006668,2.12,0.77,md,18,60,0.008817,0.04,nc,nc73729736,2022-05-05T14:56:12.968Z,"7km WNW of Cobb, CA",earthquake,0.23,0.58,0.1,2,automatic,nc,nc
