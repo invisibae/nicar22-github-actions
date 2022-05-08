@@ -17675,3 +17675,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-08T00:38:43.020Z,19.1243324279785,-155.39616394043,29.5300006866455,1.85000002,md,32.0,184.0,,0.159999996,hv,hv73005927,2022-05-08T00:41:55.140Z,"12 km SE of Pāhala, Hawaii",earthquake,0.89,1.28999996,1.48000002,6.0,automatic,hv,hv
 2022-05-08T00:25:40.731Z,8.7093,-83.1791,18.29,5.0,mww,,84.0,0.492,1.0,us,us7000h7v8,2022-05-08T02:32:30.387Z,"13 km NNW of Golfito, Costa Rica",earthquake,5.3,3.8,0.068,21.0,reviewed,us,us
 2022-05-08T00:13:41.030Z,18.0116666666667,-66.9066666666667,7.52,2.3,md,7.0,100.0,,0.16,pr,pr71347833,2022-05-08T00:46:13.960Z,"2 km NNE of Fuig, Puerto Rico",earthquake,0.77,0.48,0.103774184621245,4.0,reviewed,pr,pr
+2022-05-08T02:55:44.700Z,36.5561676,-121.1371689,8.42,1.43,md,9.0,136.0,0.04181,0.05,nc,nc73730661,2022-05-08T03:12:17.334Z,"3km NNE of Pinnacles, CA",earthquake,0.59,0.99,0.13,8.0,automatic,nc,nc
+2022-05-08T02:49:03.748Z,65.2645,-150.0861,8.8,2.6,ml,,,,0.86,ak,ak0225vq9sq0,2022-05-08T03:02:21.040Z,"27 km S of Rampart, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-08T02:34:26.340Z,17.9115,-66.785,7.16,2.15,md,6.0,232.0,,0.08,pr,pr71347853,2022-05-08T03:08:43.770Z,"9 km SSE of Indios, Puerto Rico",earthquake,0.97,0.38,0.0048032934419826,5.0,reviewed,pr,pr
+2022-05-08T02:29:03.320Z,3.6698,126.9357,39.45,5.2,mww,,103.0,2.91,0.77,us,us7000h7vi,2022-05-08T02:46:55.040Z,"245 km NNW of Tobelo, Indonesia",earthquake,8.1,6.8,0.098,10.0,reviewed,us,us
+2022-05-08T02:18:56.763Z,3.7611,126.9588,38.86,4.9,mb,,111.0,2.997,0.54,us,us7000h7vg,2022-05-08T02:37:18.040Z,"245 km SE of Sarangani, Philippines",earthquake,9.2,7.8,0.07,65.0,reviewed,us,us
