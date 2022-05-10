@@ -18215,3 +18215,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-10T10:25:51.720Z,19.2596664428711,-155.422164916992,31.4500007629395,2.3,ml,41.0,117.0,,0.119999997,hv,hv73008192,2022-05-10T10:31:22.720Z,"8 km NE of Pāhala, Hawaii",earthquake,0.56,0.75,0.31,3.0,automatic,hv,hv
 2022-05-10T10:25:15.510Z,38.4345016,-122.4901657,7.78,1.96,md,28.0,45.0,0.06242,0.15,nc,nc73731701,2022-05-10T10:34:10.138Z,"5km ENE of Kenwood, CA",earthquake,0.3,0.79,0.11,25.0,automatic,nc,nc
 2022-05-10T10:20:41.911Z,60.099,-151.868,77.9,1.8,ml,,,,0.37,ak,ak0225z5xtsv,2022-05-10T10:22:44.868Z,"12 km WNW of Ninilchik, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2022-05-10T10:24:12.848Z,31.669,-104.4176,5.0,2.7,ml,,103.0,0.07,0.32,us,us7000h8ap,2022-05-10T10:36:43.040Z,"56 km S of Whites City, New Mexico",earthquake,1.2,1.6,0.115,72.0,reviewed,us,us
