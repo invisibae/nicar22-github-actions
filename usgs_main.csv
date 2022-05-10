@@ -18328,3 +18328,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-10T19:42:54.330Z,36.5696678,-121.4166641,-0.4,1.2,md,10.0,185.0,0.03034,0.29,nc,nc73731821,2022-05-10T19:44:30.104Z,"7km NNE of Gonzales, CA",earthquake,1.88,2.26,0.14,6.0,automatic,nc,nc
 2022-05-10T19:38:22.398Z,61.654,-151.2717,74.4,1.7,ml,,,,0.76,ak,ak0225zbejly,2022-05-10T19:46:24.343Z,"38 km S of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-10T17:24:06.974Z,34.1514,-80.7389,3.88,2.3,mb_lg,,108.0,0.318,0.34,us,us7000h8eg,2022-05-10T19:43:22.599Z,"5 km ESE of Elgin, South Carolina",earthquake,1.2,3.9,0.295,3.0,reviewed,us,us
+2022-05-10T20:08:39.040Z,36.6808319,-121.3075027,3.25,1.84,md,23.0,141.0,0.0411,0.08,nc,nc73731831,2022-05-10T20:10:15.397Z,"12km S of Tres Pinos, CA",earthquake,0.34,0.9,0.17,22.0,automatic,nc,nc
+2022-05-10T04:22:32.130Z,58.4043333333333,-154.809333333333,6.04,0.19,ml,9.0,112.0,,0.21,av,av91557146,2022-05-10T20:06:15.420Z,"95 km NNW of Karluk, Alaska",earthquake,0.48,0.82,0.162526611651922,9.0,reviewed,av,av
