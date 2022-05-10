@@ -18309,3 +18309,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-10T04:12:55.531Z,31.56941501,-103.9987397,5.540283203000001,2.4,ml,13.0,88.0,0.1071454464,0.2,tx,tx2022jcag,2022-05-10T17:59:58.008Z,"34 km NW of Toyah, Texas",earthquake,2.195312845,2.858027436,0.1,7.0,reviewed,tx,tx
 2022-05-10T03:08:50.236Z,38.1613,-117.8834,9.3,0.9,ml,14.0,159.64,0.064,0.1435,nn,nn00838590,2022-05-10T18:06:30.334Z,"32 km SE of Mina, Nevada",earthquake,,1.6,0.51,4.0,reviewed,nn,nn
 2022-05-09T18:08:22.903Z,54.9636,-157.6401,10.0,3.6,ml,,208.0,1.133,0.57,us,us7000h85x,2022-05-10T17:59:25.040Z,"142 km SE of Perryville, Alaska",earthquake,3.6,2.0,0.066,30.0,reviewed,us,us
+2022-05-10T18:20:02.680Z,38.7900009,-122.7611694,1.08,1.16,md,22.0,77.0,0.02026,0.06,nc,nc73731796,2022-05-10T18:32:10.363Z,"2km NNW of The Geysers, CA",earthquake,0.24,0.47,0.06,6.0,automatic,nc,nc
+2022-05-10T18:06:13.480Z,34.0243333,-117.1238333,5.4,1.12,ml,37.0,64.0,0.01461,0.22,ci,ci40255672,2022-05-10T18:15:04.480Z,"5km S of Mentone, CA",earthquake,0.35,0.91,0.178,27.0,automatic,ci,ci
+2022-05-09T20:54:11.197Z,0.5844,122.1898,98.66,4.7,mb,,43.0,1.502,0.9,us,us7000h86l,2022-05-10T18:32:03.040Z,"97 km W of Gorontalo, Indonesia",earthquake,4.0,7.0,0.072,58.0,reviewed,us,us
