@@ -18474,3 +18474,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-11T08:15:40.950Z,38.8231659,-122.7871704,1.44,0.67,md,14.0,70.0,0.01111,0.02,nc,nc73732076,2022-05-11T08:33:15.390Z,"6km W of Cobb, CA",earthquake,0.24,0.4,0.13,2.0,automatic,nc,nc
 2022-05-11T08:07:36.566Z,60.4686,-152.3481,92.7,1.5,ml,,,,0.6,ak,ak02260s7id4,2022-05-11T08:10:22.758Z,"58 km W of Cohoe, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-11T07:22:48.066Z,9.4201,-83.8612,10.0,3.8,ml,,190.0,1.315,1.04,us,us7000h8j5,2022-05-11T08:14:01.040Z,"18 km WNW of San Isidro, Costa Rica",earthquake,6.3,2.0,0.128,8.0,reviewed,us,us
+2022-05-11T08:42:02.920Z,33.4866667,-116.469,14.49,0.95,ml,29.0,66.0,0.0876,0.15,ci,ci40256096,2022-05-11T08:45:38.917Z,"20km ESE of Anza, CA",earthquake,0.22,0.42,0.158,25.0,automatic,ci,ci
+2022-05-11T08:35:33.940Z,17.9861666666667,-66.9906666666667,13.72,2.2,md,11.0,157.0,,0.22,pr,pr71348403,2022-05-11T08:46:02.280Z,"6 km ENE of La Parguera, Puerto Rico",earthquake,0.67,0.64,0.0693627251073989,5.0,reviewed,pr,pr
