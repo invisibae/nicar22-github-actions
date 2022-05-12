@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-12T09:51:37.949Z,61.4337,-147.9885,17.7,0.7,ml,,,,0.18,ak,ak02262glq2q,2022-05-12T09:53:20.055Z,"45 km SSW of Glacier View, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-05-12T09:44:19.545Z,64.6175,-146.9989,9.1,1.6,ml,,,,0.56,ak,ak02262gk6n6,2022-05-12T09:47:37.862Z,"5 km SSE of Eielson Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-12T09:42:33.153Z,63.326,-150.7103,131.5,1.8,ml,,,,0.37,ak,ak02262gjs8u,2022-05-12T09:45:13.420Z,"55 km ESE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-12T09:31:22.130Z,33.651,-116.7575,7.67,0.31,ml,11,146,0.05742,0.22,ci,ci40016151,2022-05-12T09:35:03.488Z,"10km SSW of Idyllwild, CA",earthquake,0.87,1.37,0.064,6,automatic,ci,ci
 2022-05-12T09:24:02.250Z,38.8134995,-122.8274994,1.98,0.63,md,21,58,0.004807,0.02,nc,nc73732551,2022-05-12T09:31:11.673Z,"7km WNW of The Geysers, CA",earthquake,0.21,0.49,0.05,3,automatic,nc,nc
@@ -45,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-12T04:42:26.775Z,63.3994,-151.3387,0.1,1.6,ml,,,,1.05,ak,ak02262dklqt,2022-05-12T04:47:31.928Z,"24 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-12T04:28:12.860Z,38.828167,-122.8148346,2.02,1.33,md,26,42,0.006044,0.02,nc,nc73732491,2022-05-12T07:54:11.070Z,"8km NW of The Geysers, CA",earthquake,0.19,0.34,0.36,2,automatic,nc,nc
 2022-05-12T04:28:05.890Z,38.8283348,-122.8151703,1.96,1.93,md,25,44,0.006339,0.02,nc,nc73732486,2022-05-12T07:28:11.876Z,"8km NW of The Geysers, CA",earthquake,0.18,0.35,0.14,5,automatic,nc,nc
-2022-05-12T04:23:00.685Z,56.2852,-156.4513,52.5,2.6,ml,,,,0.29,ak,ak02262dgh3v,2022-05-12T04:45:30.040Z,"Alaska Peninsula",earthquake,,3.1,,,automatic,ak,ak
+2022-05-12T04:23:00.685Z,56.2852,-156.4513,52.5,2.6,ml,,,,0.29,ak,ak02262dgh3v,2022-05-12T04:45:30.040Z,"120 km E of Chignik, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2022-05-12T04:14:13.281Z,62.1089,-150.2173,15.3,1.3,ml,,,,0.31,ak,ak02262deknk,2022-05-12T04:16:41.345Z,"19 km WSW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-12T04:05:22.550Z,33.2655,-116.2986667,12.17,1.17,ml,31,68,0.0817,0.23,ci,ci40016063,2022-05-12T04:09:02.591Z,"7km E of Borrego Springs, CA",earthquake,0.31,0.66,0.157,27,automatic,ci,ci
 2022-05-12T03:53:40.762Z,31.6122,-103.9456,2.64,2.8,ml,,70,0.25,0.32,us,us6000hkh9,2022-05-12T04:14:30.040Z,"34 km WSW of Mentone, Texas",earthquake,1.2,1.1,0.052,48,reviewed,us,us
@@ -236,5 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-11T10:06:16.077Z,61.8105,-149.826,35.2,1.4,ml,,,,0.29,ak,ak02260te49u,2022-05-11T10:18:18.787Z,"13 km ENE of Willow, Alaska",earthquake,,5.2,,,automatic,ak,ak
 2022-05-11T10:03:21.848Z,-4.9075,150.8541,258.88,4.4,mb,,56,1.486,0.37,us,us7000h8k5,2022-05-11T10:57:24.040Z,"106 km NE of Kimbe, Papua New Guinea",earthquake,12.5,8,0.085,41,reviewed,us,us
 2022-05-11T09:58:11.250Z,18.8128,-64.2636,80,3.98,md,16,337,1.1373,0.28,pr,pr2022131002,2022-05-11T11:17:33.040Z,"77 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,3.43,4.34,0.06,7,reviewed,pr,pr
-2022-05-11T09:49:17.520Z,18.8423328399658,-155.515335083008,33.939998626709,2.07999992,md,30,274,,0.150000006,hv,hv73009267,2022-05-11T09:53:01.120Z,"25 km SSE of Naalehu, Hawaii",earthquake,0.74,1.16999996,1.30999994,7,automatic,hv,hv
-2022-05-11T09:46:50.150Z,53.3838333333333,-168.192666666667,-0.6,-0.45,ml,5,290,,0.1,av,av91058183,2022-05-12T02:06:32.400Z,"66 km NE of Nikolski, Alaska",earthquake,0.47,0.3,0.343501298506494,5,reviewed,av,av
