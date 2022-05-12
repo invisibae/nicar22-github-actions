@@ -18811,3 +18811,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-12T03:03:54.040Z,39.4326667,-110.313,-1.03,1.91,md,5.0,194.0,0.01269,0.02,uu,uu60497737,2022-05-12T14:13:28.420Z,"14 km SSE of Sunnyside, Utah",earthquake,1.71,0.79,0.192,5.0,reviewed,uu,uu
 2022-05-12T00:09:49.520Z,41.5858333,-111.9156667,-2.0,0.81,md,5.0,158.0,0.04069,0.15,uu,uu60497632,2022-05-12T14:15:35.050Z,"6 km SSE of Wellsville, Utah",quarry blast,1.04,31.61,0.109,3.0,reviewed,uu,uu
 2022-05-11T23:18:57.660Z,40.3291667,-111.5213333,1.33,0.9,md,10.0,126.0,0.1526,0.19,uu,uu60497592,2022-05-12T14:18:11.830Z,"10 km SW of Wallsburg, Utah",earthquake,0.91,31.61,0.151,7.0,reviewed,uu,uu
+2022-05-12T14:24:56.437Z,62.2303,-150.1669,20.0,1.1,ml,,,,0.72,ak,ak02262jf56w,2022-05-12T14:32:49.879Z,"10 km SSE of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-12T14:22:14.846Z,61.6831,-150.249,21.6,1.2,ml,,,,0.59,ak,ak02262jemju,2022-05-12T14:28:50.013Z,"13 km WSW of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-12T14:18:36.164Z,65.12,-148.635,15.9,1.0,ml,,,,0.29,ak,ak02262jdtc0,2022-05-12T14:20:44.627Z,"33 km E of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-12T13:50:18.410Z,36.0105,-117.8288333,1.59,0.32,ml,10.0,96.0,0.03231,0.05,ci,ci40016279,2022-05-12T14:34:49.030Z,"11km NE of Little Lake, CA",earthquake,0.13,0.14,0.335,3.0,reviewed,ci,ci
+2022-05-12T13:32:14.600Z,36.0765,-117.8786667,3.32,0.55,ml,11.0,197.0,0.0453,0.05,ci,ci40016271,2022-05-12T14:32:56.424Z,"7km ENE of Coso Junction, CA",earthquake,0.21,0.35,0.246,5.0,reviewed,ci,ci
+2022-05-12T01:28:52.870Z,34.4281667,-119.1436667,14.63,1.53,ml,22.0,64.0,0.01011,0.25,ci,ci40016047,2022-05-12T14:34:30.779Z,"9km ESE of Ojai, CA",earthquake,0.35,0.82,0.1,13.0,reviewed,ci,ci
