@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-12T18:12:55.818Z,57.1678,-154.5331,9.9,2.4,ml,,,,0.34,ak,ak02262lqaz1,2022-05-12T18:19:35.136Z,"33 km NW of Akhiok, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-12T18:19:00.883Z,62.1284,-150.2343,48.1,1.2,ml,,,,0.62,ak,ak02262lror4,2022-05-12T18:21:52.615Z,"20 km W of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2022-05-12T18:12:55.818Z,57.1678,-154.5331,9.9,2.4,ml,,,,0.34,ak,ak02262lqaz1,2022-05-12T18:29:30.428Z,"33 km NW of Akhiok, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-12T18:06:51.876Z,61.5561,-146.9096,25.8,2.1,ml,,,,0.86,ak,ak02262lp098,2022-05-12T18:11:12.199Z,"44 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-12T18:02:43.940Z,38.8391685,-122.8088303,1.57,0.85,md,9,85,0.01446,0.02,nc,nc73732681,2022-05-12T18:11:10.762Z,"8km WNW of Cobb, CA",earthquake,0.42,0.66,,1,automatic,nc,nc
 2022-05-12T17:55:20.740Z,19.1783332824707,-155.469161987305,33.439998626709,2.03999996,md,32,158,,0.129999995,hv,hv73010522,2022-05-12T18:00:37.980Z,"2 km SSE of Pāhala, Hawaii",earthquake,0.65,0.870000005,0.109999999,5,automatic,hv,hv
@@ -64,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-12T10:59:11.705Z,-21.8902,-178.8281,553.69,4.7,mb,,67,5.062,0.94,us,us6000hkjg,2022-05-12T11:16:30.040Z,"Fiji region",earthquake,11.3,7.2,0.038,209,reviewed,us,us
 2022-05-12T10:54:13.940Z,38.7666664,-122.704834,0.89,0.42,md,9,116,0.004596,0.12,nc,nc73732566,2022-05-12T13:03:10.947Z,"2km SW of Anderson Springs, CA",earthquake,0.41,0.46,0.09,3,automatic,nc,nc
 2022-05-12T10:53:56.970Z,35.7855,-117.607,8.3,0.66,ml,19,69,0.03115,0.12,ci,ci40016199,2022-05-12T17:54:15.617Z,"18km W of Searles Valley, CA",earthquake,0.2,0.4,0.132,6,reviewed,ci,ci
-2022-05-12T10:53:31.483Z,38.1642,-117.9942,0.4,1.2,ml,9,118.99,0.036,0.2206,nn,nn00838762,2022-05-12T10:57:27.923Z,"27 km SSE of Mina, Nevada",earthquake,,0.2,0.15,7,automatic,nn,nn
+2022-05-12T10:53:32.418Z,38.1652,-117.9848,0.3,1.2,ml,15,118.21,0.033,0.1494,nn,nn00838762,2022-05-12T18:41:43.881Z,"27 km SSE of Mina, Nevada",earthquake,,2.8,0.32,5,reviewed,nn,nn
 2022-05-12T10:53:23.619Z,60.5086,-143.0295,0.1,1.7,ml,,,,1.09,ak,ak02262h7k07,2022-05-12T10:58:43.588Z,"103 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-12T10:49:47.230Z,44.5596667,-110.7035,5.63,0.48,md,14,78,0.0628,0.15,uu,uu60497782,2022-05-12T13:21:59.770Z,"33 km ESE of West Yellowstone, Montana",earthquake,0.39,1.53,0.415,9,reviewed,uu,uu
 2022-05-12T10:45:23.498Z,63.214,-150.4046,111,2,ml,,,,0.62,ak,ak02262h5uas,2022-05-12T10:50:18.258Z,"75 km ESE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -80,7 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-12T09:42:33.153Z,63.326,-150.7103,131.5,1.8,ml,,,,0.37,ak,ak02262gjs8u,2022-05-12T09:45:13.420Z,"55 km ESE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-12T09:31:22.530Z,33.5926667,-116.8056667,7.94,0.23,ml,24,75,0.03471,0.09,ci,ci40016151,2022-05-12T15:35:50.669Z,"13km WNW of Anza, CA",earthquake,0.16,0.3,0.052,5,reviewed,ci,ci
 2022-05-12T09:24:02.250Z,38.8134995,-122.8274994,1.98,0.63,md,21,58,0.004807,0.02,nc,nc73732551,2022-05-12T09:31:11.673Z,"7km WNW of The Geysers, CA",earthquake,0.21,0.49,0.05,3,automatic,nc,nc
-2022-05-12T09:10:50.578Z,36.7331,-116.3106,12.3,-0.2,ml,8,213.76,0.047,0.248,nn,nn00838758,2022-05-12T09:13:46.314Z,"44 km ESE of Beatty, Nevada",earthquake,,2.8,0.14,4,automatic,nn,nn
+2022-05-12T09:10:51.415Z,36.7398,-116.289,8.7,-0.1,ml,14,82.82,0.055,0.0847,nn,nn00838758,2022-05-12T18:29:17.932Z,"45 km ESE of Beatty, Nevada",earthquake,,1.3,0.45,6,reviewed,nn,nn
 2022-05-12T08:56:18.899Z,61.6754,-146.3077,28,1.3,ml,,,,0.95,ak,ak02262g1bku,2022-05-12T08:59:00.800Z,"42 km SE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-12T08:47:27.548Z,36.7351,-116.2904,9.1,-0.1,ml,14,85.95,0.057,0.0826,nn,nn00838757,2022-05-12T18:16:53.725Z,"46 km ESE of Beatty, Nevada",earthquake,,1.1,1.39,6,reviewed,nn,nn
 2022-05-12T08:41:33.680Z,32.5521667,-116.2366667,14.65,1.31,ml,26,122,0.1451,0.16,ci,ci40016143,2022-05-12T15:30:32.054Z,"23km ESE of Campo, CA",earthquake,0.4,0.5,0.201,9,reviewed,ci,ci
@@ -217,9 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-11T18:59:36.840Z,58.2648333333333,-155.147166666667,1.06,-0.82,ml,4,139,,0.13,av,av91058258,2022-05-12T06:45:07.720Z,"87 km NNW of Karluk, Alaska",earthquake,0.52,3.12,0.264047603230829,4,reviewed,av,av
 2022-05-11T18:52:15.293Z,-2.8011,103.1433,282.72,4.4,mb,,119,1.557,0.66,us,us6000hkf4,2022-05-11T19:10:53.040Z,"62 km NNE of Lubuklinggau, Indonesia",earthquake,6.3,7.3,0.085,40,reviewed,us,us
 2022-05-11T18:46:47.616Z,60.2434,-141.0672,7.6,1.3,ml,,,,0.67,ak,ak02260ye86y,2022-05-11T18:58:24.214Z,"107 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-05-11T18:42:53.060Z,35.7056667,-117.5061667,6.49,1.12,ml,21,84,0.1242,0.11,ci,ci40015735,2022-05-11T18:59:17.331Z,"12km SW of Searles Valley, CA",earthquake,0.19,0.71,0.107,12,reviewed,ci,ci
-2022-05-11T18:36:05.673Z,62.6967,-151.175,83.2,1.9,ml,,,,0.51,ak,ak02260ybzs9,2022-05-11T18:47:21.015Z,"30 km NW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-05-11T18:29:39.963Z,65.5356,-148.3939,0,1.7,ml,,,,1.1,ak,ak02260yakf5,2022-05-11T18:42:52.977Z,"7 km E of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-05-11T18:26:01.690Z,51.8435,-177.847166666667,4.75,-0.31,ml,4,201,,0.15,av,av91058253,2022-05-12T06:41:16.790Z,"83 km W of Adak, Alaska",earthquake,0.88,1.47,0.146059206212167,4,reviewed,av,av
-2022-05-11T18:23:34.710Z,42.86333333333333,-124.06166666666667,-0.47,1.25,ml,6,108,0.005826,0.22,uw,uw61830477,2022-05-11T22:47:43.450Z,"2 km SSE of Powers, Oregon",explosion,1.13,31.61,0.030096115795781087,2,reviewed,uw,uw
-2022-05-11T18:22:09.540Z,44.7233333,-110.05,4.97,0.49,md,5,154,0.07741,0.08,uu,uu60497347,2022-05-11T19:32:15.950Z,"31 km S of Silver Gate, Montana",earthquake,0.35,0.57,0.378,5,reviewed,uu,uu
