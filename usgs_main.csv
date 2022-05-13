@@ -19046,3 +19046,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-13T07:48:13.900Z,37.783165,-113.0481644,-3.25,2.71,ml,24.0,64.0,0.19,0.28,uu,uu60498002,2022-05-13T07:53:44.340Z,"2 km WNW of Enoch, Utah",earthquake,1.04,4.09,0.24,16.0,automatic,uu,uu
 2022-05-13T07:47:59.890Z,33.1175,-116.053,6.7,1.21,ml,32.0,49.0,0.08429,0.26,ci,ci40017335,2022-05-13T07:51:34.864Z,"8km ESE of Ocotillo Wells, CA",earthquake,0.32,1.27,0.132,27.0,automatic,ci,ci
 2022-05-12T22:03:50.900Z,58.3506666666667,-154.892666666667,2.86,-0.29,ml,7.0,141.0,,0.13,av,av91058443,2022-05-13T07:52:14.020Z,"90 km NNW of Karluk, Alaska",earthquake,0.47,2.25,0.245832166032455,7.0,reviewed,av,av
+2022-05-13T07:59:15.380Z,35.7145,-117.5571667,8.94,0.46,ml,10.0,149.0,0.1062,0.14,ci,ci40017367,2022-05-13T08:02:45.821Z,"15km NE of Ridgecrest, CA",earthquake,0.55,1.57,0.107,7.0,automatic,ci,ci
+2022-05-13T07:31:53.410Z,34.1979,26.1568,10.0,4.6,mb,,65.0,1.507,0.79,us,us6000hksp,2022-05-13T08:07:16.040Z,"97 km SSE of Ierápetra, Greece",earthquake,7.8,1.9,0.058,89.0,reviewed,us,us
