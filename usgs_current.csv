@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-15T04:40:21.370Z,38.8263321,-122.814003,1.98,1.41,md,24,74,0.01674,0.02,nc,nc73733901,2022-05-15T04:48:11.026Z,"7km NW of The Geysers, CA",earthquake,0.2,0.39,0.05,5,automatic,nc,nc
 2022-05-15T04:39:33.285Z,60.5734,-152.5961,9,0.8,ml,,,,0.42,ak,ak02267c60kw,2022-05-15T04:55:56.583Z,"70 km W of Salamatof, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-15T04:36:12.080Z,40.4510002,-121.9905014,14.65,1.54,md,6,200,0.1356,0.03,nc,nc73733896,2022-05-15T04:43:11.877Z,"10km WSW of Shingletown, CA",earthquake,0.8,2.96,0.08,5,automatic,nc,nc
-2022-05-15T04:29:00.118Z,-34.9799,-74.4756,10,4.6,mwr,,109,2.049,1.02,us,us6000hl8x,2022-05-15T04:53:53.040Z,"192 km WNW of Constitución, Chile",earthquake,6.5,1.9,,,reviewed,us,guc
+2022-05-15T04:29:00.118Z,-34.9799,-74.4756,10,4.6,mwr,,109,2.049,1.02,us,us6000hl8x,2022-05-15T05:36:41.860Z,"192 km WNW of Constitución, Chile",earthquake,6.5,1.9,,,reviewed,us,guc
 2022-05-15T04:14:39.633Z,65.7138,-151.3832,13.9,1.6,ml,,,,0.92,ak,ak02267c0o61,2022-05-15T04:41:47.223Z,"60 km WNW of Rampart, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-15T04:04:08.453Z,57.9317,-155.8765,10.4,1.7,ml,,,,0.53,ak,ak02267byglp,2022-05-15T04:19:14.268Z,"93 km WNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-15T04:03:05.960Z,38.8078346,-122.7929993,0.8,0.15,md,20,38,0.001805,0.02,nc,nc73733891,2022-05-15T04:12:10.712Z,"5km NW of The Geysers, CA",earthquake,0.17,0.35,0.08,3,automatic,nc,nc
@@ -205,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-14T05:46:30.670Z,44.359,-115.2193333,9.82,1.86,ml,10,84,0.847,0.26,mb,mb80545769,2022-05-14T13:19:33.840Z,"27 km NW of Stanley, Idaho",earthquake,0.77,1.52,0.178,11,reviewed,mb,mb
 2022-05-14T05:42:39.470Z,35.8748333,-117.6908333,6.03,-0.08,ml,5,161,0.07997,0.03,ci,ci40018375,2022-05-14T05:46:14.464Z,"21km ESE of Little Lake, CA",earthquake,0.32,1.7,0.061,3,automatic,ci,ci
 2022-05-14T05:40:31.220Z,38.8326683,-122.7898331,2.05,2.2,md,37,45,0.005746,0.04,nc,nc73733491,2022-05-14T07:39:10.326Z,"6km WNW of Cobb, CA",earthquake,0.18,0.28,0.09,12,automatic,nc,nc
-2022-05-14T05:31:32.900Z,35.8966667,-117.7426667,7.42,1.18,ml,18,53,0.08047,0.11,ci,ci40018367,2022-05-14T05:44:18.750Z,"15km ESE of Little Lake, CA",earthquake,0.2,0.62,0.27,17,automatic,ci,ci
