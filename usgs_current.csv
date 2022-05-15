@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-15T19:41:53.900Z,19.1903324127197,-155.384994506836,33.2000007629395,2.25999999,md,42,169,,0.119999997,hv,hv73013357,2022-05-15T19:45:02.920Z,"9 km E of Pāhala, Hawaii",earthquake,0.54,0.720000029,0.839999974,25,automatic,hv,hv
 2022-05-15T19:31:39.109Z,60.1727,-141.3328,3.2,1.3,ml,,,,0.38,ak,ak02267l1tdi,2022-05-15T19:33:32.562Z,"113 km NW of Yakutat, Alaska",earthquake,,2,,,automatic,ak,ak
 2022-05-15T19:29:26.490Z,19.2308330535889,-155.388671875,30.8400001525879,2.88,ml,47,146,,0.159999996,hv,hv73013327,2022-05-15T19:34:54.910Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.58,0.769999981,3.65,32,automatic,hv,hv
 2022-05-15T19:29:11.556Z,63.0342,-150.5327,116.1,1.1,ml,,,,0.66,ak,ak02267l1btf,2022-05-15T19:31:29.822Z,"61 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
