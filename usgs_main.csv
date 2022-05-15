@@ -19592,3 +19592,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-15T15:25:46.930Z,33.7173333,-116.7688333,15.22,0.55,ml,19.0,76.0,0.04598,0.1,ci,ci40019527,2022-05-15T15:29:22.489Z,"5km WSW of Idyllwild, CA",earthquake,0.29,0.33,0.17,11.0,automatic,ci,ci
 2022-05-15T15:25:12.060Z,38.8216667,-122.7623367,1.91,0.32,md,7.0,129.0,0.0106,0.0,nc,nc73734026,2022-05-15T15:33:10.965Z,"3km W of Cobb, CA",earthquake,0.47,1.05,0.36,2.0,automatic,nc,nc
 2022-05-15T15:23:54.424Z,61.3678,-151.9676,92.0,1.5,ml,,,,0.57,ak,ak02267imef2,2022-05-15T15:28:13.808Z,"53 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-15T15:48:13.360Z,38.8333321,-122.8178329,1.62,0.89,md,23.0,58.0,0.01163,0.02,nc,nc73734036,2022-05-15T15:49:48.289Z,"8km NW of The Geysers, CA",earthquake,0.18,0.47,0.13,4.0,automatic,nc,nc
