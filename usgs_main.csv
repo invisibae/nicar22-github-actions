@@ -19805,3 +19805,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T15:29:45.022Z,62.336,-148.22,41.1,1.1,ml,,,,0.93,ak,ak0226966zte,2022-05-16T15:42:39.047Z,"61 km NNE of Chickaloon, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-05-16T15:25:23.150Z,38.8226662,-122.8031693,2.43,0.84,md,15.0,63.0,0.005442,0.01,nc,nc73734651,2022-05-16T15:32:11.301Z,"6km NW of The Geysers, CA",earthquake,0.28,0.79,,1.0,automatic,nc,nc
 2022-05-16T11:11:04.220Z,31.649,-116.862,10.05,1.39,ml,5.0,299.0,0.2756,0.07,ci,ci37417404,2022-05-16T15:27:32.012Z,"29km WSW of Maneadero, B.C., MX",earthquake,1.01,0.75,0.059,4.0,reviewed,ci,ci
+2022-05-16T15:43:50.140Z,35.6418333,-118.3221667,7.28,1.2,ml,22.0,60.0,0.05841,0.17,ci,ci40020287,2022-05-16T15:47:21.460Z,"14km E of Lake Isabella, CA",earthquake,0.33,0.69,0.114,14.0,automatic,ci,ci
+2022-05-15T21:01:55.830Z,44.7615,-111.2293333,4.27,0.24,md,11.0,191.0,0.02592,0.17,uu,uu60498262,2022-05-16T15:51:49.740Z,"3 km WSW of Hebgen Lake Estates, Montana",earthquake,0.59,0.51,0.35,7.0,reviewed,uu,uu
