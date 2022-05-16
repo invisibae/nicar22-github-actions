@@ -19869,3 +19869,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T02:46:20.520Z,44.288,-114.5916667,8.23,2.01,ml,16.0,61.0,0.408,0.25,mb,mb80545914,2022-05-16T19:49:52.360Z,"15 km WNW of Clayton, Idaho",earthquake,0.83,1.96,0.113,18.0,reviewed,mb,mb
 2022-05-16T02:22:32.993Z,36.7024,-115.8171,7.8,0.3,ml,18.0,280.95,0.138,0.1467,nn,nn00838950,2022-05-16T19:52:23.284Z,"19 km NW of Indian Springs, Nevada",earthquake,,4.2,0.24,9.0,reviewed,nn,nn
 2022-05-15T21:53:27.160Z,38.7561667,-122.7491667,1.09,0.04,md,12.0,91.0,0.004996,0.03,nc,nc73734161,2022-05-16T19:51:10.673Z,"2km SSE of The Geysers, CA",earthquake,0.34,0.31,0.123,3.0,reviewed,nc,nc
+2022-05-16T20:01:09.580Z,39.6041679,-123.4175034,7.37,1.8,md,9.0,111.0,0.03517,0.11,nc,nc73734741,2022-05-16T20:02:45.388Z,"11km SSE of Laytonville, CA",earthquake,0.57,1.08,0.05,5.0,automatic,nc,nc
+2022-05-16T17:15:36.350Z,49.4435,-120.5255,-0.51,1.91,ml,8.0,232.0,0.6006,0.41,uw,uw61831827,2022-05-16T20:03:49.250Z,"1 km SSW of Princeton, Canada",explosion,2.69,31.61,0.2870512091412747,3.0,reviewed,uw,uw
