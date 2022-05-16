@@ -19721,3 +19721,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T06:36:52.230Z,34.0078333,-116.4455,7.52,2.85,ml,79.0,25.0,0.07361,0.16,ci,ci40019951,2022-05-16T06:47:54.220Z,"7km NE of Desert Hot Springs, CA",earthquake,0.16,0.58,0.133,24.0,automatic,ci,ci
 2022-05-16T06:35:46.007Z,57.6596,-154.4103,34.8,1.2,ml,,,,0.67,ak,ak022690veeg,2022-05-16T06:47:01.344Z,"10 km NNE of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2022-05-16T06:27:12.261Z,61.9352,-150.2843,11.1,1.2,ml,,,,0.57,ak,ak022690tm2i,2022-05-16T06:40:35.207Z,"24 km NNW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-16T07:03:56.030Z,35.8531667,-117.6631667,11.17,0.68,ml,10.0,94.0,0.06512,0.11,ci,ci40019983,2022-05-16T07:07:25.132Z,"24km ESE of Little Lake, CA",earthquake,0.33,0.63,0.038,6.0,automatic,ci,ci
