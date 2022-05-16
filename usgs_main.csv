@@ -19807,3 +19807,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T11:11:04.220Z,31.649,-116.862,10.05,1.39,ml,5.0,299.0,0.2756,0.07,ci,ci37417404,2022-05-16T15:27:32.012Z,"29km WSW of Maneadero, B.C., MX",earthquake,1.01,0.75,0.059,4.0,reviewed,ci,ci
 2022-05-16T15:43:50.140Z,35.6418333,-118.3221667,7.28,1.2,ml,22.0,60.0,0.05841,0.17,ci,ci40020287,2022-05-16T15:47:21.460Z,"14km E of Lake Isabella, CA",earthquake,0.33,0.69,0.114,14.0,automatic,ci,ci
 2022-05-15T21:01:55.830Z,44.7615,-111.2293333,4.27,0.24,md,11.0,191.0,0.02592,0.17,uu,uu60498262,2022-05-16T15:51:49.740Z,"3 km WSW of Hebgen Lake Estates, Montana",earthquake,0.59,0.51,0.35,7.0,reviewed,uu,uu
+2022-05-16T16:01:44.778Z,36.1993,-115.2699,3.1,1.4,ml,9.0,243.62,0.319,0.3842,nn,nn00838964,2022-05-16T16:05:16.968Z,"10 km NNW of Spring Valley, Nevada",earthquake,,23.4,0.63,7.0,automatic,nn,nn
+2022-05-16T16:00:41.728Z,56.4203,-155.9749,0.0,2.9,ml,,,,0.65,ak,ak022696m824,2022-05-16T16:04:02.207Z,"125 km WSW of Akhiok, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-16T15:55:01.940Z,35.6416667,-118.3186667,6.42,1.58,ml,26.0,51.0,0.05979,0.17,ci,ci40020303,2022-05-16T16:06:00.940Z,"14km E of Lake Isabella, CA",earthquake,0.36,0.61,0.193,25.0,automatic,ci,ci
