@@ -20082,3 +20082,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T22:51:28.370Z,38.543,-112.7545,0.22,0.76,ml,11.0,145.0,0.07944,0.05,uu,uu60498372,2022-05-17T14:26:37.760Z,"27 km NE of Milford, Utah",earthquake,0.43,6.82,0.192,2.0,reviewed,uu,uu
 2022-05-17T14:33:45.030Z,33.9795,-117.039,-0.17,1.32,ml,10.0,125.0,0.1999,0.43,ci,ci40021079,2022-05-17T14:37:20.681Z,"2km SE of Calimesa, CA",earthquake,1.23,31.61,0.306,17.0,automatic,ci,ci
 2022-05-17T14:05:50.008Z,31.6176,50.2795,10.0,4.9,mb,,60.0,5.667,0.75,us,us6000hlsd,2022-05-17T14:38:20.040Z,"74 km ENE of Rāmhormoz, Iran",earthquake,8.4,1.9,0.051,122.0,reviewed,us,us
+2022-05-17T14:46:26.140Z,35.8795013,-117.7030029,3.28,1.0,ml,14.0,70.0,0.08052,0.09,ci,ci40021103,2022-05-17T14:48:35.289Z,"19km ESE of Little Lake, CA",earthquake,0.31,1.43,0.13,5.0,automatic,ci,ci
