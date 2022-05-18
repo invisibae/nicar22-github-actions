@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-18T18:45:20.222Z,35.01828003,-97.64780426,2.465192795,2.23,ml,31,85.62031555,0.1099388972,0.7987984364,ok,ok2022jrtb,2022-05-18T18:46:47.374Z,"2 km SW of Dibble, Oklahoma",earthquake,2.128241495,1.673197057,,13,automatic,ok,ok
-2022-05-18T18:35:26.500Z,38.8125,-122.7558365,0.94,1.08,md,16,116,0.01224,0.02,nc,nc73735406,2022-05-18T18:45:11.380Z,"3km WSW of Cobb, CA",earthquake,0.22,0.47,0.1,4,automatic,nc,nc
+2022-05-18T18:45:20.222Z,35.01828003,-97.64780426,2.465192795,2.3,ml,31,85.62031555,0.1099388972,0.7987984364,ok,ok2022jrtb,2022-05-18T18:47:56.494Z,"2 km SW of Dibble, Oklahoma",earthquake,2.128241495,1.673197057,,24,automatic,ok,ok
+2022-05-18T18:35:26.500Z,38.8125,-122.7558365,0.94,1.08,md,16,116,0.01224,0.02,nc,nc73735406,2022-05-18T18:49:34.340Z,"3km WSW of Cobb, CA",earthquake,0.22,0.47,0.1,4,automatic,nc,nc
 2022-05-18T18:11:11.586Z,38.1575,-117.8975,8,1.8,ml,8,123.4,0.052,0.1831,nn,nn00839107,2022-05-18T18:14:47.859Z,"31 km SE of Mina, Nevada",earthquake,,0.6,0.27,4,automatic,nn,nn
 2022-05-18T18:00:37.660Z,37.4998333,-118.8658333,2.73,0.89,md,14,227,0.09465,0.11,nc,nc73735401,2022-05-18T18:27:11.279Z,"18km WSW of Toms Place, CA",earthquake,0.59,2.4,0.117,11,reviewed,nc,nc
 2022-05-18T17:57:48.865Z,61.0673,-152.4234,108.1,2.2,ml,,,,0.52,ak,ak0226ciml01,2022-05-18T18:10:43.185Z,"69 km W of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -229,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T19:02:32.780Z,34.0485,-117.5266667,16.51,1.15,ml,36,70,0.03455,0.11,ci,ci40021351,2022-05-17T21:06:52.340Z,"6km NW of Glen Avon, CA",earthquake,0.22,0.27,0.088,16,reviewed,ci,ci
 2022-05-17T19:01:57.330Z,34.0533333,-117.5218333,16.95,0.95,ml,26,91,0.0598,0.14,ci,ci40021343,2022-05-17T20:45:52.386Z,"6km NW of Glen Avon, CA",earthquake,0.32,0.43,0.166,9,reviewed,ci,ci
 2022-05-17T19:01:27.200Z,60.021,-153.101,1.08,-0.83,ml,4,178,,0.16,av,av91564406,2022-05-18T04:06:15.560Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.55,1.67,0.132839891090628,4,reviewed,av,av
-2022-05-17T18:54:08.750Z,46.285833333333336,-122.70983333333334,-1.04,1.55,ml,11,249,0.1349,0.24,uw,uw61832292,2022-05-17T23:06:58.690Z,"15 km E of Castle Rock, Washington",explosion,1.02,31.61,0.22549041540349668,7,reviewed,uw,uw
