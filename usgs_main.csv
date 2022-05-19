@@ -20772,3 +20772,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-19T06:05:47.795Z,36.776,-115.9682,12.0,-0.2,ml,12.0,154.33,0.03,0.1824,nn,nn00839175,2022-05-19T22:14:59.565Z,"35 km NW of Indian Springs, Nevada",earthquake,,1.6,0.36,4.0,reviewed,nn,nn
 2022-05-19T05:03:10.880Z,58.2768333333333,-154.826166666667,22.35,-0.48,ml,7.0,176.0,,0.08,av,av91059203,2022-05-19T22:09:37.680Z,"81 km NNW of Karluk, Alaska",earthquake,0.67,0.57,0.315923566332891,7.0,reviewed,av,av
 2022-05-19T08:23:08.480Z,51.8825,-177.840166666667,3.86,-0.1,ml,6.0,246.0,,0.21,av,av91059208,2022-05-19T22:28:38.190Z,"83 km W of Adak, Alaska",earthquake,1.29,0.53,0.0964003916456739,6.0,reviewed,av,av
+2022-05-19T22:53:05.849Z,59.6741,-139.0359,25.6,1.6,ml,,,,0.9,ak,ak0226e945em,2022-05-19T22:56:14.010Z,"41 km ENE of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-19T07:32:13.835Z,37.4382,-115.4846,14.3,0.9,ml,6.0,272.48,0.293,0.111,nn,nn00839182,2022-05-19T22:55:13.047Z,"28 km SW of Hiko, Nevada",earthquake,,22.5,0.27,4.0,reviewed,nn,nn
