@@ -20843,3 +20843,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T06:25:57.598Z,13.1375,-89.1208,67.46,4.4,mb,,137.0,0.599,0.99,us,us6000hmjk,2022-05-20T06:48:33.645Z,"41 km SSW of El Rosario, El Salvador",earthquake,5.7,7.7,0.062,77.0,reviewed,us,us
 2022-05-20T06:06:22.810Z,17.9555,-66.922,14.04,1.81,md,5.0,213.0,,0.05,pr,pr71349468,2022-05-20T06:51:12.490Z,"2 km SW of Guánica, Puerto Rico",earthquake,0.76,0.94,0.0108386090416461,5.0,reviewed,pr,pr
 2022-05-20T06:04:37.868Z,19.1834,121.0586,33.14,4.4,mb,,125.0,3.616,0.59,us,us6000hmjg,2022-05-20T06:48:47.040Z,"63 km N of Claveria, Philippines",earthquake,10.9,7.0,0.117,21.0,reviewed,us,us
+2022-05-20T07:09:05.665Z,62.4639,-152.6645,0.0,1.4,ml,,,,1.0,ak,ak0226fngk92,2022-05-20T07:10:56.818Z,"84 km NW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-20T07:05:42.830Z,38.8043327,-122.7776642,2.16,1.17,md,22.0,69.0,0.00922,0.03,nc,nc73735901,2022-05-20T07:08:25.546Z,"4km NNW of The Geysers, CA",earthquake,0.24,0.44,,3.0,automatic,nc,nc
+2022-05-20T06:56:50.363Z,63.0275,-149.8571,67.7,2.1,ml,,,,0.53,ak,ak0226fn5aqr,2022-05-20T07:07:42.838Z,"61 km SW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
