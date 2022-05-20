@@ -20903,3 +20903,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-19T20:15:19.949Z,35.00133333,-97.66583333,7.55,1.16,ml,31.0,101.0,0.1016800469,0.3,ok,ok2022jtrn,2022-05-20T13:06:04.498Z,"4 km SW of Dibble, Oklahoma",earthquake,,0.8,0.28,10.0,reviewed,ok,ok
 2022-05-19T19:25:15.199Z,35.11333333,-95.5575,2.06,1.21,ml,23.0,180.0,0.1142775748,0.23,ok,ok2022jtpw,2022-05-20T13:13:41.787Z,"10 km E of Crowder, Oklahoma",earthquake,,1.4,0.27,10.0,reviewed,ok,ok
 2022-05-20T13:46:22.120Z,19.3106670379639,-155.806503295898,7.80999994277954,2.22,ml,39.0,124.0,,0.310000002,hv,hv73018092,2022-05-20T13:51:54.050Z,"17 km SSE of Honaunau-Napoopoo, Hawaii",earthquake,0.62,0.680000007,4.54,4.0,automatic,hv,hv
+2022-05-20T14:37:26.970Z,36.1061667,-117.8836667,3.5,1.56,ml,18.0,62.0,0.02596,0.11,ci,ci40023143,2022-05-20T14:41:08.427Z,"9km NE of Coso Junction, CA",earthquake,0.19,0.34,0.217,19.0,automatic,ci,ci
