@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-21T13:54:42.900Z,33.3185005,-116.3636703,24.15,1.25,ml,24,177,0.06295,0.2,ci,ci40023655,2022-05-21T13:57:01.084Z,"7km N of Borrego Springs, CA",earthquake,2.2,2.31,0.31,18,automatic,ci,ci
+2022-05-21T13:46:57.351Z,66.9787,-155.3544,0,1.9,ml,,,,0.97,ak,ak0226hesjuo,2022-05-21T13:51:50.360Z,"67 km E of Kobuk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-21T13:37:27.600Z,38.7915001,-122.7624969,2.04,1.18,md,14,65,0.009368,0.02,nc,nc73736306,2022-05-21T13:47:12.122Z,"2km NNW of The Geysers, CA",earthquake,0.28,0.5,,1,automatic,nc,nc
 2022-05-21T13:35:19.230Z,35.909,-117.7185,4.36,0.98,ml,14,78,0.06755,0.12,ci,ci40023647,2022-05-21T13:38:53.565Z,"17km E of Little Lake, CA",earthquake,0.23,0.57,0.16,11,automatic,ci,ci
 2022-05-21T13:30:44.910Z,19.1984996795654,-155.472671508789,31.1299991607666,2.51,ml,48,92,,0.150000006,hv,hv73018967,2022-05-21T13:36:15.420Z,"0 km SE of Pāhala, Hawaii",earthquake,0.54,0.689999998,3.57,17,automatic,hv,hv

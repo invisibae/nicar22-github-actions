@@ -21141,3 +21141,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T19:03:21.220Z,46.0161667,-112.4601667,-2.0,1.37,ml,10.0,115.0,0.066,0.14,mb,mb80546579,2022-05-21T13:35:12.420Z,"5 km ENE of Butte, Montana",quarry blast,0.66,31.61,0.155,7.0,reviewed,mb,mb
 2022-05-21T13:37:27.600Z,38.7915001,-122.7624969,2.04,1.18,md,14.0,65.0,0.009368,0.02,nc,nc73736306,2022-05-21T13:47:12.122Z,"2km NNW of The Geysers, CA",earthquake,0.28,0.5,,1.0,automatic,nc,nc
 2022-05-20T17:37:07.740Z,44.3685,-115.1743333,4.84,1.52,ml,6.0,127.0,0.815,0.22,mb,mb80546564,2022-05-21T13:40:29.510Z,"25 km NW of Stanley, Idaho",earthquake,0.81,15.15,0.183,6.0,reviewed,mb,mb
+2022-05-21T13:54:42.900Z,33.3185005,-116.3636703,24.15,1.25,ml,24.0,177.0,0.06295,0.2,ci,ci40023655,2022-05-21T13:57:01.084Z,"7km N of Borrego Springs, CA",earthquake,2.2,2.31,0.31,18.0,automatic,ci,ci
+2022-05-21T13:46:57.351Z,66.9787,-155.3544,0.0,1.9,ml,,,,0.97,ak,ak0226hesjuo,2022-05-21T13:51:50.360Z,"67 km E of Kobuk, Alaska",earthquake,,0.4,,,automatic,ak,ak
