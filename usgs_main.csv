@@ -21222,3 +21222,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-21T23:16:48.442Z,64.7255,-147.5514,2.2,1.1,ml,,,,0.3,ak,ak0226hkkfql,2022-05-21T23:20:02.767Z,"8 km S of Badger, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-21T23:12:22.490Z,33.2205,-117.1576667,0.28,1.03,ml,10.0,124.0,0.1863,0.19,ci,ci40023871,2022-05-21T23:16:04.102Z,"8km ENE of Vista, CA",earthquake,0.63,31.61,0.128,11.0,automatic,ci,ci
 2022-05-21T23:34:52.420Z,19.1520004272461,-155.468826293945,32.7999992370605,1.87,md,23.0,170.0,,0.159999996,hv,hv73019387,2022-05-21T23:38:12.370Z,"5 km S of Pāhala, Hawaii",earthquake,1.02,1.29999995,1.28999996,7.0,automatic,hv,hv
+2022-05-21T23:39:19.300Z,42.991,-126.649,10.0,2.8,ml,,257.0,1.765,0.56,us,us6000hmzs,2022-05-21T23:49:05.040Z,"177 km W of Port Orford, Oregon",earthquake,11.1,2.0,0.048,56.0,reviewed,us,us
+2022-05-21T23:30:11.000Z,17.9186666666667,-66.8996666666667,9.54,1.94,md,5.0,272.0,,0.09,pr,pr71349808,2022-05-21T23:49:21.340Z,Puerto Rico region,earthquake,0.79,1.11,0.0725926827974921,4.0,reviewed,pr,pr
