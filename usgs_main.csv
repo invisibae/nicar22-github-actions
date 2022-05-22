@@ -21248,3 +21248,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-22T03:08:50.250Z,38.7859993,-122.7316666,0.84,0.87,md,5.0,191.0,0.004821,0.01,nc,nc73736471,2022-05-22T03:25:14.137Z,"2km ENE of The Geysers, CA",earthquake,1.02,0.83,,1.0,automatic,nc,nc
 2022-05-22T03:01:24.519Z,65.1519,-148.9698,13.0,1.2,ml,,,,0.51,ak,ak0226iw3ujn,2022-05-22T03:22:29.381Z,"17 km E of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-21T23:30:54.907Z,61.248,-146.7918,14.6,1.4,ml,,,,0.86,ak,ak0226hknf4r,2022-05-22T03:42:07.105Z,"27 km WNW of Valdez, Alaska",earthquake,,0.7,,,reviewed,ak,ak
+2022-05-22T03:57:00.609Z,64.7094,-149.2486,9.4,1.6,ml,,,,0.74,ak,ak0226iwfssa,2022-05-22T03:59:21.577Z,"13 km NNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-22T03:44:32.580Z,38.8180008,-122.7638321,1.85,1.38,md,25.0,113.0,0.01333,0.04,nc,nc73736486,2022-05-22T03:55:10.297Z,"4km W of Cobb, CA",earthquake,0.26,0.36,0.12,6.0,automatic,nc,nc
+2022-05-22T03:21:51.570Z,18.0231666666667,-67.3963333333333,2.62,2.97,md,28.0,252.0,,0.37,pr,pr71349908,2022-05-22T03:52:53.060Z,"22 km WSW of Puerto Real, Puerto Rico",earthquake,0.91,0.65,0.165935684352996,16.0,reviewed,pr,pr
