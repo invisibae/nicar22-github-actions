@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-27T19:06:55.030Z,33.781,-117.8478333,15.69,1.77,ml,42,95,0.06795,0.2,ci,ci40028599,2022-05-27T19:18:00.030Z,"3km SSW of Orange, CA",earthquake,0.31,0.39,0.193,30,automatic,ci,ci
 2022-05-27T19:05:41.270Z,32.7073333,-115.4285,1.1,1.45,ml,11,169,0.1543,0.22,ci,ci40028583,2022-05-27T19:09:59.146Z,"7km NNE of Mexicali, B.C., MX",earthquake,0.83,31.61,0.131,16,automatic,ci,ci
 2022-05-27T19:04:07.310Z,38.8216667,-122.7938309,7.27,0.84,md,13,106,0.01281,0.08,nc,nc73738766,2022-05-27T19:39:10.535Z,"6km NNW of The Geysers, CA",earthquake,0.68,1,,1,automatic,nc,nc
-2022-05-27T18:28:05.510Z,38.8323326,-122.8154984,1.53,0.77,md,10,71,0.01681,0.02,nc,nc73738761,2022-05-27T19:42:10.547Z,"8km NW of The Geysers, CA",earthquake,0.34,0.69,0.4,3,automatic,nc,nc
+2022-05-27T18:28:05.510Z,38.8323326,-122.8154984,1.53,0.77,md,10,71,0.01681,0.02,nc,nc73738761,2022-05-27T19:48:13.593Z,"8km NW of The Geysers, CA",earthquake,0.34,0.69,0.4,3,automatic,nc,nc
 2022-05-27T18:22:42.428Z,8.4395,-102.9746,10,4.9,mb,,58,10.032,0.68,us,us7000hd59,2022-05-27T19:13:24.960Z,"northern East Pacific Rise",earthquake,10.6,1.9,0.027,429,reviewed,us,us
 2022-05-27T18:01:03.250Z,33.6595,-116.7621667,12.84,0.7,ml,30,90,0.06525,0.08,ci,ci40028543,2022-05-27T18:23:14.960Z,"10km SSW of Idyllwild, CA",earthquake,0.15,0.27,0.245,8,reviewed,ci,ci
 2022-05-27T17:59:10.684Z,61.7854,-149.7783,34.6,1.1,ml,,,,0.87,ak,ak0226reh1ww,2022-05-27T18:01:55.243Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
