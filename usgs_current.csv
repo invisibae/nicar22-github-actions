@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-28T17:49:33.250Z,19.1573333740234,-155.371002197266,28.8500003814697,1.76,ml,48,178,,0.140000001,hv,hv73026007,2022-05-28T17:55:04.700Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.5,0.819999993,4.57,9,automatic,hv,hv
+2022-05-28T17:49:02.393Z,62.3347,-150.3928,20.3,1.7,ml,,,,0.8,ak,ak0226t1y8ms,2022-05-28T17:51:32.719Z,"8 km WNW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-28T17:45:27.523Z,60.5101,-151.3933,50.2,0.8,ml,,,,0.39,ak,ak0226t1xfps,2022-05-28T17:47:51.823Z,"8 km SW of Kenai, Alaska",earthquake,,2,,,automatic,ak,ak
 2022-05-28T17:43:37.210Z,19.2043342590332,-155.497161865234,32.4700012207031,2.1,ml,38,69,,0.180000007,hv,hv73026002,2022-05-28T17:49:17.020Z,"1 km W of Pāhala, Hawaii",earthquake,0.72,1.04999995,3.6,6,automatic,hv,hv
 2022-05-28T17:37:01.311Z,63.1417,-150.6132,122.1,1.5,ml,,,,0.36,ak,ak0226t1vo0c,2022-05-28T17:39:42.146Z,"71 km SE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
