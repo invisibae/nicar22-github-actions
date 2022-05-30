@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-30T20:06:07.230Z,34.1835,-116.7495,1.65,1.11,ml,21,140,0.1557,0.35,ci,ci40030599,2022-05-30T20:09:47.150Z,"12km SE of Big Bear City, CA",earthquake,0.73,3.95,0.174,29,automatic,ci,ci
 2022-05-30T19:36:57.180Z,19.158332824707,-155.479507446289,32.5999984741211,2.13,ml,40,156,,0.170000002,hv,hv73028287,2022-05-30T19:48:30.040Z,"4 km S of Pāhala, Hawaii",earthquake,0.64,1.05999994,4.15,15,automatic,hv,hv
 2022-05-30T19:32:17.920Z,69.6269,-144.8194,0.2,2.2,ml,,,,0.68,ak,ak0226we46v4,2022-05-30T19:44:31.804Z,"72 km SW of Kaktovik, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-05-30T19:19:05.400Z,61.7356,-148.1629,16.6,0.8,ml,,,,0.71,ak,ak0226we1dla,2022-05-30T19:34:16.161Z,"17 km ESE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-30T18:45:48.036Z,36.7724,-116.2723,5.1,0.4,ml,15,68.53,0.057,0.1217,nn,nn00839946,2022-05-30T19:18:27.475Z,"45 km ESE of Beatty, Nevada",earthquake,,1.7,0.96,6,reviewed,nn,nn
+2022-05-30T18:44:22.084Z,-21.7071,-173.4339,10,4.9,mb,,80,8.603,0.39,us,us7000hdni,2022-05-30T20:11:40.040Z,"162 km ESE of ‘Ohonua, Tonga",earthquake,10.2,1.5,0.084,48,reviewed,us,us
 2022-05-30T18:44:13.910Z,37.3768349,-118.689003,11.72,2.37,md,26,54,0.1029,0.06,nc,nc73739391,2022-05-30T19:29:10.568Z,"9km WSW of Round Valley, CA",earthquake,0.27,1.15,0.2,27,automatic,nc,nc
 2022-05-30T18:39:38.613Z,58.6272,-153.7218,88.8,2.7,ml,,,,0.42,ak,ak0226wdkav9,2022-05-30T18:52:50.854Z,"79 km NW of Aleneva, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-05-30T18:39:24.447Z,60.06,-153.3698,120.1,2.6,ml,,,,0.87,ak,ak0226wdk9og,2022-05-30T19:23:39.094Z,"51 km NE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
