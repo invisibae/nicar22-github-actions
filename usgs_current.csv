@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-02T19:17:58.130Z,37.9884987,-122.4506683,1.41,1.56,md,7,182,0.02326,0.05,nc,nc73740121,2022-06-02T19:20:25.248Z,"7km E of Santa Venetia, CA",earthquake,0.58,0.57,0.15,7,automatic,nc,nc
+2022-06-02T19:21:25.086Z,60.1801,-141.3623,7.6,1.1,ml,,,,1.13,ak,ak02271cnw0s,2022-06-02T19:23:22.490Z,"115 km NW of Yakutat, Alaska",earthquake,,1,,,automatic,ak,ak
+2022-06-02T19:17:58.130Z,37.9884987,-122.4506683,1.41,1.56,md,7,182,0.02326,0.05,nc,nc73740121,2022-06-02T19:28:11.339Z,"7km E of Santa Venetia, CA",earthquake,0.58,0.57,0.15,7,automatic,nc,nc
 2022-06-02T19:17:12.300Z,35.7461667,-117.5666667,4.64,1.41,ml,18,151,0.07382,0.19,ci,ci40032655,2022-06-02T19:20:44.441Z,"15km W of Searles Valley, CA",earthquake,0.39,0.73,0.138,17,automatic,ci,ci
 2022-06-02T18:54:31.732Z,8.9694,126.4904,39.35,5.5,mww,,56,2.092,0.92,us,us7000hefw,2022-06-02T19:21:50.249Z,"21 km ENE of Aras-asan, Philippines",earthquake,8.7,7.1,0.066,22,reviewed,us,us
 2022-06-02T18:52:49.348Z,31.60992991,-103.9774122,8.008251953,2.2,ml,8,82,0.1254162628,0.1,tx,tx2022ktdw,2022-06-02T19:12:22.780Z,"37 km NNW of Toyah, Texas",earthquake,2.092157922,2.443616799,0.1,6,reviewed,tx,tx
@@ -44,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-02T12:18:10.465Z,52.19,-169.8399,40.85,4,mb,,184,1.693,1.09,us,us7000hebn,2022-06-02T17:26:25.059Z,"106 km SW of Nikolski, Alaska",earthquake,10.8,12.8,0.096,29,reviewed,us,us
 2022-06-02T12:16:31.670Z,-55.9953,-144.0576,10,5.4,mww,,28,27.593,0.94,us,us7000hebv,2022-06-02T14:19:45.867Z,"Pacific-Antarctic Ridge",earthquake,10.5,1.7,0.093,11,reviewed,us,us
 2022-06-02T12:14:21.080Z,38.0716667,-121.9748306,16.72,1.57,md,6,217,0.05525,0.04,nc,nc73740056,2022-06-02T13:58:41.034Z,"5km NNW of Bay Point, CA",earthquake,1.26,1.4,0.14,6,reviewed,nc,nc
-2022-06-02T12:07:22.230Z,38.0765,-122.0076667,18.43,4.14,mw,202,24,0.04994,0.25,nc,nc73740051,2022-06-02T19:20:49.367Z,"7km NW of Bay Point, CA",earthquake,0.17,0.24,,4,reviewed,nc,nc
+2022-06-02T12:07:22.230Z,38.0765,-122.0076667,18.43,4.14,mw,202,24,0.04994,0.25,nc,nc73740051,2022-06-02T19:26:04.762Z,"7km NW of Bay Point, CA",earthquake,0.17,0.24,,4,reviewed,nc,nc
 2022-06-02T11:55:43.911Z,9.024,126.1449,77.6,4.6,mb,,97,2.021,1.32,us,us7000hebj,2022-06-02T12:31:22.040Z,"3 km NW of Gamut, Philippines",earthquake,10.5,6.7,0.053,112,reviewed,us,us
 2022-06-02T11:28:44.340Z,34.0433333,-117.1726667,7.29,0.69,ml,31,110,0.05065,0.17,ci,ci40032359,2022-06-02T14:35:54.596Z,"2km SSE of Redlands, CA",earthquake,0.24,0.6,0.145,7,reviewed,ci,ci
 2022-06-02T11:21:43.690Z,32.8583333,-116.1738333,6.26,0.91,ml,37,74,0.09253,0.19,ci,ci40032351,2022-06-02T18:45:19.874Z,"22km NW of Ocotillo, CA",earthquake,0.23,0.94,0.135,12,reviewed,ci,ci
@@ -161,4 +162,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-01T20:10:14.870Z,34.1768333,-117.5226667,2.54,1.54,ml,35,42,0.08049,0.23,ci,ci40031927,2022-06-01T20:21:29.280Z,"8km NE of Rancho Cucamonga, CA",earthquake,0.32,0.62,0.14,30,automatic,ci,ci
 2022-06-01T20:00:24.400Z,32.8971667,-116.9581667,2.4,1.39,ml,29,130,0.09487,0.31,ci,ci40031903,2022-06-01T20:04:07.562Z,"6km NW of Lakeside, CA",earthquake,0.66,0.87,0.151,27,automatic,ci,ci
 2022-06-01T19:42:55.899Z,35.9151,140.1639,69.98,4.5,mb,,123,1.704,0.72,us,us7000he6c,2022-06-02T15:18:02.380Z,"2 km NW of Ryūgasaki, Japan",earthquake,6.6,7,0.054,100,reviewed,us,us
-2022-06-01T19:27:00.926Z,59.2113,-153.8061,121.3,1.6,ml,,,,0.56,ak,ak0226zp5rya,2022-06-01T19:30:41.293Z,"54 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.4,,,automatic,ak,ak
