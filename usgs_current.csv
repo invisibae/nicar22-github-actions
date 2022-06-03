@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-06-03T09:22:42.705Z,36.99091339,-97.48461151,1.457876563,1.93,ml,31,115.8829603,0.02259443142,0.3916672642,ok,ok2022kugn,2022-06-03T09:26:01.479Z,"7 km WSW of Hunnewell, Kansas",earthquake,3.082242671,1.943322784,,25,automatic,ok,ok
+2022-06-03T09:07:48.904Z,-19.2086,-69.3645,111.13,4.4,mb,,89,0.484,0.58,us,us7000hel6,2022-06-03T09:32:26.040Z,"127 km SE of Arica, Chile",earthquake,4.9,5.2,0.114,22,reviewed,us,us
 2022-06-03T08:20:44.110Z,19.4106674194336,-155.412002563477,3.26999998092651,2.05,ml,42,37,,0.200000003,hv,hv73032187,2022-06-03T08:26:15.360Z,"19 km W of Volcano, Hawaii",earthquake,0.38,1.60000002,0.27,5,automatic,hv,hv
 2022-06-03T08:17:40.720Z,33.5916667,-116.2086667,3.27,0.59,ml,16,100,0.02176,0.19,ci,ci40032967,2022-06-03T08:21:20.452Z,"8km SW of Thermal, CA",earthquake,0.63,0.69,0.203,5,automatic,ci,ci
 2022-06-03T08:10:56.430Z,17.9358333333333,-66.936,8.49,2.1,md,6,235,,0.1,pr,pr71352133,2022-06-03T08:59:49.250Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.7,1.17,0.138838404812194,5,reviewed,pr,pr
