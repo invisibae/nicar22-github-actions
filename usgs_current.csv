@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-08T06:35:43.360Z,34.3181648,-116.8453369,5.57,1.08,ml,26,61,0.03325,0.17,ci,ci40036031,2022-06-08T06:37:54.055Z,"6km N of Big Bear City, CA",earthquake,0.41,0.69,0.223,5,automatic,ci,ci
+2022-06-08T06:33:12.280Z,34.3161667,-116.8545,3.91,0.88,ml,13,72,0.03886,0.22,ci,ci40036023,2022-06-08T06:36:49.155Z,"6km N of Big Bear City, CA",earthquake,0.54,1.16,0.076,15,automatic,ci,ci
+2022-06-08T06:23:57.540Z,33.4111667,-116.9725,0.03,0.43,ml,14,218,0.2496,0.27,ci,ci40036015,2022-06-08T06:27:43.989Z,"11km WSW of Aguanga, CA",earthquake,1.94,12.66,0.014,2,automatic,ci,ci
+2022-06-08T06:18:31.560Z,19.1588325500488,-155.46549987793,33.4199981689453,2.1400001,md,38,167,,0.109999999,hv,hv73037787,2022-06-08T06:21:51.480Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.57,0.790000021,1.84000003,10,automatic,hv,hv
 2022-06-08T06:08:24.980Z,19.2378330230713,-155.40283203125,32.7900009155273,1.85000002,md,38,136,,0.109999999,hv,hv73037777,2022-06-08T06:11:38.550Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.66,1,1.63,6,automatic,hv,hv
 2022-06-08T05:55:53.150Z,34.3173333,-116.8405,4.92,1.24,ml,31,40,0.03246,0.2,ci,ci40036007,2022-06-08T06:06:38.070Z,"6km N of Big Bear City, CA",earthquake,0.29,0.94,0.187,29,automatic,ci,ci
 2022-06-08T05:55:44.770Z,38.7727,-117.9664,3.7,1.5,ml,17,144.87,0.295,0.123,nn,nn00840554,2022-06-08T05:59:19.473Z,"11 km SSW of Gabbs, Nevada",earthquake,,2,0.31,11,automatic,nn,nn
@@ -25,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-08T02:43:48.415Z,51.5019,-179.9108,73.6,3.9,mb,,208,0.516,0.4,us,us7000hft4,2022-06-08T03:39:06.176Z,"230 km WSW of Adak, Alaska",earthquake,8.1,8.3,0.1,26,reviewed,us,us
 2022-06-08T02:42:48.900Z,17.9198333333333,-66.8656666666667,12.31,1.91,md,6,224,,0.22,pr,pr71352883,2022-06-08T02:54:57.290Z,"6 km SSE of Maria Antonia, Puerto Rico",earthquake,1.5,0.79,0.135180727620366,6,reviewed,pr,pr
 2022-06-08T02:37:27.049Z,60.2543,-152.5491,82,1.1,ml,,,,0.31,ak,ak0227azv1b4,2022-06-08T02:40:41.309Z,"53 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-06-08T01:55:08.564Z,60.4253,-141.2034,0,1.9,ml,,,,1.19,ak,ak0227azdf60,2022-06-08T01:57:12.950Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-06-08T01:55:08.564Z,60.4253,-141.2034,0,1.9,ml,,,,1.19,ak,ak0227azdf60,2022-06-08T01:57:12.950Z,"127 km NW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-08T01:53:29.290Z,-9.0967,-71.2127,603.79,4.8,mb,,69,2.005,0.89,us,us7000hfsx,2022-06-08T02:06:01.040Z,"114 km SSW of Tarauacá, Brazil",earthquake,8.9,9.1,0.028,388,reviewed,us,us
 2022-06-08T01:27:14.270Z,34.3191667,-116.8381667,4.69,1.53,ml,38,54,0.03012,0.2,ci,ci40035879,2022-06-08T02:04:21.139Z,"6km N of Big Bear City, CA",earthquake,0.27,0.87,0.177,28,automatic,ci,ci
 2022-06-08T01:03:53.610Z,17.9623333333333,-66.9103333333333,11.9,1.72,md,5,204,,0.11,pr,pr71352848,2022-06-08T01:36:22.850Z,"1 km SSW of Guánica, Puerto Rico",earthquake,0.92,0.58,0.0845733244266963,4,reviewed,pr,pr
@@ -202,5 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-07T06:55:07.790Z,19.1423333333333,-155.372,30.79,1.55,md,29,223,,0.11,hv,hv73036612,2022-06-07T23:56:54.000Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.64,0.62,0.118413544647962,15,reviewed,hv,hv
 2022-06-07T06:51:07.400Z,35.2678333,-118.6301667,7.66,1.12,ml,22,94,0.06039,0.16,ci,ci40035367,2022-06-07T15:59:10.556Z,"19km ENE of Arvin, CA",earthquake,0.24,0.58,0.214,8,reviewed,ci,ci
 2022-06-07T06:39:59.230Z,40.7956667,-111.9668333,4.44,0.68,md,5,160,0.06163,0.08,uu,uu60500702,2022-06-07T15:19:07.540Z,"7 km WNW of Salt Lake City, Utah",earthquake,0.87,2.74,0.397,5,reviewed,uu,uu
-2022-06-07T06:36:15.720Z,37.103,-121.5591667,5.38,1.48,md,48,56,0.06808,0.14,nc,nc73741101,2022-06-07T16:24:10.104Z,"5km ENE of San Martin, CA",earthquake,0.25,0.62,0.262,38,reviewed,nc,nc
-2022-06-07T06:22:29.600Z,19.1716666666667,-155.489833333333,34.25,1.52,md,23,148,,0.1,hv,hv73036572,2022-06-07T23:52:35.722Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.62,0.88,0.111197251489835,13,reviewed,hv,hv
