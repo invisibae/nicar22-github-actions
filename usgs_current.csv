@@ -214,5 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-07T18:04:44.530Z,35.9155,-117.7031667,9.85,0.32,ml,11,63,0.05367,0.07,ci,ci40035607,2022-06-07T20:29:47.914Z,"18km E of Little Lake, CA",earthquake,0.22,0.45,0.281,7,reviewed,ci,ci
 2022-06-07T17:57:10.110Z,19.156665802002,-155.476501464844,34.1399993896484,2.16000009,md,39,131,,0.129999995,hv,hv73037112,2022-06-07T18:02:40.930Z,"5 km S of Pāhala, Hawaii",earthquake,0.65,1.19000006,1.87,18,automatic,hv,hv
 2022-06-07T17:47:56.640Z,44.2225,-110.6486667,4.89,0.17,md,6,122,0.09625,0.14,uu,uu60500772,2022-06-07T19:14:07.800Z,"55 km ENE of Warm River, Idaho",earthquake,0.72,1.2,0.532,3,reviewed,uu,uu
-2022-06-07T17:42:50.090Z,44.1951667,-110.6118333,7.87,0.69,md,8,161,0.09156,0.2,uu,uu60500767,2022-06-07T19:03:49.660Z,"57 km E of Warm River, Idaho",earthquake,0.87,1.09,0.271,6,reviewed,uu,uu
-2022-06-07T17:41:27.840Z,62.4658,-148.2563,42.2,1.4,ml,,,,0.64,ak,ak02279la1tc,2022-06-07T17:43:29.623Z,"75 km N of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
