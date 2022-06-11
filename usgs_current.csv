@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T10:58:25.710Z,33.638,-116.6743333,6.98,0.21,ml,9,121,0.06597,0.17,ci,ci40038303,2022-06-11T11:02:06.310Z,"9km N of Anza, CA",earthquake,0.49,1.2,0.221,5,automatic,ci,ci
 2022-06-11T09:48:08.395Z,36.6219,-115.6291,7.4,1.3,ml,21,135.78,0.305,0.2262,nn,nn00840779,2022-06-11T09:51:37.922Z,"6 km NNE of Indian Springs, Nevada",earthquake,,1.1,0.31,15,automatic,nn,nn
 2022-06-11T09:47:40.670Z,17.8915,-66.9431666666667,11.39,2.25,md,6,242,,0.09,pr,pr71353528,2022-06-11T10:21:44.790Z,"9 km SSW of Guánica, Puerto Rico",earthquake,0.81,0.59,0.024879346498887,2,reviewed,pr,pr
-2022-06-11T09:42:55.311Z,-65.1963,177.8779,10,5.7,mww,,112,13.15,0.67,us,us7000hgq1,2022-06-11T10:20:09.583Z,"Balleny Islands region",earthquake,6.8,1.9,0.098,10,reviewed,us,us
+2022-06-11T09:42:55.311Z,-65.1963,177.8779,10,5.7,mww,,112,13.15,0.67,us,us7000hgq1,2022-06-11T11:46:26.689Z,"Balleny Islands region",earthquake,6.8,1.9,0.098,10,reviewed,us,us
 2022-06-11T09:37:43.060Z,17.9683333333333,-67.0046666666667,7.98,2.34,md,11,204,,0.11,pr,pr71353523,2022-06-11T10:16:38.700Z,"4 km E of La Parguera, Puerto Rico",earthquake,0.5,1.54,0.0911142500175861,4,reviewed,pr,pr
 2022-06-11T09:32:40.310Z,32.3451667,-115.3116667,8.67,1.83,ml,16,119,0.07433,0.25,ci,ci40038295,2022-06-11T09:36:24.541Z,"11km W of Delta, B.C., MX",earthquake,0.61,1.96,0.283,19,automatic,ci,ci
 2022-06-11T09:23:53.433Z,-14.8166,-72.4821,102.3,4.6,mb,,124,3.99,0.72,us,us7000hgpu,2022-06-11T10:01:54.040Z,"35 km NE of Puyca, Peru",earthquake,9.2,9.5,0.044,159,reviewed,us,us
@@ -186,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-10T12:14:12.650Z,17.696,-67.104,6.96,2.57,md,3,349,,0.06,pr,pr71353383,2022-06-11T04:09:41.355Z,"31 km S of La Parguera, Puerto Rico",earthquake,5.18,8.17,0.118362908889155,2,reviewed,pr,pr
 2022-06-10T12:08:01.784Z,-0.172,122.8886,86.48,4.7,mb,,51,0.871,0.56,us,us7000hgga,2022-06-10T12:27:56.040Z,"80 km SSW of Gorontalo, Indonesia",earthquake,6.2,4.7,0.076,53,reviewed,us,us
 2022-06-10T12:04:40.000Z,61.5266,-146.4246,33.3,1.3,ml,,,,0.6,ak,ak0227egp0ps,2022-06-10T12:07:47.247Z,"44 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-06-10T11:51:02.690Z,53.8537,-166.6462,8.2,0.1,ml,,,,0.09,ak,ak0227egdkvx,2022-06-11T08:08:01.681Z,"7 km WSW of Unalaska, Alaska",earthquake,,0.7,,,reviewed,ak,ak
