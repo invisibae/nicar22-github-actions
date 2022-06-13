@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-13T11:57:13.470Z,33.2425003,-116.104332,9.03,1.29,ml,21,83,0.1265,0.2,ci,ci40039495,2022-06-13T11:59:18.594Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.37,1.18,0.571,10,automatic,ci,ci
+2022-06-13T11:54:34.210Z,33.2453333,-116.1048333,4.55,0.99,ml,25,65,0.1284,0.29,ci,ci40039487,2022-06-13T11:58:12.989Z,"12km NNE of Ocotillo Wells, CA",earthquake,0.44,1.65,0.179,23,automatic,ci,ci
 2022-06-13T11:31:51.457Z,64.7172,-150.5925,21.5,1,ml,,,,0.93,ak,ak0227jevfsx,2022-06-13T11:34:19.185Z,"31 km S of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-13T11:28:07.790Z,34.46,-117.9261667,10.1,1.27,ml,35,54,0.02656,0.23,ci,ci40039471,2022-06-13T11:38:46.590Z,"5km SSW of Pearblossom, CA",earthquake,0.3,0.51,0.172,26,automatic,ci,ci
 2022-06-13T11:22:40.530Z,19.2506675720215,-155.376007080078,34.3499984741211,1.85000002,md,35,191,,0.129999995,hv,hv73042792,2022-06-13T11:25:47.970Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.72,0.970000029,1.08000004,10,automatic,hv,hv
