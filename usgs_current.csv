@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-13T13:54:56.732Z,61.1452,-147.5774,5.3,1.1,ml,,,,0.67,ak,ak0227jg78w9,2022-06-13T13:56:58.681Z,"57 km WNW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-13T13:53:53.804Z,62.6656,-145.4693,0,1.3,ml,,,,0.75,ak,ak0227jg70yc,2022-06-13T13:55:43.630Z,"41 km NNW of Gakona, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-13T13:45:21.023Z,61.2443,-146.778,35.8,1.8,ml,,,,0.77,ak,ak0227jg58p2,2022-06-13T13:47:40.499Z,"26 km WNW of Valdez, Alaska",earthquake,,6.3,,,automatic,ak,ak
 2022-06-13T13:05:40.124Z,38.1766,-117.8942,4.1,0.8,ml,8,171.59,0.075,0.0976,nn,nn00840825,2022-06-13T13:09:45.199Z,"30 km SE of Mina, Nevada",earthquake,,3.7,0.54,6,automatic,nn,nn
@@ -170,6 +171,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-12T18:49:13.810Z,38.8359985,-122.8065033,1.68,1.18,md,18,53,0.01285,0.05,nc,nc73744476,2022-06-12T19:36:10.316Z,"7km WNW of Cobb, CA",earthquake,0.25,0.59,,1,automatic,nc,nc
 2022-06-12T18:44:45.581Z,23.8609,-108.9621,10,4.2,mb,,190,0.916,1.68,us,us7000hgyx,2022-06-12T19:46:27.040Z,"70 km ENE of La Rivera, Mexico",earthquake,8.6,2,0.081,42,reviewed,us,us
 2022-06-12T18:43:53.539Z,60.6288,-150.0627,26.8,1.6,ml,,,,0.67,ak,ak0227hvkpax,2022-06-12T18:45:45.941Z,"20 km NW of Cooper Landing, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-06-12T18:40:02.260Z,33.2181667,-115.618,14.62,1.6,ml,9,148,0.03515,0.17,ci,ci40038935,2022-06-13T13:57:34.697Z,"10km WSW of Niland, CA",earthquake,0.64,0.7,0.367,7,reviewed,ci,ci
 2022-06-12T18:35:21.397Z,38.8216,43.5221,10,5.2,mww,,42,0.625,0.8,us,us7000hgyu,2022-06-13T13:41:22.465Z,"26 km SSE of Erciş, Turkey",earthquake,3.2,1.9,0.086,13,reviewed,us,us
 2022-06-12T18:28:44.590Z,36.3436661,-120.9146652,6.77,2.81,md,47,102,0.03952,0.1,nc,nc73744471,2022-06-13T01:13:44.593Z,"23km WSW of New Idria, CA",earthquake,0.26,0.63,0.17,56,automatic,nc,nc
 2022-06-12T18:20:57.180Z,38.8156662,-122.8164978,2.51,0.74,md,19,49,0.009206,0.02,nc,nc73744466,2022-06-12T18:55:10.058Z,"7km NW of The Geysers, CA",earthquake,0.26,0.62,0.1,2,automatic,nc,nc
