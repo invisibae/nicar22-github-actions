@@ -24,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-17T11:08:28.530Z,19.2215003967285,-155.406661987305,33.2999992370605,2.35,ml,43,143,,0.129999995,hv,hv73046782,2022-06-17T11:21:00.040Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.52,0.689999998,3.9,6,automatic,hv,hv
 2022-06-17T11:08:02.510Z,37.3388329,-122.2036667,8.66,2.45,md,44,53,0.02422,0.12,nc,nc73746671,2022-06-17T13:41:03.279Z,"6km SSE of Portola Valley, CA",earthquake,0.19,0.37,0.14,52,automatic,nc,nc
 2022-06-17T10:55:32.630Z,38.8318329,-122.8138351,2.15,0.97,md,23,43,0.008923,0.02,nc,nc73746661,2022-06-17T11:58:14.320Z,"8km NW of The Geysers, CA",earthquake,0.21,0.44,0.1,4,automatic,nc,nc
-2022-06-17T10:48:11.270Z,18.4946,-62.9751,29.4,4.8,mww,,32,0.452,0.54,us,us7000hi2s,2022-06-17T13:49:05.707Z,"31 km NNE of The Valley, Anguilla",earthquake,6.1,5.2,0.098,10,reviewed,us,us
+2022-06-17T10:48:11.270Z,18.4946,-62.9751,29.4,4.8,mww,,32,0.452,0.54,us,us7000hi2s,2022-06-17T13:56:02.939Z,"31 km NNE of The Valley, Anguilla",earthquake,6.1,5.2,0.098,10,reviewed,us,us
 2022-06-17T10:45:33.790Z,33.6383333,-116.7431667,15.77,0.64,ml,22,90,0.04783,0.14,ci,ci40285992,2022-06-17T10:49:11.487Z,"11km NW of Anza, CA",earthquake,0.36,0.67,0.149,18,automatic,ci,ci
 2022-06-17T10:42:18.815Z,61.5511,-147.4529,82.5,1.1,ml,,,,1.11,ak,ak0227q0hojd,2022-06-17T10:44:07.383Z,"30 km SSE of Glacier View, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-06-17T10:22:07.710Z,33.1718333,-116.127,8.94,0.8,ml,18,111,0.0379,0.2,ci,ci40285976,2022-06-17T10:25:40.350Z,"3km N of Ocotillo Wells, CA",earthquake,0.51,0.84,0.162,7,automatic,ci,ci
@@ -180,6 +180,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-16T18:35:41.920Z,39.434,-110.3143333,-1.12,1.45,md,6,192,0.01293,0.11,uu,uu60502037,2022-06-16T18:42:55.850Z,"14 km SSE of Sunnyside, Utah",earthquake,1.45,0.79,0.14,6,reviewed,uu,uu
 2022-06-16T18:29:21.236Z,18.429,-81.74,10,5,mb,,33,3.999,0.92,us,us7000hhxe,2022-06-17T05:01:49.978Z,"102 km SSW of George Town, Cayman Islands",earthquake,6.8,1.9,0.025,508,reviewed,us,us
 2022-06-16T18:22:24.760Z,33.6541667,-116.69,17.7,0.52,ml,19,59,0.01996,0.08,ci,ci40285376,2022-06-16T18:48:10.439Z,"10km SSE of Idyllwild, CA",earthquake,0.24,0.34,0.134,13,reviewed,ci,ci
+2022-06-16T18:19:33.100Z,47.7533333,-113.8361667,6.29,0.22,ml,6,201,0.162,0.02,mb,mb80548979,2022-06-17T13:55:02.620Z,"17 km E of Finley Point, Montana",earthquake,0.65,3.28,,0,reviewed,mb,mb
 2022-06-16T18:13:34.000Z,17.9718333333333,-68.6095,42.09,3.59,md,18,203,,0.46,pr,pr71354388,2022-06-16T21:41:28.040Z,"44 km S of Boca de Yuma, Dominican Republic",earthquake,2.66,8.66,0.0719200459340192,15,reviewed,pr,pr
 2022-06-16T18:12:03.390Z,38.8088341,-122.8134995,2.52,0.49,md,16,55,0.01225,0.02,nc,nc73746336,2022-06-16T18:47:24.302Z,"6km NW of The Geysers, CA",earthquake,0.31,0.71,0.35,2,automatic,nc,nc
 2022-06-16T18:04:23.030Z,37.2108333,-121.5466667,2.81,0.76,md,12,62,0.02692,0.12,nc,nc73746331,2022-06-17T00:02:15.147Z,"13km NE of Morgan Hill, CA",earthquake,0.34,0.62,0.191,12,reviewed,nc,nc
