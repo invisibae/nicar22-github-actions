@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-22T14:34:21.966Z,62.7453,-150.0025,116.6,1.9,ml,,,,1.35,ak,ak0227ycifxw,2022-06-22T14:37:02.094Z,"33 km N of Chase, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-06-22T14:30:46.410Z,19.2346668243408,-155.396835327148,32.7900009155273,1.84000003,md,33,145,,0.129999995,hv,hv73051817,2022-06-22T14:34:03.440Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.66,0.860000014,,4,automatic,hv,hv
 2022-06-22T14:06:46.520Z,33.4195,-116.9198333,5.53,2.3,ml,82,23,0.08129,0.26,ci,ci40289088,2022-06-22T14:20:12.975Z,"6km WSW of Aguanga, CA",earthquake,0.19,0.94,0.165,25,automatic,ci,ci
 2022-06-22T14:03:20.779Z,63.7468,-149.231,0,3,ml,,,,0.9,ak,ak0227ycbsll,2022-06-22T14:05:23.576Z,"15 km W of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-22T13:57:15.309Z,63.199,-150.5788,108,1.5,ml,,,,0.59,ak,ak0227yc1xai,2022-06-22T14:00:02.232Z,"68 km SE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -151,7 +153,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-21T21:05:23.549Z,60.3126,-144.5094,46,1.2,ml,,,,0.93,ak,ak0227wsywyo,2022-06-21T21:08:04.730Z,"73 km ESE of Cordova, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2022-06-21T21:02:16.210Z,37.3303337,-121.6955032,7.64,1.12,md,8,84,0.04367,0.05,nc,nc73749191,2022-06-22T00:58:15.743Z,"12km ESE of Alum Rock, CA",earthquake,0.4,0.91,0.2,6,automatic,nc,nc
 2022-06-21T21:01:12.740Z,35.7648333,-117.5758333,6.78,1.1,ml,16,145,0.05377,0.12,ci,ci40288728,2022-06-21T22:23:03.349Z,"16km W of Searles Valley, CA",earthquake,0.27,0.4,0.087,5,reviewed,ci,ci
-2022-06-21T20:54:36.148Z,33.0924,69.5135,10,5.9,mwb,,16,1.496,0.89,us,us7000hj3u,2022-06-22T14:25:34.281Z,"46 km SW of Khōst, Afghanistan",earthquake,6.7,1.7,0.028,127,reviewed,us,us
+2022-06-21T20:54:36.148Z,33.0924,69.5135,10,5.9,mwb,,16,1.496,0.89,us,us7000hj3u,2022-06-22T14:32:15.945Z,"46 km SW of Khōst, Afghanistan",earthquake,6.7,1.7,0.028,127,reviewed,us,us
 2022-06-21T20:49:48.130Z,34.50616667,-97.22683333,0,1.78,ml,22,126,0.1214761622,0.35,ok,ok2022mcag,2022-06-21T21:23:14.221Z,"9 km W of Davis, Oklahoma",quarry blast,,0.7,0.16,4,reviewed,ok,ok
 2022-06-21T20:36:20.830Z,37.7853333,-113.1726667,8.52,1.07,ml,6,143,0.2013,0.08,uu,uu60503017,2022-06-21T22:12:31.060Z,"13 km W of Enoch, Utah",earthquake,0.51,2.15,0.137,2,reviewed,uu,uu
 2022-06-21T20:32:54.041Z,36.684,-116.3291,8.7,-0.4,ml,5,171.25,0.028,0.0919,nn,nn00841436,2022-06-22T02:40:05.916Z,"California-Nevada border region",earthquake,,4.1,0,1,reviewed,nn,nn
@@ -212,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-21T15:04:43.212Z,38.2469,-118.3537,9.6,-0.1,ml,7,232.3,0.119,0.051,nn,nn00841431,2022-06-22T02:40:05.062Z,"26 km SW of Mina, Nevada",earthquake,,5.3,0,1,reviewed,nn,nn
 2022-06-21T14:57:12.560Z,60.0378333333333,-153.070666666667,-0.61,-0.82,ml,4,186,,0.05,av,av91605041,2022-06-22T06:39:38.600Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.3,2.41,0.511222472354534,4,reviewed,av,av
 2022-06-21T14:53:59.702Z,26.8049,126.3854,10,4.8,mb,,53,1.686,0.5,us,us7000hj08,2022-06-21T15:51:31.040Z,"144 km WNW of Naha, Japan",earthquake,7,1.9,0.079,54,reviewed,us,us
-2022-06-21T14:32:17.700Z,36.037,-117.8593333,1.37,0.58,ml,10,132,0.03856,0.09,ci,ci40288568,2022-06-21T20:57:28.481Z,"8km E of Coso Junction, CA",earthquake,0.17,0.21,0.071,2,reviewed,ci,ci
