@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-25T20:24:46.627Z,62.8241,-149.4778,76.6,0.8,ml,,,,0.4,ak,ak02283emzsm,2022-06-25T20:26:21.347Z,"52 km NE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-06-25T20:22:57.758Z,5.9714,125.7253,145.46,4.5,mb,,117,1.1,0.7,us,us7000hk8i,2022-06-25T22:12:10.040Z,"5 km SE of Mangili, Philippines",earthquake,7.6,4.6,0.094,33,reviewed,us,us
 2022-06-25T20:20:12.380Z,48.2945,-121.878,8.29,0.89,md,9,136,0.1047,0.12,uw,uw61846217,2022-06-25T20:41:17.320Z,"4 km NE of Oso, Washington",earthquake,0.38,0.57,0.22181660800420167,7,reviewed,uw,uw
-2022-06-25T20:18:40.160Z,48.29416666666667,-121.8635,6.29,2.95,ml,28,54,0.1078,0.25,uw,uw61846212,2022-06-25T22:07:30.040Z,"5 km ENE of Oso, Washington",earthquake,0.39,1.31,0.17971914987887283,9,reviewed,uw,uw
+2022-06-25T20:18:40.160Z,48.29416666666667,-121.8635,6.29,2.95,ml,28,54,0.1078,0.25,uw,uw61846212,2022-06-25T22:41:42.607Z,"5 km ENE of Oso, Washington",earthquake,0.39,1.31,0.17971914987887283,9,reviewed,uw,uw
 2022-06-25T20:14:07.010Z,17.9986666666667,-66.8573333333333,10.71,2.44,md,5,195,,0.12,pr,pr71355968,2022-06-25T21:04:24.730Z,"2 km SE of Palomas, Puerto Rico",earthquake,1.15,0.99,0.0420957689525285,3,reviewed,pr,pr
 2022-06-25T19:51:42.880Z,38.8003349,-122.7983322,2.59,0.89,md,26,38,0.007981,0.02,nc,nc73750956,2022-06-25T20:02:11.151Z,"4km NW of The Geysers, CA",earthquake,0.21,0.43,0.04,5,automatic,nc,nc
 2022-06-25T19:49:28.400Z,38.8416672,-122.878334,2.4,0.9,md,8,93,0.005273,0.02,nc,nc73750951,2022-06-25T20:31:15.315Z,"13km ENE of Cloverdale, CA",earthquake,0.41,0.92,0.34,2,automatic,nc,nc
@@ -229,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-24T23:00:56.891Z,64.9578,-147.3012,0,1.4,ml,,,,1,ak,ak02281sqtq1,2022-06-24T23:03:49.565Z,"14 km E of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-24T23:00:51.660Z,53.9935,-166.091,18.31,0.55,ml,6,323,,0.08,av,av91064003,2022-06-25T07:42:39.200Z,"25 km SW of Akutan, Alaska",earthquake,1.58,1.54,0.305908651772187,6,reviewed,av,av
 2022-06-24T22:58:41.730Z,19.1688327789307,-155.474670410156,30.7299995422363,1.80999994,md,28,132,,0.119999997,hv,hv73054592,2022-06-24T23:01:46.920Z,"3 km S of Pāhala, Hawaii",earthquake,0.85,0.769999981,1.62,6,automatic,hv,hv
-2022-06-24T22:41:05.180Z,48.26316666666666,-120.7265,8.76,1.72,ml,11,109,0.3113,0.26,uw,uw61845982,2022-06-25T05:49:21.810Z,"46 km WSW of Twisp, Washington",earthquake,0.57,23.51,0.15913397121082273,2,reviewed,uw,uw
