@@ -211,5 +211,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-26T17:53:43.540Z,46.19116666666667,-122.18816666666666,1.26,-0.1,mh,8,205,0.008816,0.17,uw,uw61846482,2022-06-27T03:45:48.660Z,"37 km NNE of Amboy, Washington",earthquake,1.18,0.41,,0,reviewed,uw,uw
 2022-06-26T17:52:30.800Z,37.6258333,-118.8706667,0.12,1.54,md,16,87,0.009174,0.05,nc,nc73751371,2022-06-27T17:24:13.128Z,"10km E of Mammoth Lakes, CA",earthquake,0.31,0.33,0.059,10,reviewed,nc,nc
 2022-06-26T17:51:43.390Z,37.6258333,-118.8705,0.04,1.64,md,18,87,0.009086,0.04,nc,nc73751366,2022-06-27T17:34:13.198Z,"10km E of Mammoth Lakes, CA",earthquake,0.3,0.31,0.1,11,reviewed,nc,nc
-2022-06-26T17:50:13.250Z,37.624,-118.8691667,0.17,1.94,md,20,90,0.007024,0.06,nc,nc73751361,2022-06-27T16:38:10.846Z,"10km E of Mammoth Lakes, CA",earthquake,0.26,0.37,0.077,15,reviewed,nc,nc
-2022-06-26T17:47:38.370Z,47.594,-122.58133333333333,26.64,0.99,ml,12,143,0.1053,0.31,uw,uw61846477,2022-06-27T03:58:21.660Z,"Puget Sound region, Washington",earthquake,1.01,1.44,0.206801451568062,3,reviewed,uw,uw
+2022-06-26T17:50:13.250Z,37.624,-118.8691667,0.17,1.94,md,20,90,0.007024,0.06,nc,nc73751361,2022-06-27T17:45:14.260Z,"10km E of Mammoth Lakes, CA",earthquake,0.26,0.37,0.077,15,reviewed,nc,nc
