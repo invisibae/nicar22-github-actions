@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-04T14:47:07.710Z,19.4561672210693,-155.242340087891,27.3999996185303,1.82,ml,47,49,,0.119999997,hv,hv73064702,2022-07-04T14:52:38.470Z,"1 km NNW of Volcano, Hawaii",earthquake,0.4,0.629999995,4.4,13,automatic,hv,hv
 2022-07-04T14:45:13.430Z,62.3749,-150.6686,17.4,1.5,ml,,,,0.9,ak,ak0228i70y33,2022-07-04T14:47:33.954Z,"14 km SSE of Petersville, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-07-04T14:38:08.154Z,61.7183,-149.9531,44.5,1.2,ml,,,,0.6,ak,ak0228i6zfnz,2022-07-04T14:40:12.492Z,"5 km SE of Willow, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-07-04T14:25:32.549Z,62.9994,-148.2205,50.8,0.6,ml,,,,1.2,ak,ak0228i6wp5b,2022-07-04T14:31:58.529Z,"57 km SE of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -207,6 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-03T15:29:16.170Z,38.8286667,-122.8016663,1.74,0.91,md,15,62,0.008417,0.01,nc,nc73753906,2022-07-03T16:53:23.328Z,"7km W of Cobb, CA",earthquake,0.26,0.52,0.29,2,automatic,nc,nc
 2022-07-03T15:21:49.680Z,17.9853333333333,-66.839,17.77,2.38,md,23,164,,0.16,pr,pr71357258,2022-07-03T15:40:29.530Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.47,0.41,0.129959878324625,9,reviewed,pr,pr
 2022-07-03T15:13:17.150Z,35.546,-120.7995,5.81,0.86,md,24,54,0.06382,0.2,nc,nc73753916,2022-07-04T04:10:10.412Z,"8km W of Templeton, CA",earthquake,0.37,0.77,0.094,11,reviewed,nc,nc
-2022-07-03T14:54:22.460Z,38.7625,-122.7375,1.58,0.07,md,14,65,0.009923,0.03,nc,nc73753901,2022-07-03T19:53:23.384Z,"2km SE of The Geysers, CA",earthquake,0.31,0.26,0.147,3,reviewed,nc,nc
-2022-07-03T14:52:27.600Z,19.1656665802002,-155.467666625977,31.4400005340576,1.75999999,md,35,84,,0.170000002,hv,hv73063752,2022-07-03T14:55:39.820Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.76,1.13,1.57000005,6,automatic,hv,hv
-2022-07-03T14:51:10.231Z,-8.2052,119.5223,174.01,4.6,mb,58,64,1.834,0.83,us,us6000hzjv,2022-07-03T15:28:30.040Z,"42 km N of Komodo, Indonesia",earthquake,7.6,1,0.068,67,reviewed,us,us
