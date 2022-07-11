@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-11T08:54:12.010Z,38.786499,-122.7369995,1.81,0.66,md,11,103,0.003264,0.01,nc,nc73757361,2022-07-11T08:55:49.930Z,"2km ENE of The Geysers, CA",earthquake,0.32,0.63,0.12,3,automatic,nc,nc
 2022-07-11T08:50:57.570Z,19.2583332061768,-155.389007568359,32.4000015258789,1.99000001,md,34,184,,0.119999997,hv,hv73072332,2022-07-11T08:54:15.190Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.56,0.699999988,0.00999999978,9,automatic,hv,hv
 2022-07-11T08:44:19.925Z,38.5315,-119.4732,6.4,1.2,ml,17,151.32,0.039,0.1625,nn,nn00842562,2022-07-11T08:47:37.910Z,"1 km N of Walker, California",earthquake,,0.5,0.2,11,automatic,nn,nn
 2022-07-11T08:20:31.574Z,65.2001,-144.9493,8.4,1.8,ml,,,,1.51,ak,ak0228to2get,2022-07-11T08:23:07.555Z,"42 km S of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
