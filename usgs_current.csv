@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-16T09:42:44.440Z,33.7196667,-116.7426667,17.49,0.39,ml,14,152,0.02522,0.09,ci,ci40064383,2022-07-16T09:46:18.939Z,"3km SW of Idyllwild, CA",earthquake,0.29,0.36,0.193,7,automatic,ci,ci
 2022-07-16T09:37:58.151Z,38.1783,-117.8059,3.3,1,ml,8,191.06,0.127,0.1372,nn,nn00843043,2022-07-16T09:41:25.705Z,"35 km SE of Mina, Nevada",earthquake,,0.8,0.32,6,automatic,nn,nn
+2022-07-16T09:32:17.500Z,17.9866666666667,-66.8853333333333,14.77,2.31,md,20,85,,0.15,pr,pr71359838,2022-07-16T09:46:18.870Z,"1 km NNE of Maria Antonia, Puerto Rico",earthquake,0.46,0.43,0.123853351481643,8,reviewed,pr,pr
+2022-07-16T09:22:05.625Z,17.1336,147.4473,10,4.7,mb,55,135,4.313,0.54,us,us6000i306,2022-07-16T09:46:18.040Z,"279 km NE of Saipan, Northern Mariana Islands",earthquake,12.2,1.9,0.056,102,reviewed,us,us
 2022-07-16T09:19:58.530Z,60.544,-147.8427,17.1,1.8,ml,,,,0.57,ak,ak02291ycgul,2022-07-16T09:22:07.590Z,"52 km ESE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-16T09:13:39.510Z,17.9533333333333,-66.9283333333333,12.16,2.42,md,15,215,,0.14,pr,pr71359833,2022-07-16T09:33:03.060Z,"2 km SW of Guánica, Puerto Rico",earthquake,0.55,0.32,0.106952342163553,8,reviewed,pr,pr
 2022-07-16T09:12:22.997Z,38.7272,-116.0797,0,1.7,ml,8,155.99,1.388,0.286,nn,nn00843042,2022-07-16T09:18:05.321Z,"87 km S of Eureka, Nevada",earthquake,,18.9,0.11,7,automatic,nn,nn
@@ -274,5 +277,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-15T10:04:28.390Z,40.082,-121.1011667,3.22,1.54,md,7,249,0.3295,0.15,nc,nc73758836,2022-07-15T18:27:10.961Z,"5km E of Caribou, CA",earthquake,2.96,31.61,0.069,6,reviewed,nc,nc
 2022-07-15T10:02:34.170Z,52.0106666666667,-176.015833333333,10.73,0.78,ml,4,289,,0.23,av,av91066118,2022-07-15T23:59:47.310Z,"45 km ENE of Adak, Alaska",earthquake,1.36,1.69,0.423351036548469,4,reviewed,av,av
 2022-07-15T09:52:48.149Z,38.7183,-116.1109,7.4,1.6,ml,6,155.35,0.843,0.1436,nn,nn00842948,2022-07-15T21:10:44.821Z,"89 km S of Eureka, Nevada",earthquake,,8.6,0.04,2,reviewed,nn,nn
-2022-07-15T09:48:00.720Z,33.2741667,-115.985,4.4,1.59,ml,48,33,0.1006,0.2,ci,ci40063767,2022-07-15T09:58:43.430Z,"4km SW of Salton City, CA",earthquake,0.22,1.05,0.166,27,automatic,ci,ci
-2022-07-15T09:47:06.520Z,37.5978333,-113.3133333,8.34,1,ml,7,80,0.06133,0.07,uu,uu60505862,2022-07-15T15:57:49.000Z,"13 km N of New Harmony, Utah",earthquake,0.4,1.02,0.288,4,reviewed,uu,uu
