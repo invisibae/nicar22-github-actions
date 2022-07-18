@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-18T07:54:26.940Z,38.7453346,-122.716835,1.19,0.86,md,10,132,0.01741,0.04,nc,nc73760166,2022-07-18T07:56:02.149Z,"4km SSW of Anderson Springs, CA",earthquake,0.41,0.48,0.03,4,automatic,nc,nc
+2022-07-18T07:50:05.510Z,38.7428322,-122.713501,1.22,2.04,md,33,67,0.02073,0.04,nc,nc73760156,2022-07-18T07:51:42.086Z,"4km SSW of Anderson Springs, CA",earthquake,0.2,0.27,0.06,11,automatic,nc,nc
+2022-07-18T07:47:53.700Z,38.8206673,-122.8026657,1.75,0.84,md,13,80,0.006396,0.07,nc,nc73760151,2022-07-18T07:49:26.933Z,"6km NW of The Geysers, CA",earthquake,0.33,0.77,,1,automatic,nc,nc
 2022-07-18T07:43:28.540Z,64.7768,-149.2409,15.2,1,ml,,,,0.42,ak,ak022958ddhy,2022-07-18T07:45:50.543Z,"20 km NNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-18T07:41:12.923Z,38.1693,-117.8321,8.8,0.6,ml,12,183.05,0.105,0.0839,nn,nn00843147,2022-07-18T07:45:49.517Z,"34 km SE of Mina, Nevada",earthquake,,0.5,0.26,7,automatic,nn,nn
 2022-07-18T07:23:02.268Z,61.5495,-146.0667,36,1.9,ml,,,,0.67,ak,ak022958915e,2022-07-18T07:25:34.874Z,"48 km WSW of Tonsina, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -268,6 +271,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-17T08:13:15.550Z,35.5993333,-117.5523333,4.07,1.08,ml,12,124,0.1597,0.12,ci,ci40065079,2022-07-17T13:29:36.123Z,"11km ESE of Ridgecrest, CA",earthquake,0.45,0.88,0.247,13,reviewed,ci,ci
 2022-07-17T08:08:54.724Z,38.6893,-116.3045,0.5,2.1,ml,18,192.9,1.26,0.4961,nn,nn00843090,2022-07-17T08:12:44.291Z,"87 km SE of Kingston, Nevada",earthquake,,6.5,0.3,8,automatic,nn,nn
 2022-07-17T08:06:41.620Z,35.9885,-117.8918333,2.92,0.54,ml,13,127,0.01923,0.13,ci,ci40065071,2022-07-17T08:10:07.112Z,"6km NNE of Little Lake, CA",earthquake,0.36,0.63,0.037,3,automatic,ci,ci
-2022-07-17T07:56:05.210Z,35.8811667,-117.6981667,11.45,0.36,ml,7,169,0.09048,0.19,ci,ci40065063,2022-07-17T07:59:36.051Z,"20km ESE of Little Lake, CA",earthquake,0.99,1.31,0.12,3,automatic,ci,ci
-2022-07-17T07:55:55.200Z,19.2053337097168,-155.470001220703,38.3899993896484,2.46,ml,40,96,,0.100000001,hv,hv73077727,2022-07-17T08:32:38.040Z,"0 km ENE of Pāhala, Hawaii",earthquake,0.46,0.460000008,0.35,3,automatic,hv,hv
-2022-07-17T07:52:06.610Z,33.2731667,-115.9778333,3.5,1.65,ml,44,87,0.09941,0.21,ci,ci40065055,2022-07-17T08:03:26.100Z,"4km SW of Salton City, CA",earthquake,0.28,0.78,0.153,27,automatic,ci,ci
