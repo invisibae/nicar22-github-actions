@@ -5,6 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-27T13:28:31.610Z,38.8356667,-122.8001633,2.31,0.71,md,15,63,0.008143,0.02,nc,nc73763386,2022-07-27T13:46:14.908Z,"7km WNW of Cobb, CA",earthquake,0.29,0.65,0.14,2,automatic,nc,nc
 2022-07-27T13:08:02.370Z,60.7171,-149.9521,34,1.6,ml,,,,0.4,ak,ak0229k7kjhp,2022-07-27T13:10:00.512Z,"26 km NNW of Cooper Landing, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-27T12:59:01.373Z,63.2883,-151.7858,0,2,ml,,,,0.91,ak,ak0229k7a1bx,2022-07-27T13:01:12.310Z,"28 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-07-27T12:56:32.090Z,44.349,-115.1735,6.74,2.34,ml,11,64,0.945,0.25,mb,mb80552604,2022-07-27T14:35:10.370Z,"23 km NW of Stanley, Idaho",earthquake,0.55,1.27,0.174,12,reviewed,mb,mb
 2022-07-27T12:55:06.870Z,33.309,-116.7605,14.35,1.79,ml,59,23,0.07284,0.22,ci,ci40070527,2022-07-27T13:05:28.910Z,"8km N of Lake Henshaw, CA",earthquake,0.22,0.5,0.227,27,automatic,ci,ci
 2022-07-27T12:40:14.313Z,38.1622,-118.1172,4,0.7,ml,12,144.85,0.11,0.2726,nn,nn00843668,2022-07-27T12:45:36.024Z,"25 km S of Mina, Nevada",earthquake,,1.8,0.14,8,automatic,nn,nn
 2022-07-27T12:38:33.880Z,39.466835,-122.9524994,-0.07,1.56,md,11,127,0.1648,0.13,nc,nc73763371,2022-07-27T14:00:10.990Z,"6km N of Lake Pillsbury, CA",earthquake,0.64,11.55,0.16,5,automatic,nc,nc
@@ -136,7 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-27T01:05:45.946Z,61.6893,-154.0907,0,1.8,ml,,,,0.71,ak,ak0229k0esg2,2022-07-27T01:07:56.347Z,"80 km ENE of Lime Village, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-07-27T01:03:23.173Z,61.7155,-154.1998,5.7,1.6,ml,,,,1.11,ak,ak0229k0eb6o,2022-07-27T01:05:39.420Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-27T00:43:24.382Z,17.5601,120.8011,10,7,mww,151,18,5.237,0.75,us,us6000i5rd,2022-07-27T14:33:57.491Z,"13 km SE of Dolores, Philippines",earthquake,5,1.6,0.044,50,reviewed,us,us
-2022-07-27T00:32:27.000Z,33.2923317,-116.2139969,9.84,1.22,ml,27,74,0.1049,0.21,ci,ci40070263,2022-07-27T00:35:53.834Z,"16km ENE of Borrego Springs, CA",earthquake,0.35,0.73,0.248,3,automatic,ci,ci
+2022-07-27T00:32:26.960Z,33.2925,-116.2115,9.62,1.13,ml,43,45,0.1057,0.18,ci,ci40070263,2022-07-27T14:44:12.128Z,"16km ENE of Borrego Springs, CA",earthquake,0.19,0.55,0.16,25,reviewed,ci,ci
 2022-07-27T00:29:27.318Z,58.8254,-151.4457,50.2,2,ml,,,,0.56,ak,ak0229jzygl7,2022-07-27T00:31:30.743Z,"62 km SSE of Port Graham, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2022-07-27T00:27:10.990Z,38.8241653,-122.7986679,3.1,0.35,md,8,119,0.008943,0.02,nc,nc73763196,2022-07-27T00:41:20.252Z,"6km NW of The Geysers, CA",earthquake,0.66,1.45,,1,automatic,nc,nc
 2022-07-27T00:23:45.570Z,37.3598333,-118.6916667,14.8,1.29,md,21,104,0.1025,0.06,nc,nc73763191,2022-07-27T06:16:11.157Z,"10km SW of Round Valley, CA",earthquake,0.29,0.99,0.101,11,reviewed,nc,nc
